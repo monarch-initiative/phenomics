@@ -1,7 +1,7 @@
 # Mondo Disease Ontology Workshop
 
 **Dates:** November 27-29, 2018  
-**Location:** Broad Institute, Cambridge, MA, USA 
+**Location:** Broad Institute, Cambridge, MA, USA  
 **Workshop Organizers:** Nicole Vasilevsky (OHSU), Chris Mungall (LBNL), Melissa Haendel (OHSU/OSU)   
 
 ### Focus areas
