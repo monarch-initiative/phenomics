@@ -5,7 +5,7 @@ The Phenomics workshop series is a series of conferences and community gathering
 Topic | Dates | Location
 -- | -- | --
 Phenomics Hackathon | May 29-30 2018 | Toronto, Canada 
-[Phenotypes Traversing All the Organisms Workshop (POTATO)](pages/potato.md) | August 2018  | Corvallis, Oregon, USA
+[Phenotypes Traversing All the Organisms Workshop (POTATO)](pages/potato.md) | August 07, 2018  | Corvallis, Oregon, USA
 [Mondo Disease Ontology Workshop](pages/mondo.md) | November 27-28, 2018 | Cambridge, MA, USA
 [Phenotypes Traversing All the Organisms Workshop (POTATO2)](pages/potato.md) | April 07, 2019 | Cambridge, UK
 [Phenopackets Hackathon](pages/phenopackets.md) | April 30, 2019 | Hinxton, UK
