@@ -12,7 +12,7 @@
 ## POTATO2
 **Dates:** April, 2019  
 **Location:** Biocuration2019, Cambridge, UK    
-**Workshop Organizers:** David Osumi-Sutherland (EBI), Nico Matentzoglu (EBI), Nicole Vasilevsky (OHSU), Chris Mungall (LBNL), Jim Balhoff (RENCI), Melissa Haendel (OHSU/OSU)     
+**Workshop Organizers:** David Osumi-Sutherland (EBI), Nico Matentzoglu (EBI), Nicole Vasilevsky (OHSU), Chris Mungall (LBNL)  
 
 **Report:** [Phenotype Ontologies Traversing All The Organisms (POTATO) workshop: 2nd edition](https://zenodo.org/record/3352149#.Xa4u5JNKgl4) 
 
