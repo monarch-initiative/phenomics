@@ -1,4 +1,4 @@
-The Phenomics workshop series is a series of conferences and community gatherings to coalesce phenomics informatics data structures, ontologies, algorithms, and tools. 
+The Phenomics workshops are a series of conferences and community gatherings to coalesce phenomics informatics data structures, ontologies, algorithms, and tools. 
 
 #### Workshops
 
@@ -15,7 +15,7 @@ Topic | Dates | Location
 
 Topic | Dates | Location
 -- | -- | --
-Clinical Data Workshop | TBD | TBD
+Clin-Phen Data Workshop | TBD | TBD
 [Phenotypes Traversing All the Organisms Workshop (POTATO3)](pages/potato.md) | TBD | TBD
 
 #### Funding
