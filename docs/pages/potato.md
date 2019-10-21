@@ -7,8 +7,11 @@
 **Location:** International Conference on Biological Ontologies (ICBO), Corvallis, Oregon  
 **Workshop Organizers:** David Osumi-Sutherland (EBI), Nico Matentzoglu (EBI), Nicole Vasilevsky (OHSU), Chris Mungall (LBNL), Jim Balhoff (RENCI), Melissa Haendel (OHSU/OSU)   
 
+#### GitHub
+[https://github.com/obophenotype/upheno](https://github.com/obophenotype/upheno)
+
 #### Focus areas
-_Coming soon_
+Logical definitions, in particular those following the Entity-Quality approach, are increasingly used to drive automated classification of phenotypes and integrate phenotypes across species semantically. Over the years, the lack of consistent and widespread use of common standards resulted in conceptually equivalent or similar phenotypes with logically divergent definitions. Recently, pattern-based approaches such as Dead Simple Ontology Design Patterns (DOSDP) have emerged as a way to reconcile such divergent definitions on a large scale. To facilitate the widespread adoption of DOSDP-based phenotype ontology development and to organise the reconciliation process involving key model organism communities, we have established the Phenotype Ontologies Traversing All The Organisms (POTATO) Workshop Series. These workshops are part of the NIH-funded “Forums for Integrative Phenomics” conference award, which provide a venue for phenotype ontology developers and phenomics informaticians to align their goals and technical approaches. The first POTATO workshop provided training in cutting-edge tools and techniques for developing and releasing ontologies using design patterns and automated imports. This workshop also featured collaborative exercises in reconciling divergent logical definitions drawn from major phenotype ontologies that resulted in a set of general recommendations for how to improve phenotype ontologies and their development as well as a set of reconciled definitions. As a result of the workshop, many of the attendees have joined a phenotype ontology reconciliation effort, aimed at developing and implementing common design patterns across a range of phenotype ontologies.
 
 #### Report 
 [Phenotype Ontologies Traversing All The Organisms (POTATO) workshop aims to reconcile logical definitions across species](https://zenodo.org/record/2382757)  
