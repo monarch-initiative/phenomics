@@ -19,7 +19,7 @@ Clinical Data Workshop | TBD | TBD
 [Phenotypes Traversing All the Organisms Workshop (POTATO3)](pages/potato.md) | TBD | TBD
 
 #### Funding
-The Phenomics workshops were funded by NIH U13 #5U13CA221044-03.
+These workshops were supported by an NIH conference grant “Forums for Integrative phenomics” to Melissa Haendel and Peter Robinson: 1U13CA221044.
 
 #### Contact
 If you’re interested in receiving email updates about upcoming workshops, please contact [monarchinitiative@gmail.com](mailto:monarchinitiative@gmail.com).
