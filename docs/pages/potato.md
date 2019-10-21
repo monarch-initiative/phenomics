@@ -18,4 +18,4 @@
 
 **Funding:** The workshop was funded by NIH Office of the Director Grant #5R24OD011883, as well as by the phenomics conference grant 5U13CA221044-03. Coffee and other sustenance was kindly provided by the International Society for Biocuration. A big thank you goes to Midori Harris who oversaw the workshop logistics and ensured a surprise-free workshop experience! ERRATA: The funding statement in the PDF is replaced by the one above.
 
-**Contact:** T To join the Phenotype Ontology Reconciliation Effort or for any other questions, pleasecontact Nico Matentzoglu: [nicolas.matentzoglu@ebi.ac.uk](mailto:nicolas.matentzoglu@ebi.ac.uk) or NicoleVasilevsky: [vasilevs@ohsu.edu{mailto:vasilevs@ohsu.edu)
+**Contact:** To join the Phenotype Ontology Reconciliation Effort or for any other questions, pleasecontact Nico Matentzoglu: [nicolas.matentzoglu@ebi.ac.uk](mailto:nicolas.matentzoglu@ebi.ac.uk) or NicoleVasilevsky: [vasilevs@ohsu.edu{mailto:vasilevs@ohsu.edu)
