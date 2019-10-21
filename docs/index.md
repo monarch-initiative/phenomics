@@ -1,6 +1,4 @@
-The Phenomics workshops are a series of conferences and community gatherings to coalesce phenomics informatics data structures, ontologies, algorithms, and tools. 
-
-#### Workshops
+### Workshops
 
 Topic | Dates | Location
 -- | -- | --
@@ -11,7 +9,7 @@ Topic | Dates | Location
 [Phenopackets Hackathon](pages/phenopackets.md) | April 30, 2019 | Hinxton, UK
 [Computable Exposures](pages/exposures.md) | September 9-10, 2019 | Corvallis, Oregon, USA
 
-#### Planned Future Workshops
+### Planned Future Workshops
 
 Topic | Dates | Location
 -- | -- | --
