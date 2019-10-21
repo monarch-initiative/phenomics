@@ -1,4 +1,4 @@
-The Phenomics workshop series brings together stakeholders from various backgrounds and different disciplines to discuss the translational bioinformatics projects listed below. 
+The Phenomics workshop series is a series of conferences and community gatherings to coalesce phenomics informatics data structures, ontologies, algorithms, and tools. 
 
 #### Workshops
 
