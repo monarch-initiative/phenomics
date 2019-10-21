@@ -3,7 +3,7 @@
 ## Phenopackets Hackathon
 
 **Dates:** April 30, 2019  
-**Location:** Hinxton, UK 
+**Location:** Hinxton, UK  
 **Workshop Organizers:** Melissa Haendel (OHSU/OSU), Peter Robinson (Jax), Jules Jacobsen (QML), and Monica Munoz-Torres (OSU)
 
 ### Focus areas
