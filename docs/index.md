@@ -17,7 +17,7 @@ Clin-Phen Data Workshop | TBD | TBD
 [Phenotypes Traversing All the Organisms Workshop (POTATO3)](pages/potato.md) | TBD | TBD
 
 #### Funding
-These workshops were supported by an NIH conference grant “Forums for Integrative phenomics” to Melissa Haendel and Peter Robinson: 1U13CA221044.
+These workshops were supported by an NIH BD2K conference grant “Forums for Integrative phenomics” to Melissa Haendel and Peter Robinson: U13CA221044.
 
 #### Contact
 If you’re interested in receiving email updates about upcoming workshops, please contact [monarchinitiative@gmail.com](mailto:monarchinitiative@gmail.com).
