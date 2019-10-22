@@ -40,4 +40,4 @@ The workshop was funded by NIH Office of the Director Grant #5R24OD011883, as we
 **Location:** TBD  
 
 #### Contact
-To join the Phenotype Ontology Reconciliation Effort or for any other questions, pleasecontact Nico Matentzoglu: [nicolas.matentzoglu@ebi.ac.uk](mailto:nicolas.matentzoglu@ebi.ac.uk) or NicoleVasilevsky: [vasilevs@ohsu.edu](mailto:vasilevs@ohsu.edu)
+To join the Phenotype Ontology Reconciliation Effort or for any other questions, please contact Nico Matentzoglu: [nicolas.matentzoglu@ebi.ac.uk](mailto:nicolas.matentzoglu@ebi.ac.uk) or Nicole Vasilevsky: [vasilevs@ohsu.edu](mailto:vasilevs@ohsu.edu)
