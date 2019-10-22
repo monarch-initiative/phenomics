@@ -17,6 +17,9 @@ Slide decks from the workshop are available [here](https://drive.google.com/driv
 #### Relevant blog post
 [New release of Mondo Disease Ontology](https://medium.com/@MonarchInit/new-release-of-mondo-disease-ontology-9a48521353e3)
 
+#### Manuscript
+A manuscript informed by this workshop is currently in preparation.
+
 #### GitHub
  [https://github.com/monarch-initiative/mondo](https://github.com/monarch-initiative/mondo)
 
