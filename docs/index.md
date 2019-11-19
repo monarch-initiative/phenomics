@@ -13,7 +13,7 @@ Topic | Dates | Location
 
 Topic | Dates | Location
 -- | -- | --
-Clin-Phen Data Workshop | TBD | TBD
+[Clin-Phen Data Workshop](pagesclin-phen.md) | April 09-10, 2020 | Philadelphia, PA
 [Phenotypes Traversing All the Organisms Workshop (POTATO3)](pages/potato.md) | TBD | TBD
 
 #### Funding
