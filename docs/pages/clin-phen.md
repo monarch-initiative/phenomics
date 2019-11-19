@@ -2,6 +2,9 @@
 
 _Tentative agenda_
 
+**When:** April 09-10, 2020
+**Where:** Children's Hospital of Pennsylvania (CHOP), Philadelphia, PA
+
 ### Background
 
 As more Kids First genomic datasets become accessible to the research community, it is becoming more apparent that deeper, harmonized clinical and phenotypic data will be critical to empower genetic discovery and cross-dataset analyses, which will ultimately lead to improved diagnostics and therapies. 
