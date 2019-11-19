@@ -29,7 +29,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 **Session 6: Breakout II: Generate “Kids First” phenotype data collection standards**
 
-**Group Discussion: What are the next steps? How to continue to develop these standards? How to communicate the standards with other Kids First researchers?:**  
+**Session 7: Group Discussion: What are the next steps?** How to continue to develop these standards? How to communicate the standards with other Kids First researchers?:  
 
-**Session 7: Neurodevelopmental Outcomes**
+**Session 8: Neurodevelopmental Outcomes**
 
