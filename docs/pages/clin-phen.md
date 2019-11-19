@@ -25,11 +25,11 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 **Session 4: Breakout session I.** Small Breakouts will include translational teams of X01 investigators, developmental biologists and basic researchers, tool developers and ontologists/data modelers. The breakouts will focus on defining end-to-end phenotype collection to integration processes to address specific clinical or translational questions.
 
-**Session 5:** Tools to support strengthening Kids First phenotypic datasets
+**Session 5: Tools to support strengthening Kids First phenotypic datasets**
 
-**Session 6:** Breakout II: Generate “Kids First” phenotype data collection standards
+**Session 6: Breakout II: Generate “Kids First” phenotype data collection standards**
 
-**Group Discussion:** What are the next steps? How to continue to develop these standards? How to communicate the standards with other Kids First researchers?  
+**Group Discussion: What are the next steps? How to continue to develop these standards? How to communicate the standards with other Kids First researchers?:**  
 
-**Session 7:** Neurodevelopmental Outcomes
+**Session 7: Neurodevelopmental Outcomes**
 
