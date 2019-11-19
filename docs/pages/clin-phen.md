@@ -1,7 +1,5 @@
 ## Clinical-Phenotype Data Workshop 
 
-_Tentative agenda_
-
 **When:** April 09-10, 2020  
 **Where:** Children's Hospital of Pennsylvania (CHOP), Philadelphia, PA
 
@@ -13,6 +11,8 @@ Some grant mechanisms such as [NOT-DE-19-016](https://grants.nih.gov/grants/guid
 ### Purpose
 
 The goal of this workshop to generate a core/consensus set of clinical/phenotypic data elements that are extremely important for Kids First childhood cancer and structural birth defects datasets, and potential overlapping etiologies of these conditions. Another goal is to brainstorm ideas for developing tools and resources for collecting deeper (in some cases disease- or modality- specific) data that will be valuable for increasing understanding of individual pediatric conditions. Kids First X01 investigators, developmental biologists, ontologists, and tool developers will be brought together to inform this process. 
+
+_Tentative agenda_
 
 ### Day 1
 
