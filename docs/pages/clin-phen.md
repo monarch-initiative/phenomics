@@ -19,7 +19,7 @@ The goal of this workshop to generate a core/consensus set of clinical/phenotypi
 
 **Session 3:** Which standards exist? Which should we use?
 
-**Session 4:** Breakout session (TBD)
+**Session 4:** Breakout session I (TBD)
 
 ### Day 2 
 
