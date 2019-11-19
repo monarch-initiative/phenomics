@@ -18,7 +18,7 @@ The goal of this workshop to generate a core/consensus set of clinical/phenotypi
 
 **Session 1:** Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts)
 
-**Session 2:** X01 Investigator Lightning Rounds
+**Session 2:** [X01 Investigator](https://commonfund.nih.gov/kidsfirst/x01projects) Lightning Rounds
 
 **Session 3:** Which standards exist? Which should we use?
 
