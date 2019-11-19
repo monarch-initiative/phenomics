@@ -1,9 +1,9 @@
 ## Clinical-Phenotype Data Workshop 
 
-**When:** April 09-10, 2020
-Thursday, 8AM - 5PM ET
-Friday, 8AM - 3PM ET
-**Where:** Children's Hospital of Pennsylvania (CHOP), Philadelphia, PA
+**When:** April 09-10, 2020  
+Thursday, 8AM - 5PM ET  
+Friday, 8AM - 3PM ET  
+**Where:** Children's Hospital of Pennsylvania (CHOP), Philadelphia, PA  
 
 ### Background
 
