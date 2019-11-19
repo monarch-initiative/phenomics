@@ -14,8 +14,7 @@ The goal of this workshop to generate a core/consensus set of clinical/phenotypi
 
 ## Tentative agenda
 
-### Day 1
-Thursday, April 09, 8AM - 5PM ET   
+### Day 1, Thursday, April 09, 8AM - 5PM ET   
 
 **Session 1:** Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts)
 
@@ -25,8 +24,7 @@ Thursday, April 09, 8AM - 5PM ET
 
 **Session 4:** Breakout session I (TBD)
 
-### Day 2 
-Friday, April 10, 8AM - 3PM ET 
+### Day 2, Friday, April 10, 8AM - 3PM ET 
 
 **Intro:** Summarize Discussions from Day 1
 
