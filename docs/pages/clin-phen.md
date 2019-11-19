@@ -1,6 +1,9 @@
 ## Innovation across the Phenotypic Translational Divide Workshop
 
-**When:** April 09-10, 2020  
+**Dates:** April 09-10, 2020  
+**Time:** 
+Day 1, Thursday, April 09, 8AM - 5PM ET  
+Day 2, Friday, April 10, 8AM - 3PM ET 
 **Where:** Children's Hospital of Pennsylvania (CHOP), Philadelphia, PA  
 
 ### Background
@@ -14,8 +17,6 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 ## Tentative agenda
 
-### Day 1, Thursday, April 09, 8AM - 5PM ET   
-
 **Session 1: Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts).** What are the most informative translational questions? What is the value of collecting additional phenotype data?
 
 **Session 2: [X01 Investigator](https://commonfund.nih.gov/kidsfirst/x01projects) Lightning Rounds.** In this session, the X01 investigators will be invited to describe their phenotyping efforts (e.g. data dictionaries, standards, methods used) and ideas for how they could be improved for both clinical utility as well as translational discovery.
@@ -23,10 +24,6 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 **Session 3: Phenotypes in harmony.** What standards and methods exist to create harmonize phenotypes and support translational interoperability for mechanism discovery? 
 
 **Session 4: Breakout session I.** Small Breakouts will include translational teams of X01 investigators, developmental biologists and basic researchers, tool developers and ontologists/data modelers. The breakouts will focus on defining end-to-end phenotype collection to integration processes to address specific clinical or translational questions.
-
-### Day 2, Friday, April 10, 8AM - 3PM ET 
-
-**Intro:** Summarize Discussions from Day 1
 
 **Session 5:** Tools to support strengthening Kids First phenotypic datasets
 
