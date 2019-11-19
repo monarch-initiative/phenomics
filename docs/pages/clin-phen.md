@@ -3,7 +3,7 @@
 **Dates:** April 09-10, 2020  
 **Time:** 
 Day 1, Thursday, April 09, 8AM - 5PM ET  
-Day 2, Friday, April 10, 8AM - 3PM ET 
+Day 2, Friday, April 10, 8AM - 3PM ET  
 **Where:** Children's Hospital of Pennsylvania (CHOP), Philadelphia, PA  
 
 ### Background
