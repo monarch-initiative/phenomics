@@ -2,7 +2,7 @@
 
 _Tentative agenda_
 
-**When:** April 09-10, 2020
+**When:** April 09-10, 2020  
 **Where:** Children's Hospital of Pennsylvania (CHOP), Philadelphia, PA
 
 ### Background
