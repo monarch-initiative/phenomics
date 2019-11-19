@@ -1,4 +1,4 @@
-## Clinical-Phenotype Data Workshop 
+## Translational Clinical Phenotype Data Innovation Workshop
 
 **When:** April 09-10, 2020  
 Thursday, 8AM - 5PM ET  
