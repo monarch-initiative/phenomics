@@ -1,8 +1,6 @@
 ## Translational Clinical Phenotype Data Innovation Workshop
 
 **When:** April 09-10, 2020  
-Thursday, 8AM - 5PM ET  
-Friday, 8AM - 3PM ET  
 **Where:** Children's Hospital of Pennsylvania (CHOP), Philadelphia, PA  
 
 ### Background
@@ -17,6 +15,7 @@ The goal of this workshop to generate a core/consensus set of clinical/phenotypi
 ## Tentative agenda
 
 ### Day 1
+Thursday, April 09, 8AM - 5PM ET   
 
 **Session 1:** Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts)
 
@@ -27,6 +26,7 @@ The goal of this workshop to generate a core/consensus set of clinical/phenotypi
 **Session 4:** Breakout session I (TBD)
 
 ### Day 2 
+Friday, April 10, 8AM - 3PM ET 
 
 **Intro:** Summarize Discussions from Day 1
 
