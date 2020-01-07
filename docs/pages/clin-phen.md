@@ -5,7 +5,7 @@ Date | Day | Time
 April 09, 2020 | Thursday | 8am - 5pm ET  
 April 10, 2020 | Friday | 8am - 3pm ET  
 
-**Location:** 
+**Location:**   
 Children's Hospital of Pennsylvania (CHOP)  
 Roberts Center for Pediatric Research  
 [2716 South Street, Philadelphia, PA 19146](https://www.google.com/maps/place/2716+South+St,+Philadelphia,+PA+19146/@39.945664,-75.1887371,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6c643a00a67ef:0xd0156a32f0be7710!8m2!3d39.945664!4d-75.1865484)  
