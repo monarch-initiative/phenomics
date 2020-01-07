@@ -1,14 +1,15 @@
 ## Innovation across the Phenotypic Translational Divide Workshop
 
-**Dates:** April 09-10, 2020  
-**Time:**   
-Day 1, Thursday, April 09, 8AM - 5PM ET  
-Day 2, Friday, April 10, 8AM - 3PM ET  
-**Where:** Children's Hospital of Pennsylvania (CHOP), Philadelphia, PA  
+Date | Day | Time
+-- | -- | --
+April 09, 2020 | Thursday | 8am - 5pm ET  
+April 10, 2020 | Friday | 8am - 3pm ET  
+
+**Location:** Children's Hospital of Pennsylvania (CHOP), Philadelphia, PA  
 Roberts Center for Pediatric Research  
 [2716 South Street, Philadelphia, PA 19146](https://www.google.com/maps/place/2716+South+St,+Philadelphia,+PA+19146/@39.945664,-75.1887371,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6c643a00a67ef:0xd0156a32f0be7710!8m2!3d39.945664!4d-75.1865484)  
 Main room: 1120B  
-Breakout room: 1120A   
+Breakout room: 1120A  
 
 ### Background
 
