@@ -12,6 +12,9 @@ Roberts Center for Pediatric Research
 Main room: 1120B  
 Breakout room: 1120A  
 
+**Recommended hotel:**
+[The Inn at Penn](https://www3.hilton.com/en/hotels/pennsylvania/the-inn-at-penn-a-hilton-hotel-PHLIDHH/index.html?WT.mc_id=zlada0ww1hi2psh3ggl4advcty5dkt6multibr7_153669424_1003528&gclid=CjwKCAiA6vXwBRBKEiwAYE7iSxE7Sys9TshVmauM0SldKRli4EsqtZePORAmA2TkHZ8qJXevlEvJ1RoCSfIQAvD_BwE&gclsrc=aw.ds), 3600 Sansom St, Philadelphia, PA 19104.
+
 ### Background
 
 As more [Kids First](https://kidsfirstdrc.org/) genomic datasets become accessible to the research community, it is becoming more apparent that deeper, harmonized clinical and phenotypic data will be critical to empower genetic discovery and cross-dataset analyses, which will ultimately lead to improved diagnostics and therapies. 
