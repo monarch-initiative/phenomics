@@ -27,6 +27,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 ## Agenda
 
 **Session 1: Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts).** What are the most informative translational questions? What is the value of collecting additional phenotype data?  
+  
 _Speakers:_
 - Melissa Haendel: Computational Perspectives and Ontologies 101
 - TBD...
