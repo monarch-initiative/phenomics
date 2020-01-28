@@ -26,7 +26,11 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 ## Agenda
 
-**Session 1: Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts).** What are the most informative translational questions? What is the value of collecting additional phenotype data?
+**Session 1: Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts).** What are the most informative translational questions? What is the value of collecting additional phenotype data?  
+_Speakers:_
+- Melissa Haendel: Computational Perspectives and Ontologies 101
+- TBD...
+- Deanne Taylor: Analysis: Gaps in current Kids First datasets
 
 **Session 2: [X01 Investigator](https://commonfund.nih.gov/kidsfirst/x01projects) Lightning Rounds.** In this session, the X01 investigators will be invited to describe their phenotyping efforts (e.g. data dictionaries, standards, methods used) and ideas for how they could be improved for both clinical utility as well as translational discovery.
 
