@@ -36,6 +36,7 @@ _Speakers:_
 **Session 2: [X01 Investigator](https://commonfund.nih.gov/kidsfirst/x01projects) Lightning Rounds.** In this session, the X01 investigators will be invited to describe their phenotyping efforts (e.g. data dictionaries, standards, methods used) and ideas for how they could be improved for both clinical utility as well as translational discovery.
 
 **Session 3: Phenotypes in harmony.** What standards and methods exist to create harmonize phenotypes and support translational interoperability for mechanism discovery? 
+  
 _Speaker:_ Melissa Haendel
 
 **Session 4: Breakout session I.** Small Breakouts will include translational teams of X01 investigators, developmental biologists and basic researchers, tool developers and ontologists/data modelers. The breakouts will focus on defining end-to-end phenotype collection to integration processes to address specific clinical or translational questions.
