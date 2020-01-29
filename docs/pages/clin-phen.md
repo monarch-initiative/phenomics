@@ -24,8 +24,6 @@ Some grant mechanisms such as [NOT-DE-19-016](https://grants.nih.gov/grants/guid
 
 This event is co-planned by the [Monarch Initiative](https://monarchinitiative.org/) and the [Kids First Data Resource Center (DRC)](https://kidsfirstdrc.org/). Our goal is to improve phenotype data collection and harmonization of Kids First datasets ([The Discovery of the Genetic Basis of Childhood Cancers and of Structural Birth Defects X01 cohorts](https://commonfund.nih.gov/kidsfirst/x01projects)) and generate a core/consensus set of clinical/phenotypic data elements that are extremely important for Kids First childhood cancer and structural birth defects datasets, and potential overlapping etiologies of these conditions. Another goal is to brainstorm ideas for developing tools and resources for collecting deeper (in some cases disease- or modality- specific) data that will be valuable for increasing understanding of individual pediatric conditions. Kids First X01 investigators, developmental biologists, ontologists, and tool developers will be brought together to inform this process.  
 
-Slides are available [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
-
 ## Agenda
 
 **Session 1: Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts).** What are the most informative translational questions? What is the value of collecting additional phenotype data?  
@@ -50,4 +48,8 @@ _Speaker:_ Melissa Haendel
 **Session 7: Group Discussion: What are the next steps?** How to continue to develop these standards? How to communicate the standards with other Kids First researchers?:  
 
 **Session 8: Neurodevelopmental Outcomes**
+
+## Slides
+
+Slides are available [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
 
