@@ -37,7 +37,8 @@ _Confirmed speakers:_
 **Session 2: [X01 Investigator](https://commonfund.nih.gov/kidsfirst/x01projects) Lightning Rounds.** In this session, the X01 investigators will be invited to describe their phenotyping efforts (e.g. data dictionaries, standards, methods used) and ideas for how they could be improved for both clinical utility as well as translational discovery.  
 _Confirmed speakers:_  
  - Philip Lupo
-  - Carole Wise
+ - Carole Wise
+ - Joaquin Espinosa
 
 **Session 3: Phenotypes in harmony.** What standards and methods exist to create harmonize phenotypes and support translational interoperability for mechanism discovery? 
   
