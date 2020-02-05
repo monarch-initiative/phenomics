@@ -38,6 +38,8 @@ _Confirmed speakers:_
  - Philip Lupo
  - Carole Wise
  - Joaquin Espinosa
+ - Stephanie Ware
+ - Stephanie Sherman
 
 **Session 3: Phenotypes in harmony.** What standards and methods exist to create harmonize phenotypes and support translational interoperability for mechanism discovery? 
   
