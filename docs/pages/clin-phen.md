@@ -27,19 +27,19 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 ## Agenda
 
 ### Day 1 
-1. **Nicole Vasilevsky and Valerie Cotton**: Welcome and logistics
-2. **Adam Resnick**: Overview of Kids First
+1. **Welcome and logistics** - Nicole Vasilevsky and Valerie Cotton 
+2. **Overview of Kids First** - Adam Resnick
 3. **Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts).** What are the most informative translational questions? What is the value of collecting additional phenotype data?  
-  - **Melissa Haendel**: Computational Perspectives and Ontologies 101
-  - **Philip Lupo**: Epidemiological Perspective on phenotyping efforts relevant to childhood cancer and structural birth defects research and the overlap of these pediatric conditions in the population
-  - **Deanne Taylor**: Analysis: Gaps in current Kids First datasets
+  - **Computational Perspectives and Ontologies 101** - Melissa Haendel
+  - **Epidemiological Perspective on phenotyping efforts relevant to childhood cancer and structural birth defects research and the overlap of these pediatric conditions in the population** - Philip Lupo
+  - **Analysis: Gaps in current Kids First datasets** - Deanne Taylor
 4. **[X01 Investigator](https://commonfund.nih.gov/kidsfirst/x01projects) Lightning Rounds.** In this session, the X01 investigators will describe their phenotyping efforts (e.g. data dictionaries, standards, methods used) and ideas for how they could be improved for both clinical utility as well as translational discovery.  
-  - **Philip Lupo**: DS-AML & Rhabdomyosarcoma
-  - **Carole Wise**: Adolescent Idiopathic Scoliosis
-  - **Joaquin Espinosa**: DS-Congenital Heart Disease
-  - **Stephanie Ware**: Laterality Birth Defects
-  - **Stephanie Sherman**: DS-Congenital Heart Disease
-5. **Phenotypes in harmony.** Interactive session to discuss:
+  - **DS-AML & Rhabdomyosarcoma** - Philip Lupo
+  - **Adolescent Idiopathic Scoliosis** - Carole Wise
+  - **DS-Congenital Heart Disease** - Joaquin Espinosa
+  - **Laterality Birth Defects** - Stephanie Ware
+  - **DS-Congenital Heart Disease** - Stephanie Sherman
+5. **Interactive session to discuss** - Phenotypes in harmony
   - What are your challenges in standardizing, aligning, analyzing, and sharing your phenotype data? 
   - What are your analysis challenges? 
   - What are your challenges in obtaining the correct/best data for your purposes?
