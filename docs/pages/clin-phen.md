@@ -59,7 +59,12 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - Which new tools need to be created/developed?
 6. **Breakout session** - (TBD)
 
-## Slides
+## Resources
 
-Slides are available [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
+- Slides are available [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)  
+- Dinner recommendations for Thursday night are [here](https://docs.google.com/spreadsheets/d/1wxa3jiKCtKnFXMbgRlUfQ5at6-_QvTE12LpUhhVuuZw/edit#gid=0)
+
+
+
+
 
