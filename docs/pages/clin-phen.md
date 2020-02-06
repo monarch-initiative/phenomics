@@ -29,32 +29,32 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 ### Day 1 
 - **Nicole Vasilevsky and Valerie Cotton**: Welcome and logistics
 - **Adam Resnick**: Overview of Kids First
-- **Session 1: Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts).** What are the most informative translational questions? What is the value of collecting additional phenotype data?  
+- **Session: Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts).** What are the most informative translational questions? What is the value of collecting additional phenotype data?  
   - **Melissa Haendel**: Computational Perspectives and Ontologies 101
   - **Philip Lupo**: Epidemiological Perspective on phenotyping efforts relevant to childhood cancer and structural birth defects research and the overlap of these pediatric conditions in the population
   - **Deanne Taylor**: Analysis: Gaps in current Kids First datasets
-- **Session 2: [X01 Investigator](https://commonfund.nih.gov/kidsfirst/x01projects) Lightning Rounds.** In this session, the X01 investigators will describe their phenotyping efforts (e.g. data dictionaries, standards, methods used) and ideas for how they could be improved for both clinical utility as well as translational discovery.  
+- **Session: [X01 Investigator](https://commonfund.nih.gov/kidsfirst/x01projects) Lightning Rounds.** In this session, the X01 investigators will describe their phenotyping efforts (e.g. data dictionaries, standards, methods used) and ideas for how they could be improved for both clinical utility as well as translational discovery.  
   - **Philip Lupo**: DS-AML & Rhabdomyosarcoma
   - **Carole Wise**: Adolescent Idiopathic Scoliosis
   - **Joaquin Espinosa**: DS-Congenital Heart Disease
   - **Stephanie Ware**: Laterality Birth Defects
   - **Stephanie Sherman**: DS-Congenital Heart Disease
-- **Session 3: Phenotypes in harmony.** Interactive sessioin to discuss:
+- **Session: Phenotypes in harmony.** Interactive sessioin to discuss:
   - What are your challenges in standardizing, aligning, analyzing, and sharing your phenotype data? 
   - What are your analysis challenges? 
   - What are your challenges in obtaining the correct/best data for your purposes?
 
 ### Day 2
 
-**Session 4: Breakout session I.** Small Breakouts will include translational teams of X01 investigators, developmental biologists and basic researchers, tool developers and ontologists/data modelers. The breakouts will focus on defining end-to-end phenotype collection to integration processes to address specific clinical or translational questions.
+**Session: Breakout session I.** Small Breakouts will include translational teams of X01 investigators, developmental biologists and basic researchers, tool developers and ontologists/data modelers. The breakouts will focus on defining end-to-end phenotype collection to integration processes to address specific clinical or translational questions.
 
-**Session 5: Tools to support strengthening Kids First phenotypic datasets**
+**Session: Tools to support strengthening Kids First phenotypic datasets**
 
-**Session 6: Breakout II: Generate “Kids First” phenotype data collection standards**
+**Session: Breakout II: Generate “Kids First” phenotype data collection standards**
 
-**Session 7: Group Discussion: What are the next steps?** How to continue to develop these standards? How to communicate the standards with other Kids First researchers?:  
+**Session: Group Discussion: What are the next steps?** How to continue to develop these standards? How to communicate the standards with other Kids First researchers?:  
 
-**Session 8: Neurodevelopmental Outcomes**
+**Session: Neurodevelopmental Outcomes**
 
 ## Slides
 
