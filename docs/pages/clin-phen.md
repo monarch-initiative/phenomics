@@ -26,6 +26,11 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 ## Agenda
 
+### Day 1 
+**Nicole Vasilevsky and Valerie Cotton**: Welcome and logistics
+
+**Adam Resnick**: Overview of Kids First
+
 **Session 1: Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts).** What are the most informative translational questions? What is the value of collecting additional phenotype data?  
   
 _Confirmed speakers:_
@@ -42,9 +47,12 @@ _Confirmed speakers:_
  - **Stephanie Ware**: Laterality Birth Defects
  - **Stephanie Sherman**: DS-Congenital Heart Disease
 
-**Session 3: Phenotypes in harmony.** What standards and methods exist to create harmonize phenotypes and support translational interoperability for mechanism discovery? 
-  
-_Speaker:_ Melissa Haendel
+**Session 3: Phenotypes in harmony.** Interactive sessioin to discuss:
+  - What are your challenges in standardizing, aligning, analyzing, and sharing your phenotype data? 
+  - What are your analysis challenges? 
+  - What are your challenges in obtaining the correct/best data for your purposes?
+
+### Day 2
 
 **Session 4: Breakout session I.** Small Breakouts will include translational teams of X01 investigators, developmental biologists and basic researchers, tool developers and ontologists/data modelers. The breakouts will focus on defining end-to-end phenotype collection to integration processes to address specific clinical or translational questions.
 
