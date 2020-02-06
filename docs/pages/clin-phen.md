@@ -24,7 +24,7 @@ Some grant mechanisms such as [NOT-DE-19-016](https://grants.nih.gov/grants/guid
 
 This event is co-planned by the [Monarch Initiative](https://monarchinitiative.org/) and the [Kids First Data Resource Center (DRC)](https://kidsfirstdrc.org/). Our goal is to improve phenotype data collection and harmonization of Kids First datasets ([The Discovery of the Genetic Basis of Childhood Cancers and of Structural Birth Defects X01 cohorts](https://commonfund.nih.gov/kidsfirst/x01projects)) and generate a core/consensus set of clinical/phenotypic data elements that are extremely important for Kids First childhood cancer and structural birth defects datasets, and potential overlapping etiologies of these conditions. Another goal is to brainstorm ideas for developing tools and resources for collecting deeper (in some cases disease- or modality- specific) data that will be valuable for increasing understanding of individual pediatric conditions. Kids First X01 investigators, developmental biologists, ontologists, and tool developers will be brought together to inform this process.  
 
-## Agenda
+## Tentative Agenda
 
 ### Day 1 
 1. **Welcome and logistics** - Nicole Vasilevsky and Valerie Cotton 
@@ -39,22 +39,22 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **DS-Congenital Heart Disease** - Joaquin Espinosa
   - **Laterality Birth Defects** - Stephanie Ware
   - **DS-Congenital Heart Disease** - Stephanie Sherman
-5. **Interactive session to discuss** - Phenotypes in harmony
+5. **Group exercise/discussion - Phenotypes in harmony**
   - What are your challenges in standardizing, aligning, analyzing, and sharing your phenotype data? 
   - What are your analysis challenges? 
   - What are your challenges in obtaining the correct/best data for your purposes?
 
 ### Day 2
 
-1. **Breakout session.** Small Breakouts will include translational teams of X01 investigators, developmental biologists and basic researchers, tool developers and ontologists/data modelers. The breakouts will focus on defining end-to-end phenotype collection to integration processes to address specific clinical or translational questions.
-
-2. **Tools to support strengthening Kids First phenotypic datasets**
-
-3. **Breakout II: Generate “Kids First” phenotype data collection standards**
-
-4. **Group Discussion: What are the next steps?** How to continue to develop these standards? How to communicate the standards with other Kids First researchers?:  
-
-5. **Neurodevelopmental Outcomes**
+1. **Welcome and logistics** - Nicole Vasilevsky and Valerie Cotton 
+2. **Funding opportunities to support clinical and phenotypic data collection, extraction, and harmonization, as well as “translational discovery”** - Valerie Cotton and James Coulombe
+3. **Overview of current DRC clin/phen ingest process & current challenges**
+4. **Tools to support strengthening Kids First phenotypic datasets**
+5. **Group Discussion**
+  - How can existing tools be improved? 
+  - What tools are best for next steps? 
+  - Which new tools need to be created/developed?
+6. **Breakout session** 
 
 ## Slides
 
