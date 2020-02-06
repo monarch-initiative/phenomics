@@ -31,6 +31,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 2. **Overview of Kids First** - Adam Resnick
 3. **Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts).** What are the most informative translational questions? What is the value of collecting additional phenotype data?  
   - **Computational Perspectives and Ontologies 101** - Melissa Haendel
+  - **Developmental Biology Perspective** - Mustafa Khokha
   - **Epidemiological Perspective on phenotyping efforts relevant to childhood cancer and structural birth defects research and the overlap of these pediatric conditions in the population** - Philip Lupo
   - **Analysis: Gaps in current Kids First datasets** - Deanne Taylor
 4. **[X01 Investigator](https://commonfund.nih.gov/kidsfirst/x01projects) Lightning Rounds.** In this session, the X01 investigators will describe their phenotyping efforts (e.g. data dictionaries, standards, methods used) and ideas for how they could be improved for both clinical utility as well as translational discovery.  
@@ -39,6 +40,8 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **DS-Congenital Heart Disease** - Joaquin Espinosa
   - **Laterality Birth Defects** - Stephanie Ware
   - **DS-Congenital Heart Disease** - Stephanie Sherman
+  - **Orofacial Clefts** - Mary Marazita
+  - **Enchondromatoses and Related Malignant Tumors** - Nara Sobreira
 5. **Group exercise/discussion - Phenotypes in harmony**
   - What are your challenges in standardizing, aligning, analyzing, and sharing your phenotype data? 
   - What are your analysis challenges? 
