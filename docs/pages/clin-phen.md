@@ -33,6 +33,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **Computational Perspectives and Ontologies 101** - Melissa Haendel
   - **Developmental Biology Perspective** - Mustafa Khokha
   - **Epidemiological Perspective on phenotyping efforts relevant to childhood cancer and structural birth defects research and the overlap of these pediatric conditions in the population** - Philip Lupo
+  - **Harmonization of data elements and impact on clinical utility** - Sam Volchenboum
   - **Analysis: Gaps in current Kids First datasets** - Deanne Taylor
 4. **[X01 Investigator](https://commonfund.nih.gov/kidsfirst/x01projects) Lightning Rounds.** In this session, the X01 investigators will describe their phenotyping efforts (e.g. data dictionaries, standards, methods used) and ideas for how they could be improved for both clinical utility as well as translational discovery.  
   - **DS-AML & Rhabdomyosarcoma** - Philip Lupo
