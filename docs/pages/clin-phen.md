@@ -54,13 +54,12 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 1. **Welcome and logistics** - Nicole Vasilevsky and Valerie Cotton 
 2. **Funding opportunities to support clinical and phenotypic data collection, extraction, and harmonization, as well as “translational discovery”** - Valerie Cotton and James Coulombe
-3. **Overview of current DRC clin/phen ingest process & current challenges**
-4. **Tools to support strengthening Kids First phenotypic datasets**
-5. **Group Discussion**
+3. **Overview of current DRC clin/phen ingest process & current challenges** - Allison Heath and Deanne Taylor
+4. **Group Discussion**
   - How can existing tools be improved? 
   - What tools are best for next steps? 
   - Which new tools need to be created/developed?
-6. **Breakout session** - Semantic queries - are we capturing the data elements we need in the Kids First? The goal of this breakout is to brainstorm queries (e.g. cohort identification or correlation analytics) that we may want to ask the Kids First portal, and then to review and categorize those queries. We want to be able to identify any gaps in the Kids First minimal data elements, and determine if additional elements should be included. Additionally, we aim to determine if existing standards (CDEs, ontologies) are sufficient, or if need to expand or enhance existing data standards. For example, see [report/data from NCI Semantic Query Workshop](https://zenodo.org/record/3611647#.XjyiP1JKhZg)
+. **Breakout session** - Semantic queries - are we capturing the data elements we need in the Kids First? The goal of this breakout is to brainstorm queries (e.g. cohort identification or correlation analytics) that we may want to ask the Kids First portal, and then to review and categorize those queries. We want to be able to identify any gaps in the Kids First minimal data elements, and determine if additional elements should be included. Additionally, we aim to determine if existing standards (CDEs, ontologies) are sufficient, or if need to expand or enhance existing data standards. For example, see [report/data from NCI Semantic Query Workshop](https://zenodo.org/record/3611647#.XjyiP1JKhZg)
 
 ## Resources
 
