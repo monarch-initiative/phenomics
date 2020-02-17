@@ -59,7 +59,8 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - How can existing tools be improved? 
   - What tools are best for next steps? 
   - Which new tools need to be created/developed?
-. **Breakout session** - Semantic queries - are we capturing the data elements we need in the Kids First? The goal of this breakout is to brainstorm queries (e.g. cohort identification or correlation analytics) that we may want to ask the Kids First portal, and then to review and categorize those queries. We want to be able to identify any gaps in the Kids First minimal data elements, and determine if additional elements should be included. Additionally, we aim to determine if existing standards (CDEs, ontologies) are sufficient, or if need to expand or enhance existing data standards. For example, see [report/data from NCI Semantic Query Workshop](https://zenodo.org/record/3611647#.XjyiP1JKhZg)
+5. **Breakout session: Semantic queries - are we capturing the data elements we need in the Kids First?** The goal of this breakout is to brainstorm queries (e.g. cohort identification or correlation analytics) that we may want to ask the Kids First portal, and then to review and categorize those queries. We want to be able to identify any gaps in the Kids First minimal data elements, and determine if additional elements should be included. Additionally, we aim to determine if existing standards (CDEs, ontologies) are sufficient, or if need to expand or enhance existing data standards. For example, see [report/data from NCI Semantic Query Workshop](https://zenodo.org/record/3611647#.XjyiP1JKhZg)
+6. **Group Discussion:** What are the next steps? How to continue to develop these standards? How to communicate the standards with other Kids First researchers?  How to empower researchers to leverage existing standards, tools, and other resources to strengthen Kids First data for translational discovery? 
 
 ## Resources
 
