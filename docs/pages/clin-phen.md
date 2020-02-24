@@ -39,7 +39,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **DS-AML & Rhabdomyosarcoma** - Philip Lupo
   - **Adolescent Idiopathic Scoliosis** - Carole Wise
   - **DS-Congenital Heart Disease** - Joaquin Espinosa
-  - **DS-Congenital Heart Disease** - Stephanie Sherman
+  - **Neuropsychological Data Harmonizatione** - Stephanie Sherman
   - **Laterality Birth Defects** - Stephanie Ware
   - **Orofacial Clefts** - Mary Marazita
   - **Enchondromatoses and Related Malignant Tumors** - Nara Sobreira
