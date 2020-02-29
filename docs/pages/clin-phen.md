@@ -45,7 +45,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **Enchondromatoses and Related Malignant Tumors** - Nara Sobreira
   - **Syndromic cranial dysinnervation disorders** - Elizabeth Engle
   - **Pediatric Cardiac Genomics Consortium (PCGC)** - Betsy Goldmuntz
-5. **Breakout 1: Phenotypes in harmony**. During this breakout, we will have 4 groups focused on disease topics, and discussion questions will be provided for each group. Details [here](clin-phen-breakout-1.md).
+5. **Breakout 1: Phenotypes in harmony**. During this breakout, we will have 4 groups focused on disease topics, and discussion questions will be provided for each group. Details [here](https://monarch-initiative.github.io/phenomics/pages/clin-phen-breakout-1.html).
 6. Breakout group presentations and group discussion
 
 ### Day 2
