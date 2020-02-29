@@ -50,7 +50,9 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - Cancer
   - Craniofacial disorders
   - Scoliosis and Laterality birth defects  
-**Discussion questions:**
+  
+**Discussion questions:**  
+
 - Specific data type/biological issues?
 - What are they doing about these problems now? 
 - What standards and methods exist that might help?
