@@ -45,18 +45,17 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **Enchondromatoses and Related Malignant Tumors** - Nara Sobreira
   - **Syndromic cranial dysinnervation disorders** - Elizabeth Engle
   - **Pediatric Cardiac Genomics Consortium (PCGC)** - Betsy Goldmuntz
-5. **Breakout 1: Phenotypes in harmony**. During this breakout, we will have 4 groups focused on disease topics:
+5. **Breakout 1: Phenotypes in harmony**. During this breakout, we will have 4 groups focused on disease topics, and discussion questions will be provided for each group:
   - Down syndrome and Heart disease
   - Cancer
   - Craniofacial disorders
   - Scoliosis and Laterality birth defects  
-
-  Breakout discussion:
-  - What are your challenges in standardizing, aligning, analyzing, and sharing your phenotype data? 
-  - What queries would you want to do within your dataset?
-  - What are your analysis challenges? 
-  - What are your challenges in obtaining the correct/best data for your purposes?
-  
+**Discussion questions:**
+- Specific data type/biological issues?
+- What are they doing about these problems now? 
+- What standards and methods exist that might help?
+- What queries would you want to do within your dataset?
+- How might they imagine harmonizing phenotypes to support translational interoperability for mechanism discovery? E.g. cross domain or cross species?  
 6. Breakout group presentations and group discussion
 
 ### Day 2
