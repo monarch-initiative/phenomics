@@ -58,6 +58,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 - What standards and methods exist that might help?
 - What queries would you want to do within your dataset?
 - How might they imagine harmonizing phenotypes to support translational interoperability for mechanism discovery? E.g. cross domain or cross species?  
+
 6. Breakout group presentations and group discussion
 
 ### Day 2
