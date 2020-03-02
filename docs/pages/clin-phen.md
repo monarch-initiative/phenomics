@@ -2,8 +2,8 @@
 
 Date | Day | Time
 -- | -- | --
-April 09, 2020 | Thursday | 8am - 5pm ET  
-April 10, 2020 | Friday | 8am - 3pm ET  
+April 09, 2020 | Thursday | 9am - 5pm ET  
+April 10, 2020 | Friday | 9am - 3pm ET  
 
 **Location:**   
 Children's Hospital of Pennsylvania (CHOP)  
@@ -56,8 +56,13 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 4. **Harmonization of data elements and impact on clinical utility** - Sam Volchenboum3. 
 5. **Overview of current DRC clin/phen ingest process & current challenges** - Allison Heath and Deanne Taylor
 6. **Breakout 2** (TBD)
-7. **Funding opportunities to support clinical and phenotypic data collection, extraction, and harmonization, as well as “translational discovery”** - Valerie Cotton and James Coulombe
-8. **Wrap up the workshop** - Melissa Haendel and Adam Resnick
+7. **Group discussion**: 
+- What are the next steps? 
+- How to continue to develop these standards? 
+- How to communicate the standards with other Kids First researchers? 
+- How to empower researchers to leverage existing standards, tools, and other resources to strengthen Kids First data for translational discovery? 
+8. **Funding opportunities to support clinical and phenotypic data collection, extraction, and harmonization, as well as “translational discovery”** - Valerie Cotton and James Coulombe
+9. **Wrap up the workshop** - Melissa Haendel and Adam Resnick
 
 ## Resources
 
