@@ -53,7 +53,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 1. **Welcome and logistics** - Nicole Vasilevsky and Valerie Cotton 
 2. **GAG4H and Phenopackets** -  Peter Robinson
 3. **ANVIL and BD catalyst** - Robert Carroll
-4. **Harmonization of data elements and impact on clinical utility** - Sam Volchenboum3. 
+4. **Harmonization of data elements and impact on clinical utility** - Sam Volchenboum 
 5. **Overview of current DRC clin/phen ingest process & current challenges** - Allison Heath and Deanne Taylor
 6. **Breakout 2** (TBD)
 7. **Group discussion**: 
