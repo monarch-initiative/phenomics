@@ -33,7 +33,6 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **Computational Perspectives and Ontologies 101** - Melissa Haendel
   - **Developmental Biology Perspective** - Mustafa Khokha
   - **Epidemiological Perspective on phenotyping efforts relevant to childhood cancer and structural birth defects research and the overlap of these pediatric conditions in the population** - Philip Lupo
-  - **Harmonization of data elements and impact on clinical utility** - Sam Volchenboum
   - **Analysis: Gaps in current Kids First datasets** - Deanne Taylor
 4. **[X01 Investigator](https://commonfund.nih.gov/kidsfirst/x01projects) Lightning Rounds.** In this session, the X01 investigators will describe their phenotyping efforts (e.g. data dictionaries, standards, methods used) and ideas for how they could be improved for both clinical utility as well as translational discovery.  
   - **DS-AML & Rhabdomyosarcoma** - Philip Lupo
@@ -46,19 +45,19 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **Syndromic cranial dysinnervation disorders** - Elizabeth Engle
   - **Pediatric Cardiac Genomics Consortium (PCGC)** - Betsy Goldmuntz
 5. **Breakout 1: Phenotypes in harmony**. During this breakout, we will have 4 groups focused on disease topics, and discussion questions will be provided for each group. Details [here](https://monarch-initiative.github.io/phenomics/pages/clin-phen-breakout-1.html).
-6. Breakout group presentations and group discussion
+6. Exercise: What are our biggest problems? Categorize these issues.
+7. Brainstorm what breakouts we will do on day 2.
 
 ### Day 2
 
 1. **Welcome and logistics** - Nicole Vasilevsky and Valerie Cotton 
-2. **Funding opportunities to support clinical and phenotypic data collection, extraction, and harmonization, as well as “translational discovery”** - Valerie Cotton and James Coulombe
-3. **Overview of current DRC clin/phen ingest process & current challenges** - Allison Heath and Deanne Taylor
-4. **Group Discussion**
-  - How can existing tools be improved? 
-  - What tools are best for next steps? 
-  - Which new tools need to be created/developed?
-5. **Breakout session: Semantic queries - are we capturing the data elements we need in the Kids First?** The goal of this breakout is to brainstorm queries (e.g. cohort identification or correlation analytics) that we may want to ask the Kids First portal, and then to review and categorize those queries. We want to be able to identify any gaps in the Kids First minimal data elements, and determine if additional elements should be included. Additionally, we aim to determine if existing standards (CDEs, ontologies) are sufficient, or if need to expand or enhance existing data standards. For example, see [report/data from NCI Semantic Query Workshop](https://zenodo.org/record/3611647#.XjyiP1JKhZg)
-6. **Group Discussion:** What are the next steps? How to continue to develop these standards? How to communicate the standards with other Kids First researchers?  How to empower researchers to leverage existing standards, tools, and other resources to strengthen Kids First data for translational discovery? 
+2. **GAG4H and Phenopackets** -  Peter Robinson
+3. **ANVIL and BD catalyst** - Robert Carroll
+4. **Harmonization of data elements and impact on clinical utility** - Sam Volchenboum3. 
+5. **Overview of current DRC clin/phen ingest process & current challenges** - Allison Heath and Deanne Taylor
+6. **Breakout 2** (TBD)
+7. **Funding opportunities to support clinical and phenotypic data collection, extraction, and harmonization, as well as “translational discovery”** - Valerie Cotton and James Coulombe
+8. **Wrap up the workshop** - Melissa Haendel and Adam Resnick
 
 ## Resources
 
