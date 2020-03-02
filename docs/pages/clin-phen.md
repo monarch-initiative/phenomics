@@ -30,7 +30,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 1. **Welcome and logistics** - Nicole Vasilevsky and Valerie Cotton 
 2. **Overview of Kids First** - Adam Resnick
 3. **Perspectives on Phenotyping (Childhood Cancer and Structural Birth Defects Cohorts).** What are the most informative translational questions? What is the value of collecting additional phenotype data?  
-  - **Computational Perspectives and Ontologies 101** - Melissa Haendel
+  - **The Monarch Initiative and Ontologies 101** - Melissa Haendel
   - **Developmental Biology Perspective** - Mustafa Khokha
   - **Epidemiological Perspective on phenotyping efforts relevant to childhood cancer and structural birth defects research and the overlap of these pediatric conditions in the population** - Philip Lupo
   - **Analysis: Gaps in current Kids First datasets** - Deanne Taylor
