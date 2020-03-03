@@ -26,6 +26,8 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 ## Agenda
 
+[Click here for the detailed schedule](https://docs.google.com/spreadsheets/d/1ozz9hM9WRIlXqHLZAriu7xdKYhEV5cppNMXjC4J1cBg/edit#gid=0)
+
 ### Day 1 
 1. **Welcome and logistics** - Nicole Vasilevsky and Valerie Cotton 
 2. **Overview of Kids First** - Adam Resnick
