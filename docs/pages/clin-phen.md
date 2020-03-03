@@ -46,8 +46,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **Neuropsychological Data Harmonization** - Stephanie Sherman
   - **Laterality Birth Defects** - Stephanie Ware  
 5. **Breakout 1: Phenotypes in harmony**. During this breakout, we will have 4 groups focused on disease topics, and discussion questions will be provided for each group. Details [here](https://monarch-initiative.github.io/phenomics/pages/clin-phen-breakout-1.html).
-6. Exercise: What are our biggest problems? Categorize these issues.
-7. Brainstorm what breakouts we will do on day 2.
+6. Brainstorm day 2 breakouts.
 
 ### Day 2
 
