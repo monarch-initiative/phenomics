@@ -52,17 +52,18 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 1. **Welcome and logistics** - Nicole Vasilevsky and Valerie Cotton 
 2. **GAG4H and Phenopackets** -  Peter Robinson
-3. **ANVIL and BD catalyst** - Robert Carroll
-4. **Harmonization of data elements and impact on clinical utility** - Sam Volchenboum 
-5. **Overview of current DRC clin/phen ingest process & current challenges** - Allison Heath and Deanne Taylor
-6. **Breakout 2** (TBD)
-7. **Group discussion**: 
+3. **Genomics England/UK** - Damian Smedley
+4. **ANVIL and BD catalyst** - Robert Carroll
+5. **Harmonization of data elements and impact on clinical utility** - Sam Volchenboum 
+6. **Overview of current DRC clin/phen ingest process & current challenges** - Allison Heath and Deanne Taylor
+7. **Breakout 2** (TBD)
+8. **Group discussion**: 
 - What are the next steps? 
 - How to continue to develop these standards? 
 - How to communicate the standards with other Kids First researchers? 
 - How to empower researchers to leverage existing standards, tools, and other resources to strengthen Kids First data for translational discovery? 
-8. **Funding opportunities to support clinical and phenotypic data collection, extraction, and harmonization, as well as “translational discovery”** - Valerie Cotton and James Coulombe
-9. **Wrap up the workshop** - Melissa Haendel and Adam Resnick
+9. **Funding opportunities to support clinical and phenotypic data collection, extraction, and harmonization, as well as “translational discovery”** - Valerie Cotton and James Coulombe
+10. **Wrap up the workshop** - Melissa Haendel and Adam Resnick
 
 ## Resources
 
