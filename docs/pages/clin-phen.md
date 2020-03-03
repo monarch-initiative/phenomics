@@ -35,15 +35,16 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **Epidemiological Perspective on phenotyping efforts relevant to childhood cancer and structural birth defects research and the overlap of these pediatric conditions in the population** - Philip Lupo
   - **Analysis: Gaps in current Kids First datasets** - Deanne Taylor
 4. **[X01 Investigator](https://commonfund.nih.gov/kidsfirst/x01projects) Lightning Rounds.** In this session, the X01 investigators will describe their phenotyping efforts (e.g. data dictionaries, standards, methods used) and ideas for how they could be improved for both clinical utility as well as translational discovery.  
-  - **DS-AML & Rhabdomyosarcoma** - Philip Lupo
-  - **Adolescent Idiopathic Scoliosis** - Carole Wise
-  - **DS-Congenital Heart Disease** - Joaquin Espinosa
-  - **Neuropsychological Data Harmonizatione** - Stephanie Sherman
-  - **Laterality Birth Defects** - Stephanie Ware
-  - **Orofacial Clefts** - Mary Marazita
   - **Enchondromatoses and Related Malignant Tumors** - Nara Sobreira
-  - **Syndromic cranial dysinnervation disorders** - Elizabeth Engle
   - **Pediatric Cardiac Genomics Consortium (PCGC)** - Betsy Goldmuntz
+  - **Syndromic cranial dysinnervation disorders** - Elizabeth Engle
+  - **Orofacial Clefts** - Mary Marazita
+  - **Adolescent Idiopathic Scoliosis** - Carole Wise
+  - **DS-AML & Rhabdomyosarcoma** - Philip Lupo
+  - **Cornelia de Lange Syndrome** - Sarah Raible
+  - **DS-Congenital Heart Disease** - Joaquin Espinosa
+  - **Neuropsychological Data Harmonization** - Stephanie Sherman
+  - **Laterality Birth Defects** - Stephanie Ware  
 5. **Breakout 1: Phenotypes in harmony**. During this breakout, we will have 4 groups focused on disease topics, and discussion questions will be provided for each group. Details [here](https://monarch-initiative.github.io/phenomics/pages/clin-phen-breakout-1.html).
 6. Exercise: What are our biggest problems? Categorize these issues.
 7. Brainstorm what breakouts we will do on day 2.
