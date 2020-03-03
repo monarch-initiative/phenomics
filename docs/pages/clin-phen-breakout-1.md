@@ -17,3 +17,6 @@ During this breakout, we will have 4 groups focused on disease topics
 - What type of analyses might you want to perform if you had maximally available and perfectly curated data? 
 - How might you imagine harmonizing phenotypes to support translational interoperability for mechanism discovery? E.g. cross domain or cross species.
 
+## Group Exercise
+1. Note our biggest problems.
+2. We will discuss as a group and categorize these issues.
