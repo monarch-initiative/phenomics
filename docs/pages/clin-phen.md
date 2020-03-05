@@ -40,7 +40,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **Pediatric Cardiac Genomics Consortium (PCGC)** - Betsy Goldmuntz
   - **DS-Congenital Heart Disease** - Joaquin Espinosa
   - **Neuropsychological Data Harmonization** - Stephanie Sherman
-  - **DS-AML & Rhabdomyosarcoma** - Philip Lupo
+  - **DS-ALL & Rhabdomyosarcoma** - Philip Lupo
   - **Enchondromatoses and Related Malignant Tumors** - Nara Sobreira
   - **Orofacial Clefts** - Mary Marazita
   - **Syndromic cranial dysinnervation disorders** - Elizabeth Engle
