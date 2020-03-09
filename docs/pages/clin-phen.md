@@ -3,10 +3,16 @@
 ## The in person workshop on April 09-10 cancelled due to the coronavirus outbreak. 
 We plan to hold a 2 hour webinar on April 09 or 10th. The in person workshop will be rescheduled later this year. More details are forthcoming. 
 
+### Webinar 
 Date | Day | Time
 -- | -- | --
-April 09, 2020 | Thursday | 9am - 5pm ET  
-April 10, 2020 | Friday | 9am - 3pm ET  
+TBD | TBD | TBD 
+
+### Face to face Workshop 
+Date | Day | Time
+-- | -- | --
+TBD | TBD | TBD 
+ 
 
 **Location:**   
 Children's Hospital of Pennsylvania (CHOP)  
