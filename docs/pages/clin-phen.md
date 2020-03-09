@@ -1,7 +1,7 @@
 ## Innovation across the Phenotypic Translational Divide Workshop
 
 ### The workshop on April 09-10 cancelled due to the coronavirus outbreak. 
-**We plan to hold a 2 hour webinar on April 09 or 10th. The in person workshop will be rescheduled later this year. More details are forthcoming.** 
+**We plan to hold a 2 hour webinar on April 09 or 10th. The in person workshop will be rescheduled for later this year.**  More details are forthcoming.
 
 ### Webinar 
 
