@@ -4,11 +4,13 @@
 **We plan to hold a 2 hour webinar on April 09 or 10th. The in person workshop will be rescheduled later this year. More details are forthcoming.** 
 
 ### Webinar 
+
 Date | Day | Time
 -- | -- | --
 TBD | TBD | TBD 
 
 ### Face to face Workshop 
+
 Date | Day | Time
 -- | -- | --
 TBD | TBD | TBD 
