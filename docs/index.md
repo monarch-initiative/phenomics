@@ -13,7 +13,7 @@ Topic | Dates | Location
 
 Topic | Dates | Location
 -- | -- | --
-[Innovation across the Phenotypic Translational Divide Workshop](pages/clin-phen.md) | April 09-10, 2020 | Philadelphia, PA
+[Innovation across the Phenotypic Translational Divide Workshop](pages/clin-phen.md) | TBD | Philadelphia, PA
 [Phenotypes Traversing All the Organisms Workshop (POTATO3)](pages/potato.md) | TBD | TBD
 
 #### Funding
