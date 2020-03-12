@@ -16,7 +16,7 @@ Webinar agenda is [here](https://docs.google.com/document/d/1pvnsw4XuSBJapIHHBVL
 Date | Day | Time
 -- | -- | --
 July 28, 2020 | Tuesday | 9am - 5pm ET
-July 29, 2020 | Wednesdayday | 9am - 3pm ET 
+July 29, 2020 | Wednesday | 9am - 3pm ET 
  
 
 **Location:**   
