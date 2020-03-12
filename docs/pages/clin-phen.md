@@ -7,13 +7,14 @@
 
 Date | Day | Time
 -- | -- | --
-TBD | TBD | TBD 
+April 09, 2020 | Thursday | 10am - 12:30pm PT 
 
 ### Face to face Workshop 
 
 Date | Day | Time
 -- | -- | --
-TBD | TBD | TBD 
+July 28, 2020 | Tuesday | 9am - 5pm ET
+July 29, 2020 | Wednesdayday | 9am - 3pm ET 
  
 
 **Location:**   
@@ -55,6 +56,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **Enchondromatoses and Related Malignant Tumors** - Nara Sobreira
   - **Orofacial Clefts** - Mary Marazita
   - **Syndromic cranial dysinnervation disorders** - Elizabeth Engle
+  - **Laterality Birth Defects** - Stephanie Ware
   - **Adolescent Idiopathic Scoliosis** - Carole Wise
   - **Cornelia de Lange Syndrome** - Sarah Raible
 5. **Breakout 1: Phenotypes in harmony**. During this breakout, we will have 4 groups focused on disease topics, and discussion questions will be provided for each group. Details [here](https://monarch-initiative.github.io/phenomics/pages/clin-phen-breakout-1.html).
