@@ -9,7 +9,9 @@ Date | Day | Time
 -- | -- | --
 April 09, 2020 | Thursday | 10am - 12:30pm PT 
 
-### Face to face Workshop 
+Webinar agenda is [here](https://docs.google.com/document/d/1pvnsw4XuSBJapIHHBVLaQ3CSuYD0jBKFt5WU_sMwrZ0/edit#)
+
+### Face to Face Workshop 
 
 Date | Day | Time
 -- | -- | --
