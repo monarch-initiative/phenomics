@@ -10,6 +10,7 @@ Date | Day | Time
 April 09, 2020 | Thursday | 1pm - 3:30pm ET 
 
 Webinar agenda is [here](https://docs.google.com/document/d/1pvnsw4XuSBJapIHHBVLaQ3CSuYD0jBKFt5WU_sMwrZ0/edit#)
+Webinar slides are [here[(https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
 
 ### Face to Face Workshop 
 
@@ -24,7 +25,7 @@ Children's Hospital of Pennsylvania (CHOP)
 Roberts Center for Pediatric Research  
 [2716 South Street, Philadelphia, PA 19146](https://www.google.com/maps/place/2716+South+St,+Philadelphia,+PA+19146/@39.945664,-75.1887371,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6c643a00a67ef:0xd0156a32f0be7710!8m2!3d39.945664!4d-75.1865484)  
 Main room: 1120B  
-Breakout room: 1120A  
+Breakout room: 1120A (Tuesday, July 28, 1:30-3:30pm) 
 
 **Recommended hotel:**  
 [The Inn at Penn](https://www3.hilton.com/en/hotels/pennsylvania/the-inn-at-penn-a-hilton-hotel-PHLIDHH/index.html?WT.mc_id=zlada0ww1hi2psh3ggl4advcty5dkt6multibr7_153669424_1003528&gclid=CjwKCAiA6vXwBRBKEiwAYE7iSxE7Sys9TshVmauM0SldKRli4EsqtZePORAmA2TkHZ8qJXevlEvJ1RoCSfIQAvD_BwE&gclsrc=aw.ds), 3600 Sansom St, Philadelphia, PA 19104.
@@ -83,7 +84,8 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 ## Resources
 
-- Slides are available [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)  
+- Webinar slides are [here[(https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
+- Face-to-face Workshop slides are available [here](https://docs.google.com/presentation/d/1jaTFTAIHsQoolNL8l_blZ7wV2FUsUwVPnVGIBdVETSE/edit#slide=id.p)  
 - Dinner recommendations for Thursday night are [here](https://docs.google.com/spreadsheets/d/1wxa3jiKCtKnFXMbgRlUfQ5at6-_QvTE12LpUhhVuuZw/edit#gid=0)
 
 
