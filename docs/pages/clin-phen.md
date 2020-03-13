@@ -85,7 +85,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 ## Resources
 
-- Webinar slides are [here[(https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
+- Webinar slides are [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
 - Face-to-face Workshop slides are available [here](https://docs.google.com/presentation/d/1jaTFTAIHsQoolNL8l_blZ7wV2FUsUwVPnVGIBdVETSE/edit#slide=id.p)  
 - Dinner recommendations for Thursday night are [here](https://docs.google.com/spreadsheets/d/1wxa3jiKCtKnFXMbgRlUfQ5at6-_QvTE12LpUhhVuuZw/edit#gid=0)
 
