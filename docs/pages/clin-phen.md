@@ -9,8 +9,9 @@ Date | Day | Time
 -- | -- | --
 April 09, 2020 | Thursday | 1pm - 3:30pm ET 
 
-Webinar agenda is [here](https://docs.google.com/document/d/1pvnsw4XuSBJapIHHBVLaQ3CSuYD0jBKFt5WU_sMwrZ0/edit#)
-Webinar slides are [here[(https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
+Webinar agenda is [here](https://docs.google.com/document/d/1pvnsw4XuSBJapIHHBVLaQ3CSuYD0jBKFt5WU_sMwrZ0/edit#)  
+
+Webinar slides are [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
 
 ### Face to Face Workshop 
 
