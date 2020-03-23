@@ -20,7 +20,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 ## Agenda
 
-Time PT | Time ET | Topic | Speaker
+Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 -- | -- | -- | -- 
 10:00am | 1:00pm | The importance of phenotype data depth, harmonization for "translational discovery". | Melissa Haendel
 10:10am | 1:10pm | Use case - What can be done in the Kids First Portal with good phenotype data | Adam Resnick
