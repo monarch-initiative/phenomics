@@ -41,7 +41,7 @@ Time PT | Time ET | Topic | Speaker
 
 ## Resources
 
-Webinar slides are [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
+Webinar slides will be available [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
 
 
 
