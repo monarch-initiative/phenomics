@@ -58,7 +58,6 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
   - **DS-ALL & Rhabdomyosarcoma** - Philip Lupo
   - **Enchondromatoses and Related Malignant Tumors** - Nara Sobreira
   - **Orofacial Clefts** - Mary Marazita
-  - **Syndromic cranial dysinnervation disorders** - Elizabeth Engle
   - **Laterality Birth Defects** - Stephanie Ware
   - **Adolescent Idiopathic Scoliosis** - Carole Wise
   - **Cornelia de Lange Syndrome** - Sarah Raible
