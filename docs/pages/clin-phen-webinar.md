@@ -3,9 +3,9 @@
 
 ### Webinar 
 
-Date | Day | Time
+Date | Day | Time (Pacific time) | Time (Eastern time)
 -- | -- | --
-April 09, 2020 | Thursday | 10am - 1pm PT/ 1pm - 4pm ET 
+April 09, 2020 | Thursday | 10am - 1pm PT | 1pm - 4pm ET 
 
 [Join the webinar](https://zoom.us/j/4056642234)
 
