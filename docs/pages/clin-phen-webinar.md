@@ -7,7 +7,7 @@ Date | Day | Time (Pacific time) | Time (Eastern time)
 -- | -- | -- | --
 April 09, 2020 | Thursday | 10am - 1pm PT | 1pm - 4pm ET 
 
-No registration is needed. The **zoom room** will be linked here the day of.  
+No registration is needed. The **zoom room** will be available here the day of.  
 
 
 ### Background
