@@ -5,7 +5,7 @@
 
 Date | Day | Time
 -- | -- | --
-April 09, 2020 | Thursday | 1pm - 4pm ET 
+April 09, 2020 | Thursday | 10am - 1pm PT/ 1pm - 4pm ET 
 
 [Join the webinar](https://zoom.us/j/4056642234)
 
