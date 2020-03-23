@@ -8,7 +8,7 @@ Date | Day | Time
 -- | -- | --
 April 09, 2020 | Thursday | 1pm - 3:30pm ET 
 
-Webinar agenda is [here](pages/clin-phen-webinar.md)  
+Webinar agenda is [here](clin-phen-webinar.md)  
 
 Webinar slides are [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
 
