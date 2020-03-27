@@ -37,8 +37,8 @@ Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 11:50am | 2:50pm | Summary of survey results | Deanne Taylor
 12:00pm | 3:00pm | Break
 12:10pm | 3:10pm | DRC data harmonization process to the Kids First portal | Allison Heath
-12:20pm | 3:20pm | FOAs that can support deeper clinical data collection, extraction, and harmonization | Valerie Cotton and James Coulombe
-12:30pm | 3:30pm | Brainstorming session and discussion | Lead by Melissa Haendel
+12:20pm | 3:20pm | NIH Perspective | James Coulombe, NICHD
+12:25pm | 3:25pm | Brainstorming session and discussion | Lead by Melissa Haendel
 
 ## Resources
 
