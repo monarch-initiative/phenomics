@@ -7,7 +7,7 @@ Date | Day | Time (Pacific time) | Time (Eastern time)
 -- | -- | -- | --
 April 09, 2020 | Thursday | 10am - 1pm PT | 1pm - 4pm ET 
 
-No registration is needed. The **zoom room** will be available here the day of.  
+Click [here](https://nih.webex.com/webappng/sites/nih/meeting/info/157352692013890345?MTID=m8d781799d0c41672d57778a1144c9a22) to join the meeting. No registration needed.  
 
 
 ### Background
