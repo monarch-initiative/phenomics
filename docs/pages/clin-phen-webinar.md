@@ -32,7 +32,7 @@ Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 11:00am | 2:00pm | Break 
 11:10am | 2:10pm | Enchondromatoses and Related Malignant Tumors | Nara Sobreira
 11:20am | 2:20pm | Orofacial Clefts | Mary Marazita
-11:30am | 2:20pm | Adolescent Idiopathic Scoliosis | Carole Wise
+11:30am | 2:30pm | Adolescent Idiopathic Scoliosis | Carole Wise
 11:40am | 2:40pm | Cornelia de Lange Syndrome | Sarah Raible
 11:50am | 2:50pm | Summary of survey results | Deanne Taylor
 12:00pm | 3:00pm | Break
