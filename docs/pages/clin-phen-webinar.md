@@ -23,23 +23,24 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 -- | -- | -- | -- 
-10:00am | 1:00pm | The importance of phenotype data depth, harmonization for "translational discovery". | Melissa Haendel
-10:10am | 1:10pm | Use case - What can be done in the Kids First Portal with good phenotype data | Adam Resnick
-10:20am | 1:20pm | Pediatric Cardiac Genomics Consortium (PCGC) | Betsy Goldmuntz
-10:30am | 1:30pm | DS-Congenital Heart Disease | Joaquin Espinosa
-10:40am | 1:40pm | Neuropsychological Data Harmonization | Stephanie Sherman
-10:50am | 1:50pm | DS-ALL & Rhabdomyosarcoma | Philip Lupo
-11:00am | 2:00pm | Break 
-11:10am | 2:10pm | Enchondromatoses and Related Malignant Tumors | Nara Sobreira
-11:20am | 2:20pm | Orofacial Clefts | Mary Marazita
-11:30am | 2:30pm | Adolescent Idiopathic Scoliosis | Carole Wise
-11:40am | 2:40pm | Cornelia de Lange Syndrome | Sarah Raible
-11:50am | 2:50pm | Questions
-12:00pm | 3:00pm | Break
-12:10pm | 3:10pm | Summary of survey results | Deanne Taylor
-12:20pm | 3:20pm | DRC data harmonization process to the Kids First portal | Allison Heath
-12:30pm | 3:30pm | NIH Perspective | James Coulombe, NICHD
-12:35pm | 3:35pm | Brainstorming session and discussion | Lead by Melissa Haendel
+10:00am | 1:00pm | Introductions | Valerie Cotton and Nicole Vasilevsky
+10:05am | 1:05pm | The importance of phenotype data depth, harmonization for "translational discovery". | Melissa Haendel
+10:15am | 1:15pm | Use case - What can be done in the Kids First Portal with good phenotype data | Adam Resnick
+10:25am | 1:25pm | Pediatric Cardiac Genomics Consortium (PCGC) | Betsy Goldmuntz
+10:35am | 1:35pm | DS-Congenital Heart Disease | Joaquin Espinosa
+10:45am | 1:45pm | Neuropsychological Data Harmonization | Stephanie Sherman
+10:55am | 1:55pm | DS-ALL & Rhabdomyosarcoma | Philip Lupo
+11:05am | 2:05pm | Break 
+11:15am | 2:15pm | Enchondromatoses and Related Malignant Tumors | Nara Sobreira
+11:25am | 2:25pm | Orofacial Clefts | Mary Marazita
+11:35am | 2:35pm | Adolescent Idiopathic Scoliosis | Carole Wise
+11:45am | 2:45pm | Cornelia de Lange Syndrome | Sarah Raible
+11:55am | 2:55pm | Questions
+12:05pm | 3:05pm | Break
+12:15pm | 3:15pm | Summary of survey results | Deanne Taylor
+12:25pm | 3:25pm | DRC data harmonization process to the Kids First portal | Allison Heath
+12:35pm | 3:35pm | NIH Perspective | James Coulombe, NICHD
+12:40pm | 3:40pm | Brainstorming session and discussion | Lead by Melissa Haendel
 
 ## Resources
 
