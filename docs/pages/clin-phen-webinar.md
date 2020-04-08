@@ -34,11 +34,12 @@ Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 11:20am | 2:20pm | Orofacial Clefts | Mary Marazita
 11:30am | 2:30pm | Adolescent Idiopathic Scoliosis | Carole Wise
 11:40am | 2:40pm | Cornelia de Lange Syndrome | Sarah Raible
-11:50am | 2:50pm | Summary of survey results | Deanne Taylor
+11:50am | 2:50pm | Questions
 12:00pm | 3:00pm | Break
-12:10pm | 3:10pm | DRC data harmonization process to the Kids First portal | Allison Heath
-12:20pm | 3:20pm | NIH Perspective | James Coulombe, NICHD
-12:25pm | 3:25pm | Brainstorming session and discussion | Lead by Melissa Haendel
+12:10pm | 3:10pm | Summary of survey results | Deanne Taylor
+12:20pm | 3:20pm | DRC data harmonization process to the Kids First portal | Allison Heath
+12:30pm | 3:30pm | NIH Perspective | James Coulombe, NICHD
+12:35pm | 3:35pm | Brainstorming session and discussion | Lead by Melissa Haendel
 
 ## Resources
 
