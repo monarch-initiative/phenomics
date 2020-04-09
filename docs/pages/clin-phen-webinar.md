@@ -45,6 +45,8 @@ Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 ## Resources
 
 Webinar slides will be available [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
+Notes [here](https://docs.google.com/document/d/1BzBhIZARojcluwr_8UI5vdGlHbdMvRt2gFFmCWxLX9U/edit)
+Brainstorming [here](https://dotstorming.com/b/5e8e6215fab67d050a6064fb)
 
 
 
