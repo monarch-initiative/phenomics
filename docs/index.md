@@ -15,7 +15,6 @@ Topic | Dates | Location
 Topic | Dates | Location
 -- | -- | --
 [Innovation across the Phenotypic Translational Divide Workshop](pages/clin-phen.md) | July 28-29, 2020 | Philadelphia, PA
-[Phenotypes Traversing All the Organisms Workshop (POTATO3)](pages/potato.md) | Canceled due to COVID-19 | 
 
 #### Funding
 These workshops were supported by an NIH BD2K conference grant “Forums for Integrative phenomics” to Melissa Haendel and Peter Robinson: U13CA221044.
