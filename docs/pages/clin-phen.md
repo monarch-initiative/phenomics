@@ -1,25 +1,12 @@
 ## Innovation across the Phenotypic Translational Divide Workshop
 
-**The workshop on April 09-10 cancelled due to the coronavirus outbreak.** A webinar will be held on April 09, and the face-to-face meeting is rescheduled for July 28-29,2020.
-
-### Webinar 
-
-Date | Day | Time
--- | -- | --
-April 09, 2020 | Thursday | 1pm - 3:30pm ET 
-
-Webinar agenda is [here](clin-phen-webinar.md)  
-
-Webinar slides are [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
-
-### Face to Face Workshop 
+These dates are tentatively scheduled and are subject to change due to travel restrictions due to the COVID-19 pandemic. We hope everyone is staying safe and healthy.
 
 Date | Day | Time
 -- | -- | --
 July 28, 2020 | Tuesday | 9am - 5pm ET
 July 29, 2020 | Wednesday | 9am - 3pm ET 
  
-
 **Location:**   
 Children's Hospital of Pennsylvania (CHOP)  
 Roberts Center for Pediatric Research  
@@ -41,7 +28,7 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 ## Agenda
 
-[Click here for the detailed schedule](https://docs.google.com/spreadsheets/d/1ozz9hM9WRIlXqHLZAriu7xdKYhEV5cppNMXjC4J1cBg/edit#gid=0)
+_The agenda is under development and will be finalized closer to the date._
 
 ### Day 1 
 1. **Welcome and logistics** - Nicole Vasilevsky and Valerie Cotton 
@@ -64,6 +51,8 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 5. **Breakout 1: Phenotypes in harmony**. During this breakout, we will have 4 groups focused on disease topics, and discussion questions will be provided for each group. Details [here](https://monarch-initiative.github.io/phenomics/pages/clin-phen-breakout-1.html).
 6. Brainstorm day 2 breakouts.
 
+[Che detailed schedule will be finalized closer to the date.](https://docs.google.com/spreadsheets/d/1ozz9hM9WRIlXqHLZAriu7xdKYhEV5cppNMXjC4J1cBg/edit#gid=0)
+
 ### Day 2
 
 1. **Welcome and logistics** - Nicole Vasilevsky and Valerie Cotton 
@@ -83,10 +72,9 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 ## Resources
 
-- Webinar slides are [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
+- The webinar was hosted on April 09, 2020. More details are [here](clin-phen-webinar.md) (https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)
 - Face-to-face Workshop slides are available [here](https://docs.google.com/presentation/d/1jaTFTAIHsQoolNL8l_blZ7wV2FUsUwVPnVGIBdVETSE/edit#slide=id.p)  
-- Dinner recommendations for Thursday night are [here](https://docs.google.com/spreadsheets/d/1wxa3jiKCtKnFXMbgRlUfQ5at6-_QvTE12LpUhhVuuZw/edit#gid=0)
-
+- Dinner recommendations are [here](https://docs.google.com/spreadsheets/d/1wxa3jiKCtKnFXMbgRlUfQ5at6-_QvTE12LpUhhVuuZw/edit#gid=0)
 
 
 
