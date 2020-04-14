@@ -51,8 +51,6 @@ _The agenda is under development and will be finalized closer to the date._
 5. **Breakout 1: Phenotypes in harmony**. During this breakout, we will have 4 groups focused on disease topics, and discussion questions will be provided for each group. Details [here](https://monarch-initiative.github.io/phenomics/pages/clin-phen-breakout-1.html).
 6. Brainstorm day 2 breakouts.
 
-[Che detailed schedule will be finalized closer to the date.](https://docs.google.com/spreadsheets/d/1ozz9hM9WRIlXqHLZAriu7xdKYhEV5cppNMXjC4J1cBg/edit#gid=0)
-
 ### Day 2
 
 1. **Welcome and logistics** - Nicole Vasilevsky and Valerie Cotton 
@@ -69,6 +67,8 @@ _The agenda is under development and will be finalized closer to the date._
 - How to empower researchers to leverage existing standards, tools, and other resources to strengthen Kids First data for translational discovery? 
 9. **Funding opportunities to support clinical and phenotypic data collection, extraction, and harmonization, as well as “translational discovery”** - Valerie Cotton and James Coulombe
 10. **Wrap up the workshop** - Melissa Haendel and Adam Resnick
+
+[The detailed schedule will be finalized closer to the date.](https://docs.google.com/spreadsheets/d/1ozz9hM9WRIlXqHLZAriu7xdKYhEV5cppNMXjC4J1cBg/edit#gid=0)
 
 ## Resources
 
