@@ -40,7 +40,7 @@ Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 12:15pm | 3:15pm | Summary of survey results | Deanne Taylor
 12:25pm | 3:25pm | DRC data harmonization process to the Kids First portal | Allison Heath
 12:35pm | 3:35pm | NIH Perspective | James Coulombe, NICHD
-12:40pm | 3:40pm | Brainstorming session and discussion | Lead by Melissa Haendel
+12:40pm | 3:40pm | Brainstorming session and discussion | Led by Melissa Haendel
 
 ## Resources
 
