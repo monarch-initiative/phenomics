@@ -48,8 +48,6 @@ Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 
 - Notes doc is [here](https://docs.google.com/document/d/1BzBhIZARojcluwr_8UI5vdGlHbdMvRt2gFFmCWxLX9U/edit)  
 
-- Brainstorming doc is [here](https://dotstorming.com/b/5e8e6215fab67d050a6064fb)  
-
 - Webinar recording is [here](https://www.youtube.com/watch?v=qaJQdb4JKfU&amp=&feature=youtu.be)
 
 
