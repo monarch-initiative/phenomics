@@ -7,7 +7,7 @@ Date | Day | Time (Pacific time) | Time (Eastern time)
 -- | -- | -- | --
 July 28, 2020 | Tuesday | 10am - 1pm PT | 1pm - 4pm ET 
 
-The webinar link will be linked [here]() closer to the date. No registration needed.  
+The webinar link will be available [here]() closer to the date. No registration needed.  
 
 
 ### Background
