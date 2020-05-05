@@ -41,6 +41,7 @@ Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 
 ## Resources
 
+- Part 1 Webinar agenda is [here](https://monarch-initiative.github.io/phenomics/pages/clin-phen-webinar.html)
 - Part 1 Webinar slides are [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)  
 - Part 1 Webinar recording is [here](https://www.youtube.com/watch?v=qaJQdb4JKfU&amp=&feature=youtu.be)
 
