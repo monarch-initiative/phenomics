@@ -3,11 +3,9 @@
 
 ### Webinar 
 
-Note - the webinar will be rescheduled from its original time (July 29, 2020). Please check back for updates.
-
 Date | Day | Time (Pacific time) | Time (Eastern time)
 -- | -- | -- | --
-TBD | TBD | 10am - 1pm PT | 1pm - 4pm ET 
+Sept 02, 2020 | Wed | 12pm - 3pm PT | 3pm - 6pm ET 
 
 The webinar link will be available [here]() closer to the date. No registration needed.  
 
