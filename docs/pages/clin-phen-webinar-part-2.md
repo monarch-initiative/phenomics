@@ -29,13 +29,13 @@ Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 12:30pm | 3:30pm | Structural birth defects and childhood cancer | Patrick Sleiman
 12:40pm | 3:40pm | Neuroblastoma | Sharon Diskin 
 12:50pm | 3:50pm | Questions + Discussion
-1:10pm | 4:10pm | Break 
-1:20pm | 4:20pm | CHARGE syndrome | Donna Martin
-1:30pm | 4:30pm | Laterality Birth Defects | Stephanie Ware
-1:40pm | 4:40pm | X01 Investigator Presentation | TDB
-1:50pm | 4:50pm | Questions + Discussion
-2:00pm | 5:00pm | Break
-2:10pm | 5:10pm | Brainstorming session and discussion | TBD
+1:00pm | 4:00pm | Break 
+1:10pm | 4:10pm | CHARGE syndrome | Donna Martin
+1:20pm | 4:20pm | Laterality Birth Defects | Stephanie Ware
+1:30pm | 4:30pm | X01 Investigator Presentation | TDB
+1:40pm | 4:40pm | Questions + Discussion
+1:50pm | 4:50pm | Break
+2:00pm | 5:00pm | Brainstorming session and discussion | TBD
 2:50pm | 5:50pm | Closing Statements: Where are we going?| Adam Resnick
 3:00pm | 6:00pm | Adjourn
 
