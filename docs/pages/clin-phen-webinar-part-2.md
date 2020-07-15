@@ -23,21 +23,20 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 
 Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 -- | -- | -- | -- 
-10:00am | 1:00pm | Introductions | Valerie Cotton and Nicole Vasilevsky
-10:10am | 1:10pm | TBD | TDB
-10:20am | 1:20pm | TBD | TDB
-10:30am | 1:30pm | X01 Investigator Presentation | TDB
-10:40am | 1:40pm | X01 Investigator Presentation | TDB
-10:50am | 1:50pm | X01 Investigator Presentation | TDB
-11:00am | 2:00pm | Questions
-11:10am | 2:10pm | Break 
-11:20am | 2:20pm | X01 Investigator Presentation | TDB
-11:30am | 2:30pm | X01 Investigator Presentation | TDB
-11:40am | 2:40pm | X01 Investigator Presentation | TDB
-11:50am | 2:50pm | Questions
-12:00pm | 3:00pm | Break
-12:10pm | 3:10pm | Brainstorming session and discussion | TBD
-01:00pm | 4:00pm | Adjourn
+12:00pm | 3:00pm | Introductions | Valerie Cotton and Nicole Vasilevsky
+12:10pm | 3:10pm | Kids First Phenotyping | Deanne Taylor
+12:20pm | 3:20pm | Kidney and Urinary Tract Defects | Ali Gharavi
+12:30pm | 3:30pm | Structural birth defects and childhood cancer | Patrick Sleiman
+12:40pm | 3:40pm | Neuroblastoma | Sharon Diskin 
+12:50pm | 3:50pm | Questions + Discussion
+1:10pm | 4:10pm | Break 
+1:20pm | 4:20pm | CHARGE syndrome | Donna Martin
+1:30pm | 4:30pm | Laterality Birth Defects | Stephanie Ware
+1:40pm | 4:40pm | X01 Investigator Presentation | TDB
+1:50pm | 4:50pm | Questions + Discussion
+2:00pm | 5:00pm | Break
+2:10pm | 5:10pm | Brainstorming session and discussion | TBD
+3:00pm | 6:00pm | Adjourn
 
 ## Resources
 
