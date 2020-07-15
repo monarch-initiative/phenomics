@@ -36,6 +36,7 @@ Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 1:50pm | 4:50pm | Questions + Discussion
 2:00pm | 5:00pm | Break
 2:10pm | 5:10pm | Brainstorming session and discussion | TBD
+2:50pm | 5:50pm | Closing Statements: Where are we going?| Adam Resnick
 3:00pm | 6:00pm | Adjourn
 
 ## Resources
