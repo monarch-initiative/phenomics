@@ -22,12 +22,12 @@ This event is co-planned by the [Monarch Initiative](https://monarchinitiative.o
 ## Agenda
 
 Time (Pacific time) | Time (Eastern time) | Duration |  Topic | Speaker
--- | -- | -- | -- 
+-- | -- | -- | -- | --
 12:00pm | 3:00pm | 10 min | **Introductions** | Valerie Cotton and Nicole Vasilevsky
 12:10pm | 3:10pm | 10 min | **Kids First Phenotyping** | Deanne Taylor
 12:20pm | 3:20pm | 10 min | **Kidney and Urinary Tract Defects** | Ali Gharavi
 12:30pm | 3:30pm | 10 min | **Structural birth defects and childhood cancer** | Patrick Sleiman
-12:40pm | 3:40pm | 10 min | **Neuroblastoma | Sharon** Diskin 
+12:40pm | 3:40pm | 10 min | **Neuroblastoma** | Sharon Diskin 
 12:50pm | 3:50pm | 10 min | **Questions + Discussion**
 1:00pm | 4:00pm | 10 min | Break 
 1:10pm | 4:10pm | 10 min | **CHARGE syndrome** | Donna Martin
@@ -35,7 +35,7 @@ Time (Pacific time) | Time (Eastern time) | Duration |  Topic | Speaker
 1:30pm | 4:30pm | 10 min | **X01 Investigator Presentation** | TDB
 1:40pm | 4:40pm | 10 min | **Questions + Discussion**
 1:50pm | 4:50pm | 10 min | Break
-2:00pm | 5:00pm | 50 min | **Brainstorming session and discussion** | TBD
+2:00pm | 5:00pm | 50 min | **Brainstorming session and discussion** | Nicole Vasilevsky
 2:50pm | 5:50pm | 10 min | **Closing Statements: Where are we going?** | Adam Resnick
 3:00pm | 6:00pm | Adjourn
 
