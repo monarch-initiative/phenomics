@@ -32,7 +32,7 @@ Time (Pacific time) | Time (Eastern time) | Duration |  Topic | Speaker
 1:00pm | 4:00pm | 10 min | Break 
 1:10pm | 4:10pm | 10 min | **CHARGE syndrome** | Donna Martin
 1:20pm | 4:20pm | 10 min | **Laterality Birth Defects** | Stephanie Ware
-1:30pm | 4:30pm | 10 min | **X01 Investigator Presentation** | TDB
+1:30pm | 4:30pm | 10 min | **Structural Brain Defects, Neural Tube Defects** | Joe Gleeson
 1:40pm | 4:40pm | 10 min | **Questions + Discussion**
 1:50pm | 4:50pm | 10 min | Break
 2:00pm | 5:00pm | 50 min | **Brainstorming session and Portal demo to inform discussion** | Nicole Vasilevsky and Allison Heath
