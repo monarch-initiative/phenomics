@@ -7,8 +7,11 @@ Date | Day | Time (Pacific time) | Time (Eastern time)
 -- | -- | -- | --
 Sept 02, 2020 | Wed | 12pm - 3pm PT | 3pm - 6pm ET 
 
-The webinar link will be available [here]() closer to the date. No registration needed.  
-
+WebEx:
+[Meeting Link](https://nih.webex.com/nih/j.php?MTID=mc9202b256efc27b891c87e49a0c15bfc)
+Audio connection:1-650-479-3208  Call-in toll number (US/Canada) Global call-in numbers
+Meeting number/Access Code: 126 156 2165
+Meeting password: _Will be shared via the invitation_
 
 ### Background
 
