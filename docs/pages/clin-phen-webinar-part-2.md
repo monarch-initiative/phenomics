@@ -44,9 +44,9 @@ Time (Pacific time) | Time (Eastern time) | Duration |  Topic | Speaker
 
 ## Resources
 
-### Part 2 Webinat:
+### Part 2 Webinar:
 
-- Part 2 slides are [here](https://docs.google.com/presentation/d/1xp7swTPp_-Vv6t1zrDnT0z1G4frLfO4wYD-uBnioJvs/edit#slide=id.p1)
+- Part 2 Webinar slides are [here](https://docs.google.com/presentation/d/1xp7swTPp_-Vv6t1zrDnT0z1G4frLfO4wYD-uBnioJvs/edit#slide=id.p1)
 
 ### Part 1 Webinar:
 
