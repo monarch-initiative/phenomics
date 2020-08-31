@@ -29,7 +29,7 @@ Time (Pacific time) | Time (Eastern time) | Duration |  Topic | Speaker
 12:00pm | 3:00pm | 10 min | **Introductions** | Valerie Cotton and Nicole Vasilevsky
 12:10pm | 3:10pm | 10 min | **Kids First Phenotyping** | Deanne Taylor
 12:20pm | 3:20pm | 10 min | **Kidney and Urinary Tract Defects** | Ali Gharavi
-12:30pm | 3:30pm | 10 min | **Structural birth defects and childhood cancer** | Patrick Sleiman
+12:30pm | 3:30pm | 10 min | **Structural birth defects and childhood cancer** | Xiang Wang
 12:40pm | 3:40pm | 10 min | **Neuroblastoma** | Sharon Diskin 
 12:50pm | 3:50pm | 10 min | **Questions + Discussion**
 1:00pm | 4:00pm | 10 min | Break 
