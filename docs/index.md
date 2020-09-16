@@ -15,7 +15,7 @@ Topic | Dates | Location
 
 Topic | Dates | Location
 -- | -- | --
-[Innovation across the Phenotypic Translational Divide Workshop Part 3](pages/clin-phen-webinar-part-3.md)(pages/clin-phen.md) | TBD | Online
+[Innovation across the Phenotypic Translational Divide Workshop Part 3](pages/clin-phen-webinar-part-3.md) | TBD | Online
 
 #### Funding
 These workshops were supported by an NIH BD2K conference grant “Forums for Integrative phenomics” to Melissa Haendel and Peter Robinson: U13CA221044.
