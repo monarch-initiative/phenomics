@@ -5,7 +5,7 @@
 
 Date | Day | Time (Pacific time) | Time (Eastern time)
 -- | -- | -- | --
-TBD | TBD | TBD | TBD
+December 09, 2020 | Wednesday | 12-3pm | 3-6pm
 
 WebEx:
 TBD 
