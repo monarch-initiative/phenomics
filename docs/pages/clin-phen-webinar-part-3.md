@@ -35,7 +35,7 @@ TBD
 
 - Part 2 Webinar slides are [here](https://docs.google.com/presentation/d/1xp7swTPp_-Vv6t1zrDnT0z1G4frLfO4wYD-uBnioJvs/edit#slide=id.p1)
 - Part 2 Webinar recording is [here](https://nih.webex.com/recordingservice/sites/nih/recording/play/5ed56b20dd2446a4ab649431096ec2da)
-- Blog post is [here}(https://medium.com/@MonarchInit/working-together-to-improve-deep-phenotyping-for-pediatric-cancer-and-structural-birth-defects-6e7ee89cb016)
+- Blog post is [here](https://medium.com/@MonarchInit/working-together-to-improve-deep-phenotyping-for-pediatric-cancer-and-structural-birth-defects-6e7ee89cb016)
 
 
 
