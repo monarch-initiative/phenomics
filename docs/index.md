@@ -8,8 +8,8 @@ Topic | Dates | Location
 [Phenotypes Traversing All the Organisms Workshop (POTATO2)](pages/potato.md) | April 07, 2019 | Cambridge, UK
 [Phenopackets Hackathon](pages/phenopackets.md) | April 30, 2019 | Hinxton, UK
 [Computable Exposures](pages/exposures.md) | September 9-10, 2019 | Corvallis, Oregon, USA
-[Innovation across the Phenotypic Translational Divide Webinar](pages/clin-phen-webinar.md) | April 06, 2020 | Online
-[Innovation across the Phenotypic Translational Divide Workshop](pages/clin-phen-webinar-part-2.md) | September 02, 2020 | Online
+[Innovation across the Phenotypic Translational Divide Workshop Part 1](pages/clin-phen-webinar.md) | April 06, 2020 | Online
+[Innovation across the Phenotypic Translational Divide Workshop Part 2](pages/clin-phen-webinar-part-2.md) | September 02, 2020 | Online
 
 ### Planned Future Workshops
 
