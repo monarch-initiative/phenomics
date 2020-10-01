@@ -51,6 +51,7 @@ Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 
 ### Part 2 Webinar:
 
+- Part 2 Webinar agenda is [here](pages/clin-phen-webinar-part-2.md)
 - Part 2 Webinar slides are [here](https://docs.google.com/presentation/d/1xp7swTPp_-Vv6t1zrDnT0z1G4frLfO4wYD-uBnioJvs/edit#slide=id.p1)
 - Part 2 Webinar recording is [here](https://nih.webex.com/recordingservice/sites/nih/recording/play/5ed56b20dd2446a4ab649431096ec2da)
 
