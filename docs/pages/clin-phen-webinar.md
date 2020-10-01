@@ -47,6 +47,7 @@ Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 - Webinar slides are [here](https://docs.google.com/presentation/d/1rJh6IQcVoPbSHOzZpxq7rC4qkU-VDx4d9XMu0F0udYI/edit#slide=id.p)  
 - Notes doc is [here](https://docs.google.com/document/d/1BzBhIZARojcluwr_8UI5vdGlHbdMvRt2gFFmCWxLX9U/edit)  
 - Webinar recording is [here](https://www.youtube.com/watch?v=qaJQdb4JKfU&amp=&feature=youtu.be)
+- Blog post is [here}(https://medium.com/@MonarchInit/working-together-to-improve-deep-phenotyping-for-pediatric-cancer-and-structural-birth-defects-6e7ee89cb016)
 
 ### Part 2 Webinar:
 
