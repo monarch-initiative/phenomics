@@ -18,7 +18,7 @@ Introduction to the value of cross-species research | [Melissa Haendel](https://
 **Use Cases**: How structural birth defects and childhood cancer researchers use model systems to inform genetic discovery | TBD | 40 min
 Break | | 5 min
 **Keynote**: Diagnostic successes in Genomics England | [Damian Smedley](https://www.qmul.ac.uk/whri/people/academic-staff/items/smedleydamian.html) | 10 min
-**Panel**: Model Organism Databases | Chaired by [Damian Smedley](https://www.qmul.ac.uk/whri/people/academic-staff/items/smedleydamian.html) | 35 min
+**Panel**: Model Organism Databases | Chair TBD | 35 min
 Integrating cross-species resources in a Common Fund Data Ecosystem to inform Kids First genetic discovery | [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 10 min
 **Panel**: Cross-phenotyping tools and resources | Chaired by [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 30 min 
 Break | | 5 min
