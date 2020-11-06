@@ -14,7 +14,7 @@ TBD
 
 Topic | Speaker | Duration 
 -- | -- | -- 
-Introduction to the value of cross-species research | [Melissa Haendel](https://lpi.oregonstate.edu/faculty-staff/melissa-haendel)
+Introduction to the value of cross-species research | [Melissa Haendel](https://lpi.oregonstate.edu/faculty-staff/melissa-haendel) | 10 min
 **Use Cases**: How structural birth defects and childhood cancer researchers use model systems to inform genetic discovery | TBD | 40 min
 Break | | 10 min
 **Keynote**: Diagnostic successes in Genomics England | [Damian Smedley](https://www.qmul.ac.uk/whri/people/academic-staff/items/smedleydamian.html) | 
