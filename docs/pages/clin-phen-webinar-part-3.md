@@ -1,7 +1,7 @@
 
 ## Innovation across the Phenotypic Translational Divide Webinar - Part 3
 
-### Webinar 
+### Cross Species Phenotyping
 
 Date | Day | Time (Pacific time) | Time (Eastern time)
 -- | -- | -- | --
