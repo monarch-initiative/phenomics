@@ -5,14 +5,26 @@
 
 Date | Day | Time (Pacific time) | Time (Eastern time)
 -- | -- | -- | --
-December 09, 2020 | Wednesday | 12-3pm | 3-6pm
+January 27, 2021 | Wednesday | 8-11am | 11am-2pm
 
 WebEx:
 TBD 
 
 ## Agenda
 
-TBD
+Topic | Speaker | Duration 
+-- | -- | -- 
+Introduction to the value of cross-species research | Melissa Haendel 
+**Use Cases**: How structural birth defects and childhood cancer researchers use model systems to inform genetic discovery | TBD | 40 min
+Break | | 10 min
+**Keynote**: Diagnostic successes in Genomics England | Damian Smedley | 
+**Panel**: Model Organism Databases | Chaired by Damiam Smedley | 35 min
+Integrating cross-species resources in a Common Fund Data Ecosystem to inform Kids First genetic discovery | Deanne Taylor |
+**Panel**: Cross-phenotyping tools and resources | Chaired by Deanne Taylor | 35 min 
+Break | | 10 min
+**Brainstorm**: How existing model organism databases and tools can interact with the Kids First Data Resource to inform variant validation | | 25 min
+Closing remarks | Nicole Vasilevsky
+
 
 ## Resources
 
