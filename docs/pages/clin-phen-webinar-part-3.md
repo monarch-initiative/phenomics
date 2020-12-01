@@ -29,6 +29,7 @@ Break | | 5 min
 **Panel: Model Organism Databases**  | Chaired by [Damian Smedley](https://www.qmul.ac.uk/whri/people/academic-staff/items/smedleydamian.html) | 35 min
 KOMP2/IMPC | Pilar Cacheiro 
 Canine Models in the Cancer Research Data Commons | Todd Pihl
+Xenbase | Mardi Nenni
 Integrating cross-species resources in a Common Fund Data Ecosystem to inform Kids First genetic discovery | [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 10 min
 **Panel**: Cross-phenotyping tools and resources | Chaired by [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 30 min 
 Break | | 5 min
