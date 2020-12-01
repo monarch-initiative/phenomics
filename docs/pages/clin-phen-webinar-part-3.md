@@ -31,7 +31,10 @@ KOMP2/IMPC | Pilar Cacheiro |
 Canine Models in the Cancer Research Data Commons | Todd Pihl |
 Xenbase | Mardi Nenni | 
 **Integrating cross-species resources in a Common Fund Data Ecosystem to inform Kids First genetic discovery** | [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 10 min
-**Panel**: Cross-phenotyping tools and resources | Chaired by [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 30 min 
+**Panel: Cross-phenotyping tools and resources** | Chaired by [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 30 min 
+Exomiser |  Jules Jacobsen | 
+uPheno and patternizing for organismal interoperability | Nico  Matentzoglu |
+The Monarch knowledge graph and Biolink API for querying and analytics | Justin Reese and Chris Mungall |
 **Break** | | 5 min
 **Brainstorm**: How existing model organism databases and tools can interact with the Kids First Data Resource to inform variant validation | | 25 min
 Closing remarks | [Nicole Vasilevsky](https://www.ohsu.edu/people/nicole-a-vasilevsky) | 5 min
