@@ -47,11 +47,11 @@ Since time for presentations is limited, we encourage you to learn more about so
 #### Talks
 - [Wendy Chung’s Kids First project (webinar presentation)](https://www.youtube.com/watch?v=3CS6AphmCp0&t=978)
 - [Sharon Diskin and John Maris’s Kids First project (webinar presentation)](https://www.youtube.com/watch?v=Gq8kK2UGI4s)
-- [Elizabeth Engle’s KOMP2 project](https://commonfund.nih.gov/kidsfirst/collaboration)
 
 #### Resources
 - [Kids First Data Resource Portal](https://portal.kidsfirstdrc.org/)
 - [KOMP2/IMPC](https://www.mousephenotype.org/)
+- [Elizabeth Engle’s KOMP2 project](https://commonfund.nih.gov/kidsfirst/collaboration)
 - [Xenbase](http://www.xenbase.org/entry/)
 - [ZFIN](https://zfin.org/)
 - [Integrated Canine Data Commons](https://datacommons.cancer.gov/repository/integrated-canine-data-commons)
