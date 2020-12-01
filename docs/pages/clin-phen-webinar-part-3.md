@@ -19,7 +19,7 @@ The **[Gabriella Miller Kids First Pediatric Research Program (Kids First)](http
 Topic | Speaker | Duration 
 -- | -- | -- 
 Introduction to the value of cross-species research | [Melissa Haendel](https://lpi.oregonstate.edu/faculty-staff/melissa-haendel) | 10 min
-**Use Cases: How structural birth defects and childhood cancer researchers use model systems to inform genetic discovery** 
+**Use Cases: How structural birth defects and childhood cancer researchers use model systems to inform genetic discovery** | | 
 Cardiovascular diseases | Matt Wheeler | 10 min
 Congenital Diaphragmatic Hernia | Wendy Chung | 10 min
 Cranial dysinnervation disorders | Elizabeth Engle | 10 min
@@ -27,10 +27,10 @@ PDX neuroblastoma mouse models | John Maris | 10 min
 Break | | 5 min
 **Keynote**: Diagnostic successes in Genomics England | [Damian Smedley](https://www.qmul.ac.uk/whri/people/academic-staff/items/smedleydamian.html) | 10 min
 **Panel: Model Organism Databases**  | Chaired by [Damian Smedley](https://www.qmul.ac.uk/whri/people/academic-staff/items/smedleydamian.html) | 35 min
-KOMP2/IMPC | Pilar Cacheiro 
-Canine Models in the Cancer Research Data Commons | Todd Pihl
-Xenbase | Mardi Nenni
-Integrating cross-species resources in a Common Fund Data Ecosystem to inform Kids First genetic discovery | [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 10 min
+KOMP2/IMPC | Pilar Cacheiro | 
+Canine Models in the Cancer Research Data Commons | Todd Pihl |
+Xenbase | Mardi Nenni | 
+**Integrating cross-species resources in a Common Fund Data Ecosystem to inform Kids First genetic discovery** | [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 10 min
 **Panel**: Cross-phenotyping tools and resources | Chaired by [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 30 min 
 Break | | 5 min
 **Brainstorm**: How existing model organism databases and tools can interact with the Kids First Data Resource to inform variant validation | | 25 min
