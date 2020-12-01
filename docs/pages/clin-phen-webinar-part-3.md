@@ -19,7 +19,11 @@ The **[Gabriella Miller Kids First Pediatric Research Program (Kids First)](http
 Topic | Speaker | Duration 
 -- | -- | -- 
 Introduction to the value of cross-species research | [Melissa Haendel](https://lpi.oregonstate.edu/faculty-staff/melissa-haendel) | 10 min
-**Use Cases**: How structural birth defects and childhood cancer researchers use model systems to inform genetic discovery | TBD | 40 min
+**Use Cases: How structural birth defects and childhood cancer researchers use model systems to inform genetic discovery** 
+Cardiovascular diseases | Matt Wheeler | 10 min
+Congenital Diaphragmatic Hernia | Wendy Chung | 10 min
+Cranial dysinnervation disorders | Elizabeth Engle | 10 min
+PDX neuroblastoma mouse models | John Maris | 10 min
 Break | | 5 min
 **Keynote**: Diagnostic successes in Genomics England | [Damian Smedley](https://www.qmul.ac.uk/whri/people/academic-staff/items/smedleydamian.html) | 10 min
 **Panel**: Model Organism Databases | Chaired by [Damian Smedley](https://www.qmul.ac.uk/whri/people/academic-staff/items/smedleydamian.html) | 35 min
