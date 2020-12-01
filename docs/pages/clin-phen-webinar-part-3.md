@@ -27,10 +27,10 @@ PDX neuroblastoma mouse models | John Maris | 10 min
 **Break** | | 5 min
 **Keynote**: Diagnostic successes in Genomics England | [Damian Smedley](https://www.qmul.ac.uk/whri/people/academic-staff/items/smedleydamian.html) | 10 min
 **Panel: Model Organism Databases**  | Chaired by [Damian Smedley](https://www.qmul.ac.uk/whri/people/academic-staff/items/smedleydamian.html) | 35 min
-[KOMP2/IMPC](https://www.mousephenotype.org/) | Pilar Cacheiro | 
-Canine Models in the [Integrated Canine Data Commons](https://datacommons.cancer.gov/repository/integrated-canine-data-commons) | Todd Pihl |
-[Xenbase](http://www.xenbase.org/entry/) | Mardi Nenni | 
-[ZFIN](https://zfin.org/) | Yvonne Bradford |
+[KOMP2/IMPC](https://www.mousephenotype.org/) - Mouse models | Pilar Cacheiro | 
+[Integrated Canine Data Commons](https://datacommons.cancer.gov/repository/integrated-canine-data-commons) - Canine models | Todd Pihl |
+[Xenbase](http://www.xenbase.org/entry/) - Frog models | Mardi Nenni | 
+[ZFIN](https://zfin.org/) - Zebrafish models | Yvonne Bradford |
 **Integrating cross-species resources in a Common Fund Data Ecosystem to inform Kids First genetic discovery** | [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 10 min
 **Panel: Cross-phenotyping tools and resources** | Chaired by [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 30 min 
 [uPheno](https://github.com/obophenotype/upheno) and patternizing for organismal interoperability | Nico  Matentzoglu |
