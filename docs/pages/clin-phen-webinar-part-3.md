@@ -7,6 +7,7 @@ Date | Day | Time (Pacific time) | Time (Eastern time)
 -- | -- | -- | --
 January 27, 2021 | Wednesday | 8-11am | 11am-2pm
 
+Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfVr1MNDuc_4XEmqBGM4OdWJTKtU4FnDHbXL3wTsjOVX504OQ/viewform)
 WebEx:
 TBD 
 
