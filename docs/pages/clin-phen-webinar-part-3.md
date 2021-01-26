@@ -33,7 +33,7 @@ PDX neuroblastoma mouse models | John Maris | 10 min
 **Integrating cross-species resources in a Common Fund Data Ecosystem to inform Kids First genetic discovery** | [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 10 min
 **Panel: Cross-phenotyping tools and resources** | Chaired by [Deanne Taylor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8820417) | 30 min 
 [uPheno](https://github.com/obophenotype/upheno) and patternizing for organismal interoperability | Nico  Matentzoglu |
-[The Monarch knowledge graph](https://monarchinitiative.org/) and [Biolink](https://biolink.github.io/biolink-model/) API for querying and analytics | Justin Reese and Kent Shefchek|
+[The Monarch knowledge graph](https://monarchinitiative.org/) and [Biolink](https://biolink.github.io/biolink-model/) API for querying and analytics | Justin Reese, Kent Shefchek and Deepak Unni|
 **Break** | | 5 min
 **Brainstorm**: How existing model organism databases and tools can interact with the Kids First Data Resource to inform variant validation | | 25 min
 Closing remarks | [Nicole Vasilevsky](https://www.ohsu.edu/people/nicole-a-vasilevsky) | 5 min
