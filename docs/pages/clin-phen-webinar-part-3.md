@@ -41,6 +41,10 @@ Closing remarks | [Nicole Vasilevsky](https://www.ohsu.edu/people/nicole-a-vasil
 
 ## Resources
 
+### Meeting slides
+- [Introduction and Logistics slides](https://docs.google.com/presentation/d/1FJY0_665NSvy9q4yS7VltOnKfN39q_cp27zOYeooy7o/edit#slide=id.p)
+- [The Value of Cross-Species Research by Melissa Haendel](https://docs.google.com/presentation/d/1_2Mpk8yuqr-8_fRwu3UCkpJ91s5tJt4kUY0R53F8c2k/edit)
+
 ### Pre-meeting Resources
 Since time for presentations is limited, we encourage you to learn more about some of the databases, resources, and projects that you will hear more about during the webinar, in advance of the meeting. 
 
