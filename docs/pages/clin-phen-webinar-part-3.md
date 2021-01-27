@@ -17,9 +17,9 @@ The **[Gabriella Miller Kids First Pediatric Research Program (Kids First)](http
 
 Topic | Speaker | Duration 
 -- | -- | -- 
-Introduction to the value of cross-species research | [Melissa Haendel](https://lpi.oregonstate.edu/faculty-staff/melissa-haendel) | 10 min
+[Introduction to the value of cross-species research(https://docs.google.com/presentation/d/1FJY0_665NSvy9q4yS7VltOnKfN39q_cp27zOYeooy7o/edit#slide=id.p) | [Melissa Haendel](https://lpi.oregonstate.edu/faculty-staff/melissa-haendel) | 10 min
 **Use Cases: How structural birth defects and childhood cancer researchers use model systems to inform genetic discovery** | | 
-Cardiovascular diseases | Matt Wheeler | 10 min
+[Cardiovascular diseases(https://docs.google.com/presentation/d/1W-Gh7E9G7o3Jqj2dhECO1Pim3zEz0ovfnwTnY1valAo/edit#slide=id.p1) | Matt Wheeler | 10 min
 Congenital Diaphragmatic Hernia | Wendy Chung | 10 min
 Cranial dysinnervation disorders | Elizabeth Engle | 10 min
 PDX neuroblastoma mouse models | John Maris | 10 min
@@ -44,6 +44,7 @@ Closing remarks | [Nicole Vasilevsky](https://www.ohsu.edu/people/nicole-a-vasil
 ### Part 3 Meeting slides + Brainstorming
 - [Introduction and Logistics slides](https://docs.google.com/presentation/d/1FJY0_665NSvy9q4yS7VltOnKfN39q_cp27zOYeooy7o/edit#slide=id.p)
 - [The Value of Cross-Species Research by Melissa Haendel](https://docs.google.com/presentation/d/1_2Mpk8yuqr-8_fRwu3UCkpJ91s5tJt4kUY0R53F8c2k/edit)
+- [Using Model Systems to inform genetic discovery: Cardiovascular Diseases: by Matthew Wheeler](https://docs.google.com/presentation/d/1W-Gh7E9G7o3Jqj2dhECO1Pim3zEz0ovfnwTnY1valAo/edit#slide=id.p1)
 - [Brainstorming session](https://easyretro.io/publicboard/k4EUv7SK0qVeKXR5PZdUIjXDrl72/7ec36cc5-7b11-428d-85e7-2349e69bf20d)
 
 ### Pre-meeting Resources
