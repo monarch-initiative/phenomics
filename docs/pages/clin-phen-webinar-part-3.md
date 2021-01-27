@@ -48,6 +48,9 @@ Closing remarks | [Nicole Vasilevsky](https://www.ohsu.edu/people/nicole-a-vasil
 - [Using Model Systems to inform genetic discovery: Cardiovascular Diseases: by Matthew Wheeler](https://docs.google.com/presentation/d/1W-Gh7E9G7o3Jqj2dhECO1Pim3zEz0ovfnwTnY1valAo/edit#slide=id.p1)
 - [Brainstorming session](https://easyretro.io/publicboard/k4EUv7SK0qVeKXR5PZdUIjXDrl72/7ec36cc5-7b11-428d-85e7-2349e69bf20d)
 
+### Part 3 Recording
+Coming soon.
+
 ### Pre-meeting Resources
 Since time for presentations is limited, we encourage you to learn more about some of the databases, resources, and projects that you will hear more about during the webinar, in advance of the meeting. 
 
