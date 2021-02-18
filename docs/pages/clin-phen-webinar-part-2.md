@@ -55,6 +55,7 @@ Time (Pacific time) | Time (Eastern time) | Duration |  Topic | Speaker
 
 - Part 2 Webinar slides are [here](https://docs.google.com/presentation/d/1xp7swTPp_-Vv6t1zrDnT0z1G4frLfO4wYD-uBnioJvs/edit#slide=id.p1)
 - Part 2 Webinar recording is [here](https://www.youtube.com/watch?v=Iib8CnsTO5Q&ab_channel=KidsFirstDataResourceCenter)
+- Part 2 blog post is [here](https://medium.com/@MonarchInit/advancing-deep-phenotyping-for-pediatric-cancer-and-structural-birth-defects-4e5827c0121f)
 
 ### Part 3 Webinar:
 
