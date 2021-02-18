@@ -55,6 +55,11 @@ Time (Pacific time) | Time (Eastern time) | Topic | Speaker
 - Part 2 Webinar slides are [here](https://docs.google.com/presentation/d/1xp7swTPp_-Vv6t1zrDnT0z1G4frLfO4wYD-uBnioJvs/edit#slide=id.p1)
 - Part 2 Webinar recording is [here](https://www.youtube.com/watch?v=Iib8CnsTO5Q&ab_channel=KidsFirstDataResourceCenter)
 
+### Part 3 Webinar:
+
+- Part 3 webinar agenda is [here](https://monarch-initiative.github.io/phenomics/pages/clin-phen-webinar-part-3.html)
+- Part 3 Webinar recording is [here](https://www.youtube.com/watch?v=MTo-YIiHYZE&feature=youtu.be)
+
 
 
 
