@@ -60,7 +60,7 @@ Time (Pacific time) | Time (Eastern time) | Duration |  Topic | Speaker
 ### Part 3 Webinar:
 
 - Part 3 webinar agenda is [here](https://monarch-initiative.github.io/phenomics/pages/clin-phen-webinar-part-3.html)
-- - Part 3 Webinar recording is [here](https://www.youtube.com/watch?v=MTo-YIiHYZE&feature=youtu.be)
+- Part 3 Webinar recording is [here](https://www.youtube.com/watch?v=MTo-YIiHYZE&feature=youtu.be)
 
 
 
