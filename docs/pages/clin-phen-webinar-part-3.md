@@ -7,8 +7,6 @@ Date | Day | Time (Pacific time) | Time (Eastern time)
 -- | -- | -- | --
 January 27, 2021 | Wednesday | 8-11am | 11am-2pm
 
-Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfVr1MNDuc_4XEmqBGM4OdWJTKtU4FnDHbXL3wTsjOVX504OQ/viewform)  
-
 ## Introduction:  
 
 The **[Gabriella Miller Kids First Pediatric Research Program (Kids First)](https://kidsfirstdrc.org/)** has built a cloud-based data resource for sharing and analyzing genomic and associated clinical and phenotypic data from a variety of childhood cancer and/or structural birth defects cohorts. **A critical next step to uncovering the etiologies and shared pathways underlying these conditions relies on functional validation using model systems and related tools and databases. Together with the [Monarch Initiative](https://monarchinitiative.org/), this webinar aims to foster new collaborations among a rapidly expanding community of development biologists, clinicians, tools developers, and data scientists seeking to accelerate pediatric research.**  Attendees will help identify new opportunities for building connections across resources to promote cross-species discovery with the ultimate goal of improving preventative measures, diagnostics, and therapeutics for children and families impacted by childhood cancer and structural birth defects.
