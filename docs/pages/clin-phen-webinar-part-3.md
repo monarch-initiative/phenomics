@@ -20,7 +20,7 @@ Topic | Speaker | Duration
 [Cardiovascular diseases](https://docs.google.com/presentation/d/1W-Gh7E9G7o3Jqj2dhECO1Pim3zEz0ovfnwTnY1valAo/edit#slide=id.p1) | Matt Wheeler | 10 min
 [Congenital Diaphragmatic Hernia ](https://drive.google.com/drive/folders/1rZhyIRZ_VqVyYT0m5Tqa9dyX2kyTYmzT)| Wendy Chung | 10 min
 Cranial dysinnervation disorders | Elizabeth Engle | 10 min
-PDX neuroblastoma mouse models | John Maris | 10 min
+[PDX neuroblastoma mouse models](https://docs.google.com/presentation/d/1uOkLKrMU47sK83zHUUY-SGIG-0KtSCFB/edit#slide=id.p1) | John Maris | 10 min
 **Break** | | 5 min
 **Keynote**: Diagnostic successes in Genomics England | [Damian Smedley](https://www.qmul.ac.uk/whri/people/academic-staff/items/smedleydamian.html) | 10 min
 **Panel: Model Organism Databases**  | Chaired by [Damian Smedley](https://www.qmul.ac.uk/whri/people/academic-staff/items/smedleydamian.html) | 35 min
@@ -44,6 +44,7 @@ Closing remarks | [Nicole Vasilevsky](https://www.ohsu.edu/people/nicole-a-vasil
 - [The Value of Cross-Species Research by Melissa Haendel](https://docs.google.com/presentation/d/1_2Mpk8yuqr-8_fRwu3UCkpJ91s5tJt4kUY0R53F8c2k/edit)
 - [Genetics of Congenital Diaphragmatic Hernia (CDH) in Mouse and Man by Wendy Chung](https://drive.google.com/file/d/1AnQ6a9yYM29ypoIFJmKFuSlT9sNvTtYI/view?usp=sharing) 
 - [Using Model Systems to inform genetic discovery: Cardiovascular Diseases: by Matthew Wheeler](https://docs.google.com/presentation/d/1W-Gh7E9G7o3Jqj2dhECO1Pim3zEz0ovfnwTnY1valAo/edit#slide=id.p1)
+- [PDX neuroblastoma mouse models: by John Maris](https://docs.google.com/presentation/d/1uOkLKrMU47sK83zHUUY-SGIG-0KtSCFB/edit#slide=id.p1) 
 - [Diagnostic successes in the 100,000 Genomes Project: by Damian Smedley](https://docs.google.com/presentation/d/1H1pTGxtL_-jERJbWu_o3yJioty0SoCfsa8QecQ-giCk/edit#slide=id.p1) 
 - [Brainstorming session](https://easyretro.io/publicboard/k4EUv7SK0qVeKXR5PZdUIjXDrl72/7ec36cc5-7b11-428d-85e7-2349e69bf20d)
 
