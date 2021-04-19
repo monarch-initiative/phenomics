@@ -18,7 +18,7 @@ Topic | Speaker | Duration
 [Introduction to the value of cross-species research](https://docs.google.com/presentation/d/1FJY0_665NSvy9q4yS7VltOnKfN39q_cp27zOYeooy7o/edit#slide=id.p) | [Melissa Haendel](https://lpi.oregonstate.edu/faculty-staff/melissa-haendel) | 10 min
 **Use Cases: How structural birth defects and childhood cancer researchers use model systems to inform genetic discovery** | | 
 [Cardiovascular diseases](https://docs.google.com/presentation/d/1W-Gh7E9G7o3Jqj2dhECO1Pim3zEz0ovfnwTnY1valAo/edit#slide=id.p1) | Matt Wheeler | 10 min
-[Congenital Diaphragmatic Hernia ](https://drive.google.com/drive/folders/1rZhyIRZ_VqVyYT0m5Tqa9dyX2kyTYmzT)| Wendy Chung | 10 min
+[Congenital Diaphragmatic Hernia ](https://drive.google.com/file/d/1AnQ6a9yYM29ypoIFJmKFuSlT9sNvTtYI/view)| Wendy Chung | 10 min
 Cranial dysinnervation disorders | Elizabeth Engle | 10 min
 [PDX neuroblastoma mouse models](https://docs.google.com/presentation/d/1uOkLKrMU47sK83zHUUY-SGIG-0KtSCFB/edit#slide=id.p1) | John Maris | 10 min
 **Break** | | 5 min
