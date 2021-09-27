@@ -36,8 +36,8 @@ The Phenotypes Traversing All the Organisms Workshop (POTATO) series brings toge
 The workshop was funded by NIH Office of the Director Grant #5R24OD011883, as well as by the phenomics conference grant 5U13CA221044-03. Coffee and other sustenance was kindly provided by the International Society for Biocuration. A big thank you goes to Midori Harris who oversaw the workshop logistics and ensured a surprise-free workshop experience! ERRATA: The funding statement in the PDF is replaced by the one above.
 
 ### POTATO3
-**Dates:** TBD, planned for 2020  
-**Location:** TBD  
+**Dates:** November 15, 2021
+**Location:** Virtual  
 
 #### Contact
-To join the Phenotype Ontology Reconciliation Effort or for any other questions, please contact Nico Matentzoglu: [nicolas.matentzoglu@ebi.ac.uk](mailto:nicolas.matentzoglu@ebi.ac.uk) or Nicole Vasilevsky: [vasilevs@ohsu.edu](mailto:vasilevs@ohsu.edu)
+To join the Phenotype Ontology Reconciliation Effort or for any other questions, please contact Nico Matentzoglu: [nicolas.matentzoglu@gmail.com](mailto:nicolas.matentzoglu@gmail.com ) or Nicole Vasilevsky: [nicole@tislab.org](mailto:nicole@tislab.org)
