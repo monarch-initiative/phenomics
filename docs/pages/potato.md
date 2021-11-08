@@ -38,7 +38,7 @@ The workshop was funded by NIH Office of the Director Grant #5R24OD011883, as we
 ### POTATO3
 **Dates:** November 15, 2021  
 **Time**: 9am - 12pm PT, 12pm - 3pm ET, 5pm - 8pm BST   
-**Location:** Virtual. Register [here]().  
+**Location:** Virtual. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSe5jYooAg7MIZarzVQPEWsIGasTNPqxNILDb-gGN3yplypASQ/viewform).  
 
 #### Provisional agenda
 
