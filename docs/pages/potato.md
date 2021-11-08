@@ -36,9 +36,9 @@ The Phenotypes Traversing All the Organisms Workshop (POTATO) series brings toge
 The workshop was funded by NIH Office of the Director Grant #5R24OD011883, as well as by the phenomics conference grant 5U13CA221044-03. Coffee and other sustenance was kindly provided by the International Society for Biocuration. A big thank you goes to Midori Harris who oversaw the workshop logistics and ensured a surprise-free workshop experience! ERRATA: The funding statement in the PDF is replaced by the one above.
 
 ### POTATO3
-**Dates:** November 15, 2021 
-**Time**: 9am - 12pm PT, 12pm - 3pm ET, 5pm - 8pm BST
-**Location:** Virtual. Register [here](). 
+**Dates:** November 15, 2021  
+**Time**: 9am - 12pm PT, 12pm - 3pm ET, 5pm - 8pm BST   
+**Location:** Virtual. Register [here]().  
 
 #### Provisional agenda
 
