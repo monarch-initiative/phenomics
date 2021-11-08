@@ -41,17 +41,15 @@ The workshop was funded by NIH Office of the Director Grant #5R24OD011883, as we
 **Location:** Virtual. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSe5jYooAg7MIZarzVQPEWsIGasTNPqxNILDb-gGN3yplypASQ/viewform).  
 
 #### Provisional agenda
-Time (PT) | Agenda
--- | --
-09:00 - 09:15 am | Welcome & The why, how, who, what of the reconciliation effort 
-09:15 - 09.30 am | A brief tutorial on modelling trait and phenotype classes using OWL logical definitions and the Entity-Quality model  
-09:30 - 09:45 am | Problem statement and rationale of the workshop 
-09:45 - 10:25 am | Breakout 1: “Define a set of grouping classes to organise gene-to-phenotype data I” 
-10:25 - 10:35 am | Break 
-10:35 - 10:50 am | Report breakout 1 
-10:50 - 11:30 am | Breakout 2: “Define a set of grouping classes to organise gene-to-phenotype data II” 
-11:30 - 11:50 am | Report breakout 2 
-11:50 - 12:00 pm | Wrap up 
+- 09:00 - 09:15 am | Welcome & The why, how, who, what of the reconciliation effort 
+- 09:15 - 09.30 am | A brief tutorial on modelling trait and phenotype classes using OWL logical definitions and the Entity-Quality model  
+- 09:30 - 09:45 am | Problem statement and rationale of the workshop 
+- 09:45 - 10:25 am | Breakout 1: “Define a set of grouping classes to organise gene-to-phenotype data I” 
+- 10:25 - 10:35 am | Break 
+- 10:35 - 10:50 am | Report breakout 1 
+- 10:50 - 11:30 am | Breakout 2: “Define a set of grouping classes to organise gene-to-phenotype data II” 
+- 11:30 - 11:50 am | Report breakout 2 
+- 11:50 - 12:00 pm | Wrap up 
 
 #### Contact
 To join the Phenotype Ontology Reconciliation Effort or for any other questions, please contact Nico Matentzoglu: [nicolas.matentzoglu@gmail.com](mailto:nicolas.matentzoglu@gmail.com ) or Nicole Vasilevsky: [nicole@tislab.org](mailto:nicole@tislab.org)
