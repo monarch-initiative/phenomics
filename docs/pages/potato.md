@@ -4,7 +4,7 @@
 
 - [POTATO1](#potato1)
 - [POTATO2](#potato2)
-- [POTATO3](#potato3)
+- [3rd Unified Phenotype Ontology (uPheno) Workshop (POTATO3)](#potato3)
 
 <a name="potato1"></a> 
 ### POTATO1
