@@ -45,7 +45,7 @@ The workshop was funded by NIH Office of the Director Grant #5R24OD011883, as we
 ### 3rd Unified Phenotype Ontology (uPheno) Workshop
 **Dates:** November 15, 2021  
 **Time**: 9am - 12pm PT, 12pm - 3pm ET, 5pm - 8pm BST   
-**Location:** Virtual.
+**Location:** Virtual
 
 #### Slides
 Available [here](https://docs.google.com/presentation/d/1uG1-QP6qWDArBP5FB-IMGdVn-y-BWVVn-8WjYKXPnts/edit?pli=1#slide=id.p1)
