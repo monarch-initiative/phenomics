@@ -40,7 +40,13 @@ The workshop was funded by NIH Office of the Director Grant #5R24OD011883, as we
 **Time**: 9am - 12pm PT, 12pm - 3pm ET, 5pm - 8pm BST   
 **Location:** Virtual. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSe5jYooAg7MIZarzVQPEWsIGasTNPqxNILDb-gGN3yplypASQ/viewform).  
 
-#### Provisional agenda
+#### Slides
+Available [here](https://docs.google.com/presentation/d/1uG1-QP6qWDArBP5FB-IMGdVn-y-BWVVn-8WjYKXPnts/edit?pli=1#slide=id.p1)
+
+#### Recording
+Available [here](https://drive.google.com/file/d/1epmwnrxmsasD6CE7X-kGCOaLQdJX5ooc/view?usp=sharing)
+
+#### Agenda
 - 09:00 - 09:15 am: Welcome & The why, how, who, what of the reconciliation effort 
 - 09:15 - 09.30 am: A brief tutorial on modelling trait and phenotype classes using OWL logical definitions and the Entity-Quality model  
 - 09:30 - 09:45 am: Problem statement and rationale of the workshop 
