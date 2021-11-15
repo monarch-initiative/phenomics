@@ -4,7 +4,7 @@
 
 - [POTATO1](#potato1)
 - [POTATO2](#potato2)
-- [3rd Unified Phenotype Ontology (uPheno) Workshop (POTATO3)](#potato3)
+- [3rd Unified Phenotype Ontology (uPheno) Workshop(#potato3)
 
 <a name="potato1"></a> 
 ### POTATO1
@@ -42,7 +42,7 @@ The Phenotypes Traversing All the Organisms Workshop (POTATO) series brings toge
 The workshop was funded by NIH Office of the Director Grant #5R24OD011883, as well as by the phenomics conference grant 5U13CA221044-03. Coffee and other sustenance was kindly provided by the International Society for Biocuration. A big thank you goes to Midori Harris who oversaw the workshop logistics and ensured a surprise-free workshop experience! ERRATA: The funding statement in the PDF is replaced by the one above.
 
 <a name="potato3"></a> 
-### 3rd Unified Phenotype Ontology (uPheno) Workshop (POTATO3)
+### 3rd Unified Phenotype Ontology (uPheno) Workshop
 **Dates:** November 15, 2021  
 **Time**: 9am - 12pm PT, 12pm - 3pm ET, 5pm - 8pm BST   
 **Location:** Virtual. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSe5jYooAg7MIZarzVQPEWsIGasTNPqxNILDb-gGN3yplypASQ/viewform).  
