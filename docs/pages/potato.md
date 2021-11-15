@@ -65,4 +65,4 @@ Available [here](https://drive.google.com/file/d/1epmwnrxmsasD6CE7X-kGCOaLQdJX5o
 - 11:50 - 12:00 pm: Wrap up 
 
 #### Contact
-To join the Phenotype Ontology Reconciliation Effort or for any other questions, please contact Nico Matentzoglu: [nicolas.matentzoglu@gmail.com](mailto:nicolas.matentzoglu@gmail.com ) or Nicole Vasilevsky: [nicole@tislab.org](mailto:nicole@tislab.org)
+To join the Phenotype Ontology Reconciliation Effort or for any other questions, please contact Nico Matentzoglu: [nicolas.matentzoglu@gmail.com](mailto:nicolas.matentzoglu (at) gmail.com ) or Nicole Vasilevsky: [nicole@tislab.org](mailto:nicole (at) tislab.org)
