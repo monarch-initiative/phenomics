@@ -2,7 +2,7 @@
 
 Date | Day | Time (Mountain time) 
 -- | -- | -- 
-June 15, 2022 | Wednesday | 9am - 6:30pm
+June 15, 2022 | Wednesday | 9am - 6:00pm
 June 16, 2022 | Thursday | 9am - 2pm
 
 ## Workshop organizers
@@ -13,8 +13,12 @@ June 16, 2022 | Thursday | 9am - 2pm
 - Melissa Haendel, CU Anschutz
 
 ## Tenative Agenda
-## Agenda
 
+### Tuesday, June 14, 2022
+
+Arrival and dinner (TBD).
+
+### Wednesday, June 15, 2022
 Time | Topic | Who
 -- | -- | -- 
 9am | Welcome | Workshop Organizers
@@ -37,5 +41,21 @@ Time | Topic | Who
 2:30pm | TBD | TBD
 | | **What types of animal data are available and where are they stored?** | |
 3:00pm | TBD | TBD
+4:00pm | **Flash talks and Poster Session** | 
+6:00pm | Dinner (TBD)
 
-Closing remarks | [Nicole Vasilevsky](https://www.ohsu.edu/people/nicole-a-vasilevsky) | 5 min
+
+### Thursday, June 16, 2022
+Time | Topic | Who
+-- | -- | -- 
+
+9am | Recap of Day 1 | Workshop Organizers
+| | **Ontologies/Knowledge Graph Overview** | |
+9:30am | TBD | TBD
+10:00am | TBD | TBD
+10:30am | TBD | TBD
+11:00am | TBD | TBD
+11:30am | TBD | TBD
+12:00pm | **Lunch** | |
+1:00pm | Brainstorming/Discussion | TBD
+2:00 | Wrap up and Departure | Workshop Organizers
