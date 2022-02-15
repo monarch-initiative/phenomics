@@ -19,7 +19,7 @@ June 16, 2022 | Thursday | 9am - 2pm
 Arrival and dinner (TBD).
 
 ### Wednesday, June 15, 2022
-Time | Topic | Who
+Time | Topic | Speaker
 -- | -- | -- 
 9:00 am | Welcome | Workshop Organizers
 | | **Ontologies/Knowledge Graph Overview** | |
@@ -33,7 +33,7 @@ Time | Topic | Who
 | | **Veterinary EHR/OMOP** | | 
 11:15 am | TBD | TBD
 11:45 am | TBD | TBD
-12:30 pm | **Lunch** | |
+12:30 pm | **Lunch (1 hour)** | |
 | | **Cancer Biobank** | | 
 1:30 pm | TBD | TBD
 2:00 pm | TBD | TBD
@@ -46,7 +46,7 @@ Time | Topic | Who
 
 
 ### Thursday, June 16, 2022
-Time | Topic | Who
+Time | Topic | Speaker
 -- | -- | -- 
 9:00 am | Recap of Day 1 | Workshop Organizers
 | | **Ontologies/Knowledge Graph Overview** | |
@@ -55,6 +55,6 @@ Time | Topic | Who
 10:30 am | TBD | TBD
 11:00 am | TBD | TBD
 11:30 am | TBD | TBD
-12:00 pm | **Lunch** | |
+12:00 pm | **Lunch (1 hour)** | |
 1:00 pm | Brainstorming/Discussion | TBD
 2:00 pm | Wrap up and Departure | Workshop Organizers
