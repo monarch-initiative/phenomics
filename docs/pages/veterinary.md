@@ -24,37 +24,37 @@ Time | Topic | Who
 9am | Welcome | Workshop Organizers
 | | **Ontologies/Knowledge Graph Overview** | |
 9:15am | Introduction to Ontologies | Nicole Vasilevsky 
-9:30am | How to use knowledge graphs | Anne Thessen
-9:45am | Disease and phenotype ontology annotations for different breeds  | TBD
-10:00am | Vertebrate Breed Ontology (VBO) | TBD
-10:15am | Traits annotations using Ontology Biological Attributes (OBA) | TBD
-10:30am | TBD | TBD
-10:45am | TBD | TBD
+9:30 am | How to use knowledge graphs | Anne Thessen
+9:45 am | Disease and phenotype ontology annotations for different breeds  | TBD
+10:00 am | Vertebrate Breed Ontology (VBO) | TBD
+10:15 am | Traits annotations using Ontology Biological Attributes (OBA) | TBD
+10:30 am | TBD | TBD
+10:45 am | TBD | TBD
 | | **Veterinary EHR/OMOP** | | 
-11:15am | TBD | TBD
-11:45am | TBD | TBD
-12:30pm | **Lunch** | |
+11:15 am | TBD | TBD
+11:45 am | TBD | TBD
+12:30 pm | **Lunch** | |
 | | **Cancer Biobank** | | 
-1:30pm | TBD | TBD
-2:00pm | TBD | TBD
+1:30 pm | TBD | TBD
+2:00 pm | TBD | TBD
 | | **Companion pets as sentinels for toxicology and exposure science** | |
-2:30pm | TBD | TBD
+2:30 pm | TBD | TBD
 | | **What types of animal data are available and where are they stored?** | |
-3:00pm | TBD | TBD
-4:00pm | **Flash talks and Poster Session** | 
-6:00pm | Dinner (TBD)
+3:00 pm | TBD | TBD
+4:00 pm | **Flash talks and Poster Session** | 
+6:00 pm | Dinner (TBD)
 
 
 ### Thursday, June 16, 2022
 Time | Topic | Who
 -- | -- | -- 
-9am | Recap of Day 1 | Workshop Organizers
+9 am | Recap of Day 1 | Workshop Organizers
 | | **Ontologies/Knowledge Graph Overview** | |
-9:30am | TBD | TBD
-10:00am | TBD | TBD
-10:30am | TBD | TBD
-11:00am | TBD | TBD
-11:30am | TBD | TBD
-12:00pm | **Lunch** | |
-1:00pm | Brainstorming/Discussion | TBD
-2:00 | Wrap up and Departure | Workshop Organizers
+9:30 am | TBD | TBD
+10:00 am | TBD | TBD
+10:30 am | TBD | TBD
+11:00 am | TBD | TBD
+11:30 am | TBD | TBD
+12:00 pm | **Lunch** | |
+1:00 pm | Brainstorming/Discussion | TBD
+2:00 pm | Wrap up and Departure | Workshop Organizers
