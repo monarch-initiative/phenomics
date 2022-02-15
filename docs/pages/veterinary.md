@@ -30,6 +30,7 @@ Time | Topic | Speaker
 10:15 am | Traits annotations using Ontology Biological Attributes (OBA) | TBD
 10:30 am | TBD | TBD
 10:45 am | TBD | TBD
+11:00 am |  **Break (15 minutes)** |
 | | **Veterinary EHR/OMOP** | | 
 11:15 am | TBD | TBD
 11:45 am | TBD | TBD
@@ -52,9 +53,9 @@ Time | Topic | Speaker
 | | **Ontologies/Knowledge Graph Overview** | |
 9:30 am | TBD | TBD
 10:00 am | TBD | TBD
-10:30 am | TBD | TBD
-11:00 am | TBD | TBD
-11:30 am | TBD | TBD
-12:00 pm | **Lunch (1 hour)** | |
-1:00 pm | Brainstorming/Discussion | TBD
+10:30 am | **Break (15 minutes)** | 
+10:45 am | TBD | TBD
+11:15 am | TBD | TBD
+11:45 am | **Lunch (1 hour)** | |
+12:45 pm | Brainstorming/Discussion | Workshop Organizers
 2:00 pm | Wrap up and Departure | Workshop Organizers
