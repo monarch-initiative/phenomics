@@ -21,9 +21,9 @@ Arrival and dinner (TBD).
 ### Wednesday, June 15, 2022
 Time | Topic | Who
 -- | -- | -- 
-9am | Welcome | Workshop Organizers
+9:00 am | Welcome | Workshop Organizers
 | | **Ontologies/Knowledge Graph Overview** | |
-9:15am | Introduction to Ontologies | Nicole Vasilevsky 
+9:15 am | Introduction to Ontologies | Nicole Vasilevsky 
 9:30 am | How to use knowledge graphs | Anne Thessen
 9:45 am | Disease and phenotype ontology annotations for different breeds  | TBD
 10:00 am | Vertebrate Breed Ontology (VBO) | TBD
@@ -48,7 +48,7 @@ Time | Topic | Who
 ### Thursday, June 16, 2022
 Time | Topic | Who
 -- | -- | -- 
-9 am | Recap of Day 1 | Workshop Organizers
+9:00 am | Recap of Day 1 | Workshop Organizers
 | | **Ontologies/Knowledge Graph Overview** | |
 9:30 am | TBD | TBD
 10:00 am | TBD | TBD
