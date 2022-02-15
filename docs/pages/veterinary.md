@@ -35,5 +35,7 @@ Time | Topic | Who
 2:00pm | TBD | TBD
 | | **Companion pets as sentinels for toxicology and exposure science** | |
 2:30pm | TBD | TBD
+| | **What types of animal data are available and where are they stored?** | |
+3:00pm | TBD | TBD
 
 Closing remarks | [Nicole Vasilevsky](https://www.ohsu.edu/people/nicole-a-vasilevsky) | 5 min
