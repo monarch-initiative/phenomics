@@ -48,7 +48,6 @@ Time | Topic | Who
 ### Thursday, June 16, 2022
 Time | Topic | Who
 -- | -- | -- 
-
 9am | Recap of Day 1 | Workshop Organizers
 | | **Ontologies/Knowledge Graph Overview** | |
 9:30am | TBD | TBD
