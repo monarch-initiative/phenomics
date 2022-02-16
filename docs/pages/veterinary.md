@@ -18,6 +18,22 @@ June 16, 2022 | Thursday | 9am - 2pm
 
 Arrival and dinner (TBD).
 
+## test
+### Wednesday, June 15, 2022
+Time | Session | Topic | Speaker
+-- | -- | -- 
+9:00 am | Welcome | Workshop Organizers
+9:15 am | **Ontologies/Knowledge Graph Overview** | Introduction to Ontologies | Nicole Vasilevsky 
+9:30 am | **Ontologies/Knowledge Graph Overview** | How to use knowledge graphs | Anne Thessen
+9:45 am | **Ontologies/Knowledge Graph Overview** | Disease and phenotype ontology annotations for different breeds  | TBD
+10:00 am | **Ontologies/Knowledge Graph Overview** | Vertebrate Breed Ontology (VBO) | TBD
+10:15 am | **Ontologies/Knowledge Graph Overview** | Traits annotations using Ontology Biological Attributes (OBA) | TBD
+10:30 am | **Ontologies/Knowledge Graph Overview** | TBD | TBD
+10:45 am | **Ontologies/Knowledge Graph Overview** | TBD | TBD
+11:00 am |  **Break (15 minutes)** |
+
+## actual agenda
+
 ### Wednesday, June 15, 2022
 Time | Topic | Speaker
 -- | -- | -- 
