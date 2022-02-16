@@ -21,7 +21,7 @@ Arrival and dinner (TBD).
 ## test
 ### Wednesday, June 15, 2022
 Time | Session | Topic | Speaker
--- | -- | -- 
+-- | -- | -- | --
 9:00 am | Welcome | Workshop Organizers
 9:15 am | **Ontologies/Knowledge Graph Overview** | Introduction to Ontologies | Nicole Vasilevsky 
 9:30 am | **Ontologies/Knowledge Graph Overview** | How to use knowledge graphs | Anne Thessen
