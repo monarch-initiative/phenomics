@@ -50,7 +50,7 @@ Time | Topic | Speaker
 Time | Topic | Speaker
 -- | -- | -- 
 9:00 am | Recap of Day 1 | Workshop Organizers
-| | **Ontologies/Knowledge Graph Overview** | |
+| | **Data annotations** | |
 9:30 am | TBD | TBD
 10:00 am | TBD | TBD
 10:30 am | **Break (15 minutes)** | 
