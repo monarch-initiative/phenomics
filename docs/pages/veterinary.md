@@ -22,7 +22,7 @@ Arrival and dinner (TBD).
 Time | Topic | Speaker
 -- | -- | -- 
 9:00 am | Welcome | Workshop Organizers
-| | **Ontologies/Knowledge Graph Overview** | |
+**Ontologies/Knowledge Graph Overview**
 9:15 am | Introduction to Ontologies | Nicole Vasilevsky 
 9:30 am | How to use knowledge graphs | Anne Thessen
 9:45 am | Disease and phenotype ontology annotations for different breeds  | TBD
@@ -31,16 +31,16 @@ Time | Topic | Speaker
 10:30 am | TBD | TBD
 10:45 am | TBD | TBD
 11:00 am |  **Break (15 minutes)** |
-| | **Veterinary EHR/OMOP** | | 
+**Veterinary EHR/OMOP** 
 11:15 am | TBD | TBD
 11:45 am | TBD | TBD
 12:30 pm | **Lunch (1 hour)** | |
-| | **Cancer Biobank** | | 
+**Cancer Biobank** 
 1:30 pm | TBD | TBD
 2:00 pm | TBD | TBD
-| | **Companion pets as sentinels for toxicology and exposure science** | |
+**Companion pets as sentinels for toxicology and exposure science**
 2:30 pm | TBD | TBD
-| | **What types of animal data are available and where are they stored?** | |
+**What types of animal data are available and where are they stored?**
 3:00 pm | TBD | TBD
 4:00 pm | **Flash talks and Happy Hour** | 
 6:00 pm | Dinner (TBD)
@@ -50,7 +50,7 @@ Time | Topic | Speaker
 Time | Topic | Speaker
 -- | -- | -- 
 9:00 am | Recap of Day 1 | Workshop Organizers
-| | **Data annotations** | |
+**Data annotations**
 9:30 am | TBD | TBD
 10:00 am | TBD | TBD
 10:30 am | **Break (15 minutes)** | 
