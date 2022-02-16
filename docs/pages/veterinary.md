@@ -42,7 +42,7 @@ Time | Topic | Speaker
 2:30 pm | TBD | TBD
 | | **What types of animal data are available and where are they stored?** | |
 3:00 pm | TBD | TBD
-4:00 pm | **Flash talks and Poster Session** | 
+4:00 pm | **Flash talks and Happy Hour** | 
 6:00 pm | Dinner (TBD)
 
 
