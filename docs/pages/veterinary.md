@@ -18,60 +18,40 @@ June 16, 2022 | Thursday | 9am - 2pm
 
 Arrival and dinner (TBD).
 
-## test
 ### Wednesday, June 15, 2022
-Time | Session | Topic | Speaker
--- | -- | -- | --
-9:00 am | Welcome | Workshop Organizers
-9:15 am | **Ontologies/Knowledge Graph Overview** | Introduction to Ontologies | Nicole Vasilevsky 
-9:30 am | **Ontologies/Knowledge Graph Overview** | How to use knowledge graphs | Anne Thessen
-9:45 am | **Ontologies/Knowledge Graph Overview** | Disease and phenotype ontology annotations for different breeds  | TBD
-10:00 am | **Ontologies/Knowledge Graph Overview** | Vertebrate Breed Ontology (VBO) | TBD
-10:15 am | **Ontologies/Knowledge Graph Overview** | Traits annotations using Ontology Biological Attributes (OBA) | TBD
-10:30 am | **Ontologies/Knowledge Graph Overview** | TBD | TBD
-10:45 am | **Ontologies/Knowledge Graph Overview** | TBD | TBD
-11:00 am |  **Break (15 minutes)** |
 
-## actual agenda
-
-### Wednesday, June 15, 2022
-Time | Topic | Speaker
--- | -- | -- 
-9:00 am | Welcome | Workshop Organizers
-**Ontologies/Knowledge Graph Overview**
-9:15 am | Introduction to Ontologies | Nicole Vasilevsky 
-9:30 am | How to use knowledge graphs | Anne Thessen
-9:45 am | Disease and phenotype ontology annotations for different breeds  | TBD
-10:00 am | Vertebrate Breed Ontology (VBO) | TBD
-10:15 am | Traits annotations using Ontology Biological Attributes (OBA) | TBD
-10:30 am | TBD | TBD
-10:45 am | TBD | TBD
-11:00 am |  **Break (15 minutes)** |
-**Veterinary EHR/OMOP** 
-11:15 am | TBD | TBD
-11:45 am | TBD | TBD
-12:30 pm | **Lunch (1 hour)** | |
-**Cancer Biobank** 
-1:30 pm | TBD | TBD
-2:00 pm | TBD | TBD
-**Companion pets as sentinels for toxicology and exposure science**
-2:30 pm | TBD | TBD
-**What types of animal data are available and where are they stored?**
-3:00 pm | TBD | TBD
-4:00 pm | **Flash talks and Happy Hour** | 
-6:00 pm | Dinner (TBD)
-
+9:00 am | Welcome | Workshop Organizers  
+**Ontologies/Knowledge Graph Overview**  
+9:15 am | **Introduction to Ontologies** | Nicole Vasilevsky   
+9:30 am | **How to use knowledge graphs** | Anne Thessen  
+9:45 am | **Disease and phenotype ontology annotations for different breeds**  | TBD  
+10:00 am | **Vertebrate Breed Ontology (VBO)** | TBD  
+10:15 am | **Traits annotations using Ontology Biological Attributes (OBA)** | TBD  
+10:30 am | TBD | TBD  
+10:45 am | TBD | TBD  
+11:00 am |  **Break (15 minutes)**  
+**Veterinary EHR/OMOP**   
+11:15 am | TBD | TBD  
+11:45 am | TBD | TBD  
+12:30 pm | **Lunch (1 hour)**  
+**Cancer Biobank**   
+1:30 pm | TBD | TBD  
+2:00 pm | TBD | TBD  
+**Companion pets as sentinels for toxicology and exposure science**  
+2:30 pm | TBD | TBD  
+**What types of animal data are available and where are they stored?**  
+3:00 pm | TBD | TBD  
+4:00 pm | **Flash talks and Happy Hour**  
+6:00 pm | Dinner (TBD)  
 
 ### Thursday, June 16, 2022
-Time | Topic | Speaker
--- | -- | -- 
-9:00 am | Recap of Day 1 | Workshop Organizers
-**Data annotations**
-9:30 am | TBD | TBD
-10:00 am | TBD | TBD
-10:30 am | **Break (15 minutes)** | 
-10:45 am | TBD | TBD
-11:15 am | TBD | TBD
-11:45 am | **Lunch (1 hour)** | |
-12:45 pm | Brainstorming/Discussion | Workshop Organizers
-2:00 pm | Wrap up and Departure | Workshop Organizers
+9:00 am | Recap of Day 1 | Workshop Organizers  
+**Data annotations**  
+9:30 am | TBD | TBD  
+10:00 am | TBD | TBD  
+10:30 am | **Break (15 minutes)**  
+10:45 am | TBD | TBD  
+11:15 am | TBD | TBD  
+11:45 am | **Lunch (1 hour)**  
+12:45 pm | **Brainstorming/Discussion** | Workshop Organizers  
+2:00 pm | **Wrap up and Departure** | Workshop Organizers  
