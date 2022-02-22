@@ -2,8 +2,8 @@
 
 Date | Day | Time (Mountain time) 
 -- | -- | -- 
-June 15, 2022 | Wednesday | 9am - 6:00pm
-June 16, 2022 | Thursday | 9am - 2pm
+May 24, 2022 | Tuesday | 9am - 6:00pm
+May 25, 2022 | Wednesday | 9am - 2pm
 
 ## Workshop organizers
 - Nicole Vasilevsky, CU Anschutz
@@ -14,11 +14,11 @@ June 16, 2022 | Thursday | 9am - 2pm
 
 ## Tenative Agenda
 
-### Tuesday, June 14, 2022
+### Monday, May 23, 2022
 
 Arrival and dinner (TBD).
 
-### Wednesday, June 15, 2022
+### Tuesday, May 24, 2022
 
 9:00 am | Welcome | Workshop Organizers  
 **Ontologies/Knowledge Graph Overview**  
@@ -44,7 +44,7 @@ Arrival and dinner (TBD).
 4:00 pm | **Flash talks and Happy Hour**  
 6:00 pm | Dinner (TBD)  
 
-### Thursday, June 16, 2022
+### Wednesday, May 25, 2022
 9:00 am | Recap of Day 1 | Workshop Organizers  
 **Data annotations**  
 9:30 am | TBD | TBD  
