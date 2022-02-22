@@ -55,3 +55,6 @@ Arrival and dinner (TBD).
 11:45 am | **Lunch (1 hour)**  
 12:45 pm | **Brainstorming/Discussion** | Workshop Organizers  
 2:00 pm | **Wrap up and Departure** | Workshop Organizers  
+
+## Funding
+This workshop is supported by an NIH BD2K conference grant “Forums for Integrative phenomics” to Melissa Haendel and Peter Robinson: U13CA221044.
