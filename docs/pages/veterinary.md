@@ -19,7 +19,18 @@ May 25, 2022 | Wednesday | 9am - 2pm
   - Goals: 
     - Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data
     - Coordinate a U01 submission amongst participating CTSA organizations
-
+- **Session 3: Cancer Biobank**  
+  - Goals: Learn about challenges and next steps to make data more discoverable and reusable
+- **Session 4: Companion pets as sentinels for toxicology and exposure science**  
+  - Goals: 
+    - Develop a standard (like phenopackets) around how you represent outcomes of analyses of pets and their guardians/owners
+    - What can semantic standards community do to help standardize this available data?
+    - What are next steps in defining the database approaches to this?
+- **Session 5: What types of animal data are available and where are they stored?**  
+  - Goals: TBD
+- **Session 6: Data annotations** 
+  - Goals: TBD
+  
 ## Tenative Agenda
 
 ### Monday, May 23, 2022
@@ -43,19 +54,19 @@ Arrival and dinner (TBD).
 11:15 am | TBD | TBD  
 11:45 am | TBD | TBD  
 12:30 pm | **Lunch (1 hour)**  
-**Cancer Biobank**   
+**Session 3: Cancer Biobank**   
 1:30 pm | TBD | TBD  
 2:00 pm | TBD | TBD  
-**Companion pets as sentinels for toxicology and exposure science**  
+**Session 4: Companion pets as sentinels for toxicology and exposure science**  
 2:30 pm | TBD | TBD  
-**What types of animal data are available and where are they stored?**  
+**Session 5: What types of animal data are available and where are they stored?**  
 3:00 pm | TBD | TBD  
 4:00 pm | **Flash talks and Happy Hour**  
 6:00 pm | Dinner (TBD)  
 
 ### Wednesday, May 25, 2022
 9:00 am | Recap of Day 1 | Workshop Organizers  
-**Data annotations**  
+**Session 6: Data annotations**  
 9:30 am | TBD | TBD  
 10:00 am | TBD | TBD  
 10:30 am | **Break (15 minutes)**  
