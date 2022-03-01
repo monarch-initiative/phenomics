@@ -12,6 +12,14 @@ May 25, 2022 | Wednesday | 9am - 2pm
 - Jori Leszczynski, CU Anschutz
 - Melissa Haendel, CU Anschutz
 
+## Tenative Agenda Overview + Goals
+- **Session 1: Ontologies/Knowledge Graph Overview**
+  - Goals: Educate about the community about ontologies
+- **Session 2: Veterinary EHR/OMOP**
+  - Goals: 
+    - Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data
+    - Coordinate a U01 submission amongst participating CTSA organizations
+
 ## Tenative Agenda
 
 ### Monday, May 23, 2022
@@ -21,7 +29,8 @@ Arrival and dinner (TBD).
 ### Tuesday, May 24, 2022
 
 9:00 am | Welcome | Workshop Organizers  
-**Ontologies/Knowledge Graph Overview**  
+
+**Session 1: Ontologies/Knowledge Graph Overview**
 9:15 am | **Introduction to Ontologies** | Nicole Vasilevsky   
 9:30 am | **How to use knowledge graphs** | Anne Thessen  
 9:45 am | **Disease and phenotype ontology annotations for different breeds**  | TBD  
@@ -30,7 +39,7 @@ Arrival and dinner (TBD).
 10:30 am | TBD | TBD  
 10:45 am | TBD | TBD  
 11:00 am |  **Break (15 minutes)**  
-**Veterinary EHR/OMOP**   
+**Session 2: Veterinary EHR/OMOP**
 11:15 am | TBD | TBD  
 11:45 am | TBD | TBD  
 12:30 pm | **Lunch (1 hour)**  
