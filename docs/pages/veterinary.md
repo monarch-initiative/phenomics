@@ -31,7 +31,7 @@ May 25, 2022 | Wednesday | 9am - 2pm
 - **Session 6: Data annotations** 
   - Goals: TBD
   
-## Tenative Agenda
+## Detailed Tenative Agenda
 
 ### Monday, May 23, 2022
 
