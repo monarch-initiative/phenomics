@@ -12,25 +12,23 @@ May 25, 2022 | Wednesday | 9am - 2pm
 - Jori Leszczynski, CU Anschutz
 - Melissa Haendel, CU Anschutz
 
-## Tenative Agenda Overview + Goals
-- **Session 1: Ontologies/Knowledge Graph Overview**
-  - Goals: Educate about the community about ontologies
-- **Session 2: Veterinary EHR/OMOP**
-  - Goals: 
-    - Evaluate how veterinary EHR data can be made interoperable with clinical EHRs using OMOP and FHIR			
-    - Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data
-    - Coordinate a U01 submission amongst participating CTSA organizations
-- **Session 3: Cancer Biobank**  
-  - Goals: Learn about challenges and next steps to make data more discoverable and reusable
-- **Session 4: Companion pets as sentinels for toxicology and exposure science**  
-  - Goals: 
-    - Develop a standard (like phenopackets) around how you represent outcomes of analyses of pets and their guardians/owners
-    - What can semantic standards community do to help standardize this available data?
-    - What are next steps in defining the database approaches to this?
-- **Session 5: What types of animal data are available and where are they stored?**  
-  - Goals: TBD
-- **Session 6: Data annotations** 
-  - Goals: TBD
+## Tenative Agenda Overview
+- **Session 1:** Ontologies/Knowledge Graph Overview
+- **Session 2:** Veterinary EHR/OMOP
+- **Session 3:** Cancer Biobank
+- **Session 4:** Companion pets as sentinels for toxicology and exposure science 
+- **Session 5:** What types of animal data are available and where are they stored?
+- **Session 6:** Data annotations   
+
+## Workshop goals
+- Educate about the community about ontologies
+- Evaluate how veterinary EHR data can be made interoperable with clinical EHRs using OMOP and FHIR			
+- Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data
+- Coordinate a U01 submission amongst participating CTSA organizations
+- Learn about challenges and next steps to make data more discoverable and reusable
+- Develop a standard (like phenopackets) around how you represent outcomes of analyses of pets and their guardians/owners
+- What can semantic standards community do to help standardize this available data?
+- What are next steps in defining the database approaches to this?
   
 ## Detailed Tenative Agenda
 
@@ -42,7 +40,7 @@ Arrival and dinner (TBD).
 
 9:00 am | Welcome | Workshop Organizers  
 
-**Session 1: Ontologies/Knowledge Graph Overview**
+**Session 1: Ontologies/Knowledge Graph Overview**  
 9:15 am | **Introduction to Ontologies** | Nicole Vasilevsky   
 9:30 am | **How to use knowledge graphs** | Anne Thessen  
 9:45 am | **Disease and phenotype ontology annotations for different breeds**  | TBD  
@@ -51,11 +49,11 @@ Arrival and dinner (TBD).
 10:30 am | TBD | TBD  
 10:45 am | TBD | TBD  
 11:00 am |  **Break (15 minutes)**  
-**Session 2: Veterinary EHR/OMOP**
+**Session 2: Veterinary EHR/OMOP**  
 11:15 am | TBD | TBD  
 11:45 am | TBD | TBD  
 12:30 pm | **Lunch (1 hour)**  
-**Session 3: Cancer Biobank**   
+**Session 3: Cancer Biobank**    
 1:30 pm | TBD | TBD  
 2:00 pm | TBD | TBD  
 **Session 4: Companion pets as sentinels for toxicology and exposure science**  
