@@ -23,12 +23,12 @@ May 25, 2022 | Wednesday | 9am - 2pm
 ## Workshop goals
 - Educate about the community about ontologies
 - Evaluate how veterinary EHR data can be made interoperable with clinical EHRs using OMOP and FHIR			
-- Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data
-- Coordinate a U01 submission amongst participating CTSA organizations
 - Learn about challenges and next steps to make data more discoverable and reusable
 - Develop a standard (like phenopackets) around how you represent outcomes of analyses of companion pets and their guardians/owners
   - What can semantic standards community do to help standardize this available data?
   - What are next steps in defining the database approaches to this?
+- Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data
+- Coordinate a U01 submission amongst participating CTSA organizations
   
 ## Detailed Tenative Agenda
 
