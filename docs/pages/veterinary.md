@@ -17,6 +17,7 @@ May 25, 2022 | Wednesday | 9am - 2pm
   - Goals: Educate about the community about ontologies
 - **Session 2: Veterinary EHR/OMOP**
   - Goals: 
+    - Evaluate how veterinary EHR data can be made interoperable with clinical EHRs using OMOP and FHIR			
     - Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data
     - Coordinate a U01 submission amongst participating CTSA organizations
 - **Session 3: Cancer Biobank**  
