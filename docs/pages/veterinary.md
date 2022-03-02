@@ -39,7 +39,6 @@ Arrival and dinner (TBD).
 ### Tuesday, May 24, 2022
 
 9:00 am | Welcome | Workshop Organizers  
-
 **Session 1: Ontologies/Knowledge Graph Overview**  
 9:15 am | **Introduction to Ontologies** | Nicole Vasilevsky   
 9:30 am | **How to use knowledge graphs** | Anne Thessen  
