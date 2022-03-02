@@ -28,7 +28,7 @@ May 25, 2022 | Wednesday | 9am - 2pm
 - Learn about challenges and next steps to make data more discoverable and reusable
 - Develop a standard (like phenopackets) around how you represent outcomes of analyses of pets and their guardians/owners
 - What can semantic standards community do to help standardize this available data?
-- What are next steps in defining the database approaches to this?
+  - What are next steps in defining the database approaches to this?
   
 ## Detailed Tenative Agenda
 
