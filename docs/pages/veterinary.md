@@ -11,6 +11,7 @@ May 25, 2022 | Wednesday | 9am - 2pm
 - Sue VandeWoude, Colorado State University
 - Jori Leszczynski, CU Anschutz
 - Melissa Haendel, CU Anschutz
+- Monica Munoz-Torres, CU Anschutz
 
 ## Tenative Agenda Overview
 - **Session 1:** Ontologies/Knowledge Graph Overview
