@@ -46,27 +46,28 @@ Arrival and dinner (TBD).
 9:45 am | **Disease and phenotype ontology annotations for different breeds**  | TBD  
 10:00 am | **Vertebrate Breed Ontology (VBO)** | TBD  
 10:15 am | **Traits annotations using Ontology Biological Attributes (OBA)** | TBD  
-10:30 am | TBD | TBD  
-10:45 am | TBD | TBD  
+10:30 am | **Canine Phenotype Ontology** | TBD  
+10:45 am | **Feline Phenotype Ontology** | Lesley Lyons 
 11:00 am |  **Break (15 minutes)**  
 **Session 2: Veterinary EHR/OMOP**  
 11:15 am | TBD | TBD  
 11:45 am | TBD | TBD  
 12:30 pm | **Lunch (1 hour)**  
 **Session 3: Cancer Biobank**    
-1:30 pm | TBD | TBD  
+1:30 pm | **Colorado State University Biobank** | Sue Lana    
 2:00 pm | TBD | TBD  
 **Session 4: Companion pets as sentinels for toxicology and exposure science**  
-2:30 pm | TBD | TBD  
+2:30 pm | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton
+3:00 pm | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs
 **Session 5: What types of animal data are available and where are they stored?**  
-3:00 pm | TBD | TBD  
+3:30 pm | TBD | TBD  
 4:00 pm | **Flash talks and Happy Hour**  
 6:00 pm | Dinner (TBD)  
 
 ### Wednesday, May 25, 2022
 9:00 am | Recap of Day 1 | Workshop Organizers  
 **Session 6: Data annotations**  
-9:30 am | TBD | TBD  
+9:30 am | **Annotation of canine/feline genomics state of the art** | Elinor Karlsson     
 10:00 am | TBD | TBD  
 10:30 am | **Break (15 minutes)**  
 10:45 am | TBD | TBD  
