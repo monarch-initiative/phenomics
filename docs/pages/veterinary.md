@@ -2,8 +2,8 @@
 
 Date | Day | Time (MT) | Location | Zoom link
 -- | -- | -- | -- | --
-May 24, 2022 | Tuesday | 9am - 6:00pm | Health Sciences Building Room P12-2002 | TBD
-May 25, 2022 | Wednesday | 9am - 2pm | Health Sciences Building Room P12-2002 | TBD
+May 24, 2022 | Tuesday | 9am - 6:00pm | [Health Sciences Building](https://www.cuanschutz.edu/about/cu-anschutz-map) Room P12-2002 | TBD
+May 25, 2022 | Wednesday | 9am - 2pm | [Health Sciences Building](https://www.cuanschutz.edu/about/cu-anschutz-map) Room P12-2002 | TBD
 
 ## Workshop organizers
 - Nicole Vasilevsky, CU Anschutz
