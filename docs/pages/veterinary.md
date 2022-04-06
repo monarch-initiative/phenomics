@@ -1,9 +1,9 @@
 # Comparative Veterinary Informatics Workshop
 
-Date | Day | Time (Mountain time) 
+Date | Day | Time (Mountain time) | Location | Zoom link
 -- | -- | -- 
-May 24, 2022 | Tuesday | 9am - 6:00pm
-May 25, 2022 | Wednesday | 9am - 2pm
+May 24, 2022 | Tuesday | 9am - 6:00pm | Room P12-2002 | TBD
+May 25, 2022 | Wednesday | 9am - 2pm | Room P12-2002 | TBD
 
 ## Workshop organizers
 - Nicole Vasilevsky, CU Anschutz
