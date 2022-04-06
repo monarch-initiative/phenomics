@@ -1,7 +1,7 @@
 # Comparative Veterinary Informatics Workshop
 
-Date | Day | Time (Mountain time) | Location | Zoom link
--- | -- | -- 
+Date | Day | Time (MT) | Location | Zoom link
+-- | -- | -- | -- | --
 May 24, 2022 | Tuesday | 9am - 6:00pm | Room P12-2002 | TBD
 May 25, 2022 | Wednesday | 9am - 2pm | Room P12-2002 | TBD
 
