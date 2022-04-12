@@ -57,9 +57,9 @@ Arrival and dinner (TBD).
 1:30 pm | **Colorado State University Biobank** | Sue Lana    
 2:00 pm | TBD | TBD  
 **Session 4: Companion pets as sentinels for toxicology and exposure science**  
-2:30 pm | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton
-3:00 pm | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs
-**Session 5: What types of animal data are available and where are they stored?**  
+2:30 pm | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
+3:00 pm | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs  
+**Session 5: What types of animal data are available and where are they stored?**   
 3:30 pm | TBD | TBD  
 4:00 pm | **Flash talks and Happy Hour**  
 6:00 pm | Dinner (TBD)  
