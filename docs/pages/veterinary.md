@@ -53,7 +53,7 @@ Arrival and dinner (TBD).
 11:00 am |  **Break (15 minutes)**  
 **Session 2: Veterinary EHR/OMOP**  
 11:15 am | **Overview of OneHealth** | TBD  
-11:45 am | **ZIMS** | TBD  
+11:45 am | **ZIMS** | Rachel Thompson (Pre-recorded talk)    
 12:30 pm | **Lunch (1 hour)**  
 **Session 3: Cancer Biobank**    
 1:30 pm | **Colorado State University Biobank** | Sue Lana    
