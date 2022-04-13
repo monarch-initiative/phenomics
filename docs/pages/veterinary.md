@@ -73,12 +73,12 @@ Arrival and dinner (TBD).
 9:45 am | **Annotation of canine/feline genomics state of the art** | Elinor Karlsson      
 **Discussions**   
 10:15 am | Logistics for discussions     
-10:30 am | Assessment of the state of available veterinary EHR data
-11:00 am | **Break**
-11:30 am | Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data
-12:15 pm | Coordinate a U01 submission amongst participating CTSA organizations
-1:00  pm | **Lunch (1 hour)**  
-2:00 pm | Wrap up and Departure | Workshop Organizers
+10:30 am | Assessment of the state of available veterinary EHR data  
+11:00 am | **Break**  
+11:30 am | Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data  
+12:15 pm | Coordinate a U01 submission amongst participating CTSA organizations  
+1:00  pm | **Lunch (1 hour)**   
+2:00 pm | Wrap up and Departure | Workshop Organizers  
  
 
 ## Funding
