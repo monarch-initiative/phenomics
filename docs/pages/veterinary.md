@@ -80,6 +80,14 @@ Arrival and dinner (TBD).
 1:00  pm | **Lunch (1 hour)**   
 2:00 pm | Wrap up and Departure | Workshop Organizers  
  
+## COVID-19 policy
+
+- Masks are not required of **vaccinated and boosted** individuals indoors or outdoors on campus at this time. 
+- Anyone may choose to continue wearing a mask and is encouraged to do so at their discretion.
+- **Vaccinated individuals who have not received a COVID-19 booster** are required to continue to wear a mask and maintain physical distancing.
+- **Unvaccinated individuals(( with approved exemptions to the campus vaccination requirement are required to wear a mask and observe physical distancing. These individuals must also take part in mandatory testing. 
+
+See this policy page [here](https://www.cuanschutz.edu/coronavirus/return-to-campus). Note, this policy is subject to change.
 
 ## Funding
 This workshop is supported by an NIH BD2K conference grant “Forums for Integrative phenomics” to Melissa Haendel and Peter Robinson: U13CA221044.
