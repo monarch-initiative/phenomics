@@ -47,7 +47,7 @@ Arrival and dinner (TBD).
 9:30 am | **How to use knowledge graphs** | Anne Thessen  
 9:45 am | **Disease and phenotype ontology annotations for different breeds**  | TBD  
 10:00 am | **Vertebrate Breed Ontology (VBO)** | Sabrina Toro  
-10:15 am | **Traits annotations using Ontology Biological Attributes (OBA)** | TBD  
+10:15 am | **Traits annotations using Ontology Biological Attributes (OBA)** | Moni Muñoz-Torres  
 10:30 am | **Canine Phenotype Ontology** | Rod Page      
 10:45 am | **Feline Phenotype Ontology** | Lesley Lyons  
 11:00 am |  **Break (15 minutes)**  
