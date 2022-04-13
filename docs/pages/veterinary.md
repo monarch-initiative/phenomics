@@ -57,7 +57,7 @@ Arrival and dinner (TBD).
 12:30 pm | **Lunch (1 hour)**  
 **Session 3: Cancer Biobank**    
 1:30 pm | **Colorado State University Biobank** | Sue Lana    
-2:00 pm | Cornell biobank project | Susan Garrison (Virtual)
+2:00 pm | Cornell biobank project | Susan Garrison (Virtual)  
 **Session 4: Companion pets as sentinels for toxicology and exposure science**  
 2:30 pm | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
 3:00 pm | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs    
