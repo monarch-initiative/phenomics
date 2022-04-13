@@ -1,11 +1,11 @@
 # Comparative Veterinary Informatics Workshop
 
-Date | Day | Time (MT) | Location 
+Date | Day | Time (MT) | Location (Virtual option will be available*)
 -- | -- | -- | --
 May 24, 2022 | Tuesday | 9am - 6:00pm | [Health Sciences Building](https://www.cuanschutz.edu/about/cu-anschutz-map) Room P12-2002 
 May 25, 2022 | Wednesday | 9am - 2pm | [Health Sciences Building](https://www.cuanschutz.edu/about/cu-anschutz-map) Room P12-2002
 
-**Zoom link** will be shared with registered guests closer to the date.
+***Zoom link** will be shared with registered guests closer to the date.
 
 ## Workshop organizers
 - Nicole Vasilevsky, CU Anschutz
