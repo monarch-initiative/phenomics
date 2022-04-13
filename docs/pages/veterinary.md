@@ -85,7 +85,7 @@ Arrival and dinner (TBD).
 - Masks are not required of **vaccinated and boosted** individuals indoors or outdoors on campus at this time. 
 - Anyone may choose to continue wearing a mask and is encouraged to do so at their discretion.
 - **Vaccinated individuals who have not received a COVID-19 booster** are required to continue to wear a mask and maintain physical distancing.
-- **Unvaccinated individuals(( with approved exemptions to the campus vaccination requirement are required to wear a mask and observe physical distancing. These individuals must also take part in mandatory testing. 
+- **Unvaccinated individuals** with approved exemptions to the campus vaccination requirement are required to wear a mask and observe physical distancing. These individuals must also take part in mandatory testing. 
 
 See this policy page [here](https://www.cuanschutz.edu/coronavirus/return-to-campus). Note, this policy is subject to change.
 
