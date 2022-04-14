@@ -60,8 +60,9 @@ Arrival and dinner (TBD).
 2:00 pm | Cornell biobank project | Susan Garrison (Virtual)  
 **Session 4: Companion pets as sentinels for toxicology and exposure science**  
 2:30 pm | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
-3:00 pm | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs    
-3:30 pm | **Flash talks**: Sixty seconds per attendee to share their research and link to a resource where people can learn more (poster, website, etc.)  
+3:00 pm | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs   
+3:30pm  | **Use of ontologies to facilitate reporting and analysis of suspected inherited conditions in animals to an Australian reporting platform: creation of a submission form and mapping of Online Mendelian Inheritance in Animals to existing ontologies** | Frank Nicholas and Imke Tammen (virtual)
+4:00 pm | **Flash talks**: Sixty seconds per attendee to share their research and link to a resource where people can learn more (poster, website, etc.)  
 5:00 pm | Down Time   
 6:00 pm | Informal dinner  
 
