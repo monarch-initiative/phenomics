@@ -58,7 +58,7 @@ Time (MT) | Sesion | Topic | Speaker
 10:45am | |  **Traits annotations using Ontology Biological Attributes (OBA)** | Moni Muñoz-Torres  
 11:00am |  | **Canine Phenotype Ontology** | Rod Page      
 11:15am | |  **Feline Phenotype Ontology** | Lesley Lyons  
-11:30am |  | **Open Discussion**  
+11:30am |  **Open Discussion**  |
 **12:00pm - 1pm** | **Lunch** | |
 **1:00pm - 1:30pm** | **Session 2: Veterinary EHR/OMOP**  | |
 1:00pm | | **Overview of OneHealth** | TBD  
