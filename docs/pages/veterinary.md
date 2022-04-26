@@ -42,7 +42,7 @@ May 25, 2022 | Wednesday | 9am - 2pm | [Health Sciences Building](https://www.cu
 
 Time (MT) | Topic | Location
 -- | -- | --
-9am - 5pm | TISLab technical veterinary planning | TBD
+9am - 5pm | TISLab technical veterinary planning | TISLab office
 
 ### Tuesday, May 24, 2022
 
