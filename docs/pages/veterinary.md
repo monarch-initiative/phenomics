@@ -14,8 +14,11 @@ May 25, 2022 | Wednesday | 9am - 2pm | [Health Sciences Building](https://www.cu
 - Jori Leszczynski, CU Anschutz
 - Melissa Haendel, CU Anschutz
 - Monica Munoz-Torres, CU Anschutz
+- Sarah Gehrke, CU Anschutz
+- Brandon White, CU Anschutz
+- Julie McMurry, CU Anschutz
 
-## Tenative Agenda Overview
+## Agenda Overview
 - **Session 1:** Ontologies/Knowledge Graph Overview
 - **Session 2:** Veterinary EHR/OMOP
 - **Session 3:** Cancer Biobank
@@ -33,38 +36,42 @@ May 25, 2022 | Wednesday | 9am - 2pm | [Health Sciences Building](https://www.cu
 - Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data
 - Coordinate a U01 submission amongst participating CTSA organizations
   
-## Detailed Tenative Agenda
+## Detailed Agenda
 
 ### Monday, May 23, 2022
 
-Arrival and dinner (TBD).
+9am - 5pm | TISLab technical veterinary planning (Location to be determined)
 
 ### Tuesday, May 24, 2022
 
-9:00 am | Welcome | Workshop Organizers  
-**Session 1: Ontologies/Knowledge Graph Overview**  
-9:15 am | **Introduction to Ontologies** | Nicole Vasilevsky   
-9:30 am | **How to use knowledge graphs** | Anne Thessen  
-9:45 am | **Disease and phenotype ontology annotations for different breeds**  | TBD  
-10:00 am | **Vertebrate Breed Ontology (VBO)** | Sabrina Toro  
-10:15 am | **Traits annotations using Ontology Biological Attributes (OBA)** | Moni Muñoz-Torres  
-10:30 am | **Canine Phenotype Ontology** | Rod Page      
-10:45 am | **Feline Phenotype Ontology** | Lesley Lyons  
-11:00 am |  **Break (15 minutes)**  
-**Session 2: Veterinary EHR/OMOP**  
-11:15 am | **Overview of OneHealth** | TBD  
-11:45 am | **ZIMS** | Rachel Thompson (Pre-recorded talk)    
-12:30 pm | **Lunch (1 hour)**  
-**Session 3: Cancer Biobank**    
-1:30 pm | **Colorado State University Biobank** | Sue Lana    
-2:00 pm | Cornell biobank project | Susan Garrison (Virtual)  
-**Session 4: Companion pets as sentinels for toxicology and exposure science**  
-2:30 pm | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
-3:00 pm | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs   
-3:30pm  | **Use of ontologies to facilitate reporting and analysis of suspected inherited conditions in animals to an Australian reporting platform: creation of a submission form and mapping of Online Mendelian Inheritance in Animals to existing ontologies** | Frank Nicholas and Imke Tammen (virtual)  
-4:00 pm | **Flash talks**: Sixty seconds per attendee to share their research and link to a resource where people can learn more (poster, website, etc.)   
-5:00 pm | Down Time   
-6:00 pm | Informal dinner  
+Time (MT) | Sesion | Topic | Speaker
+-- | -- | -- | -- 
+9:00am | | Welcome | Workshop Organizers  
+9:15am | |  **Icebreaker** | Led by Anne Thessen and Sarah Gehrke   
+**9:45am - 12pm** | **Session 1: Ontologies/Knowledge Graph Overview**  | | 
+9:45am | | **Introduction to Ontologies** | Nicole Vasilevsky   
+10:00am | | **How to use knowledge graphs** | Anne Thessen 
+10:15am | | **Disease and phenotype ontology annotations for different breeds**  | TBD  
+10:30am | | **Vertebrate Breed Ontology (VBO)** | Sabrina Toro  
+10:45am | |  **Traits annotations using Ontology Biological Attributes (OBA)** | Moni Muñoz-Torres  
+11:00am |  | **Canine Phenotype Ontology** | Rod Page      
+11:15am | |  **Feline Phenotype Ontology** | Lesley Lyons  
+11:30am |  | **Open Discussion**  
+**12:00pm - 1pm** | **Lunch** | |
+**1:00pm - 1:30pm** | **Session 2: Veterinary EHR/OMOP**  | |
+1:00pm | | **Overview of OneHealth** | TBD  
+1:15pm | | **ZIMS** | Rachel Thompson (Pre-recorded talk)    
+**1:30pm - 2:00pm | **Session 3: Cancer Biobank**  | |  
+1:30pm | | **Colorado State University Biobank** | Sue Lana    
+2:00pm | | **Cornell biobank project** | Susan Garrison (Virtual)  
+**2:30pm - 4pm** | **Session 4: Companion pets as sentinels for toxicology and exposure science**  | |
+2:30pm | | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
+3:00pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs   
+3:30pm  | | **Use of ontologies to facilitate reporting and analysis of suspected inherited conditions in animals to an Australian reporting platform: creation of a submission form and mapping of Online Mendelian Inheritance in Animals to existing ontologies** | Frank Nicholas and Imke Tammen (virtual)  
+**4:00pm - 5:00pm** | **Discussion** | |
+4:00pm | | **Logistics for discussions** | Melissa Haendel    
+4:15pm | | **Assessment of the state of available veterinary EHR data** | All
+  
 
 ### Wednesday, May 25, 2022
 9:00 am | Recap of Day 1 | Workshop Organizers   
@@ -77,7 +84,8 @@ Arrival and dinner (TBD).
 10:30 am | Assessment of the state of available veterinary EHR data  
 11:00 am | **Break**  
 11:30 am | Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data  
-12:15 pm | Coordinate a U01 submission amongst participating CTSA organizations  
+12:15 pm | Coordinate a U01 submission amongst participating CTSA organizations 
+4:00 pm | **Flash talks**: Sixty seconds per attendee to share their research and link to a resource where people can learn more (poster, website, etc.)   
 1:00  pm | **Lunch (1 hour)**   
 2:00 pm | Wrap up and Departure | Workshop Organizers  
  
