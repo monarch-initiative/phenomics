@@ -71,23 +71,23 @@ Time (MT) | Sesion | Topic | Speaker
 **4:00pm - 5:00pm** | **Discussion** | |
 4:00pm | | **Logistics for discussions** | Melissa Haendel    
 4:15pm | | **Assessment of the state of available veterinary EHR data** | All
-  
+5:00pm | | **Wrap up**
 
 ### Wednesday, May 25, 2022
-9:00 am | Recap of Day 1 | Workshop Organizers   
-**Session 5: What types of animal data are available and where are they stored?**    
-9:15 am | COHA OH Datasets initiative | TBD   
-**Session 6: Data annotations**   
-9:45 am | **Annotation of canine/feline genomics state of the art** | Elinor Karlsson      
-**Discussions**   
-10:15 am | Logistics for discussions     
-10:30 am | Assessment of the state of available veterinary EHR data  
-11:00 am | **Break**  
-11:30 am | Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data  
-12:15 pm | Coordinate a U01 submission amongst participating CTSA organizations 
-4:00 pm | **Flash talks**: Sixty seconds per attendee to share their research and link to a resource where people can learn more (poster, website, etc.)   
-1:00  pm | **Lunch (1 hour)**   
-2:00 pm | Wrap up and Departure | Workshop Organizers  
+
+Time (MT) | Sesion | Topic | Speaker
+-- | -- | -- | -- 
+9:00 am | | **Recap of Day 1** | Workshop Organizers   
+**9:15am - 9:45am | **Session 5: What types of animal data are available and where are they stored?** | |   
+9:15 am | | COHA OH Datasets initiative | TBD   
+**9:45am - 10:15am** | **Session 6: Data annotations**  | |
+9:45 am | | **Annotation of canine/feline genomics state of the art** | Elinor Karlsson      
+**10:15am - 11:00am | **Flash talks**: | Sixty seconds per attendee to share their research and link to a resource where people can learn more (poster, website, etc.) | TBD
+11:00am - 1:00pm | **Discussions**   | |
+11:00am | | **Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data**  
+12:00pm | **Lunch (1 hour)**  | |
+1:00pm | | **Coordinate a U01 submission amongst participating CTSA organizations**   
+2:00 pm | | Wrap up and Departure | Workshop Organizers  
  
 ## COVID-19 policy
 
