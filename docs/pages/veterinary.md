@@ -80,11 +80,11 @@ Time (MT) | Sesion | Topic | Speaker
 Time (MT) | Sesion | Topic | Speaker
 -- | -- | -- | -- 
 9:00 am | | **Recap of Day 1** | Workshop Organizers   
-**9:15am - 9:45am | **Session 5: What types of animal data are available and where are they stored?** | |   
+**9:15am - 9:45am** | **Session 5: What types of animal data are available and where are they stored?** | |   
 9:15 am | | COHA OH Datasets initiative | TBD   
 **9:45am - 10:15am** | **Session 6: Data annotations**  | |
 9:45 am | | **Annotation of canine/feline genomics state of the art** | Elinor Karlsson      
-**10:15am - 11:00am | **Flash talks**: | Sixty seconds per attendee to share their research and link to a resource where people can learn more (poster, website, etc.) | TBD
+**10:15am - 11:00am** | **Flash talks**: | Sixty seconds per attendee to share their research and link to a resource where people can learn more (poster, website, etc.) | TBD
 11:00am - 1:00pm | **Discussions**   | |
 11:00am | | **Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data**  
 12:00pm | **Lunch (1 hour)**  | |
