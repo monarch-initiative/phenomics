@@ -18,14 +18,6 @@ May 25, 2022 | Wednesday | 9am - 2pm | [Health Sciences Building](https://www.cu
 - Brandon White, CU Anschutz
 - Julie McMurry, CU Anschutz
 
-## Agenda Overview
-- **Session 1:** Ontologies/Knowledge Graph Overview
-- **Session 2:** Veterinary EHR/OMOP
-- **Session 3:** Cancer Biobank
-- **Session 4:** Companion pets as sentinels for toxicology and exposure science 
-- **Session 5:** What types of animal data are available and where are they stored?
-- **Session 6:** Data annotations   
-
 ## Workshop goals
 - Educate about the community about ontologies
 - Evaluate how veterinary EHR data can be made interoperable with clinical EHRs using OMOP and FHIR			
@@ -36,6 +28,16 @@ May 25, 2022 | Wednesday | 9am - 2pm | [Health Sciences Building](https://www.cu
 - Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data
 - Coordinate a U01 submission amongst participating CTSA organizations
   
+## Agenda Overview
+Day | Time | Session
+-- | -- | --
+Tues, May 24 | 9:45am - 12pm | **Session 1:** Ontologies/Knowledge Graph Overview
+Tues, May 24 | 1:00pm - 1:30pm | - **Session 2:** Veterinary EHR/OMOP
+Tues, May 24 | 1:30pm - 2:00pm | - **Session 3:** Cancer Biobank
+Tues, May 24 | 2:30pm - 4:00pm | - **Session 4:** Companion pets as sentinels for toxicology and exposure science 
+Wed, May 25 | 9:15am - 9:45am | - **Session 5:** What types of animal data are available and where are they stored?
+Wed, May 25 | 9:45am - 10:15am | - **Session 6:** Data annotations   
+
 ## Detailed Agenda
 
 ### Monday, May 23, 2022
@@ -66,7 +68,7 @@ Time (MT) | Sesion | Topic | Speaker
 **1:30pm - 2:00pm** | **Session 3: Cancer Biobank**  | |  
 1:30pm | | **Colorado State University Biobank** | Sue Lana    
 2:00pm | | **Cornell biobank project** | Susan Garrison (Virtual)  
-**2:30pm - 4pm** | **Session 4: Companion pets as sentinels for toxicology and exposure science**  | |
+**2:30pm - 4:00pm** | **Session 4: Companion pets as sentinels for toxicology and exposure science**  | |
 2:30pm | | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
 3:00pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs   
 3:30pm  | | **Use of ontologies to facilitate reporting and analysis of suspected inherited conditions in animals to an Australian reporting platform: creation of a submission form and mapping of Online Mendelian Inheritance in Animals to existing ontologies** | Frank Nicholas and Imke Tammen (virtual)  
