@@ -32,11 +32,11 @@ May 25, 2022 | Wednesday | 9am - 2pm | [Health Sciences Building](https://www.cu
 Day | Time | Session
 -- | -- | --
 Tues, May 24 | 9:45am - 12pm | **Session 1:** Ontologies/Knowledge Graph Overview
-Tues, May 24 | 1:00pm - 1:30pm | - **Session 2:** Veterinary EHR/OMOP
-Tues, May 24 | 1:30pm - 2:00pm | - **Session 3:** Cancer Biobank
-Tues, May 24 | 2:30pm - 4:00pm | - **Session 4:** Companion pets as sentinels for toxicology and exposure science 
-Wed, May 25 | 9:15am - 9:45am | - **Session 5:** What types of animal data are available and where are they stored?
-Wed, May 25 | 9:45am - 10:15am | - **Session 6:** Data annotations   
+Tues, May 24 | 1:00pm - 1:30pm | **Session 2:** Veterinary EHR/OMOP
+Tues, May 24 | 1:30pm - 2:00pm | **Session 3:** Cancer Biobank
+Tues, May 24 | 2:30pm - 4:00pm | **Session 4:** Companion pets as sentinels for toxicology and exposure science 
+Wed, May 25 | 9:15am - 9:45am | **Session 5:** What types of animal data are available and where are they stored?
+Wed, May 25 | 9:45am - 10:15am | **Session 6:** Data annotations   
 
 ## Detailed Agenda
 
