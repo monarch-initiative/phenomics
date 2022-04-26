@@ -63,7 +63,7 @@ Time (MT) | Sesion | Topic | Speaker
 **1:00pm - 1:30pm** | **Session 2: Veterinary EHR/OMOP**  | |
 1:00pm | | **Overview of OneHealth** | TBD  
 1:15pm | | **ZIMS** | Rachel Thompson (Pre-recorded talk)    
-**1:30pm - 2:00pm | **Session 3: Cancer Biobank**  | |  
+**1:30pm - 2:00pm** | **Session 3: Cancer Biobank**  | |  
 1:30pm | | **Colorado State University Biobank** | Sue Lana    
 2:00pm | | **Cornell biobank project** | Susan Garrison (Virtual)  
 **2:30pm - 4pm** | **Session 4: Companion pets as sentinels for toxicology and exposure science**  | |
