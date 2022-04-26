@@ -64,7 +64,7 @@ Time (MT) | Sesion | Topic | Speaker
 11:30am |  **Open Discussion**  |
 **12:00pm - 1pm** | **Lunch** | |
 **1:00pm - 1:30pm** | **Session 2: Veterinary EHR/OMOP**  | |
-1:00pm | | **Overview of OneHealth** | TBD  
+1:00pm | | **Overview of OneHealth** | Manlik Kwong  
 1:15pm | | **ZIMS** | Rachel Thompson (Pre-recorded talk)    
 **1:30pm - 2:00pm** | **Session 3: Cancer Biobank**  | |  
 1:30pm | | **Colorado State University Biobank** | Sue Lana    
@@ -84,7 +84,7 @@ Time (MT) | Sesion | Topic | Speaker
 -- | -- | -- | -- 
 9:00 am | | **Recap of Day 1** | Workshop Organizers   
 **9:15am - 9:45am** | **Session 5: What types of animal data are available and where are they stored?** | |   
-9:15 am | | COHA OH Datasets initiative | TBD   
+9:15 am | | COHA OH Datasets initiative | Joe Strecker and Tracy Webb   
 **9:45am - 10:15am** | **Session 6: Data annotations**  | |
 9:45 am | | **Annotation of canine/feline genomics state of the art** | Elinor Karlsson      
 **10:15am - 11:00am** | **Flash talks**: | Sixty seconds per attendee to share their research and link to a resource where people can learn more (poster, website, etc.) | TBD
