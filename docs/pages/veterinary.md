@@ -87,7 +87,7 @@ Time (MT) | Sesion | Topic | Speaker
 **10:15am - 11:00am** | **Flash talks**: | Sixty seconds per attendee to share their research and link to a resource where people can learn more (poster, website, etc.) | TBD
 11:00am - 1:00pm | **Discussions**   | |
 11:00am | | **Develop a plan to write a white paper/position paper about how to reuse Veterinary EHR and OMOP data**  
-12:00pm | **Lunch (1 hour)**  | |
+**12:00pm - 1:00pm** | **Lunch**  | |
 1:00pm | | **Coordinate a U01 submission amongst participating CTSA organizations**   
 2:00 pm | | Wrap up and Departure | Workshop Organizers  
  
