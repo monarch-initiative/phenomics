@@ -29,6 +29,7 @@ May 25, 2022 | Wednesday | 9am - 2pm | [Health Sciences Building](https://www.cu
 - Coordinate a U01 submission amongst participating CTSA organizations
   
 ## Agenda Overview
+
 Day | Time | Session
 -- | -- | --
 Tues, May 24 | 9:45am - 12pm | **Session 1:** Ontologies/Knowledge Graph Overview
