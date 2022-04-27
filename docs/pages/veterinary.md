@@ -45,7 +45,7 @@ Wed, May 25 | 9:45am - 10:15am | **Session 6:** Data annotations
 
 Time (MT) | Topic | Location
 -- | -- | --
-9am - 5pm | TISLab technical veterinary planning | TISLab office
+9am - 5pm | TISLab technical veterinary planning meeting | TISLab office
 
 ### Tuesday, May 24, 2022
 
