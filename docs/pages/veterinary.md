@@ -70,7 +70,7 @@ Time (MT) | Sesion | Topic | Speaker
 **2:30pm - 4:00pm** | **Session 4: Companion pets as sentinels for toxicology and exposure science**  | |
 2:30pm | | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
 3:00pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs   
-3:30pm  | | **Use of ontologies to facilitate reporting and analysis of suspected inherited conditions in animals to an Australian reporting platform: creation of a submission form and mapping of Online Mendelian Inheritance in Animals to existing ontologies** | Frank Nicholas and Imke Tammen (virtual)  
+3:30pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (virtual)  
 **4:00pm - 5:00pm** | **Discussion** | |
 4:00pm | | **Logistics for discussions** | Melissa Haendel    
 4:15pm | | **Assessment of the state of available veterinary EHR data** | All
