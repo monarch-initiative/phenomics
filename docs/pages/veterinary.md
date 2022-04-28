@@ -54,7 +54,7 @@ Time (MT) | Sesion | Topic | Speaker
 **9:45am - 12pm** | **Session 1: Ontologies/Knowledge Graph Overview**  | | 
 9:45am | | **[Introduction to Ontologies](https://docs.google.com/presentation/d/1-H7nU6Kj0nJJxMLzr67PFDw4nir9Ejqv3TyTj9qF1cQ/edit#slide=id.p1)** | Nicole Vasilevsky   
 10:00am | | **How to use knowledge graphs** | Anne Thessen 
-10:15am | | **Disease and phenotype ontology annotations for different breeds**  | TBD  
+10:15am | | **Disease and phenotype ontology annotations for different breeds**  | Nico Matentzoglu  
 10:30am | | **Vertebrate Breed Ontology (VBO)** | Sabrina Toro  
 10:45am | |  **Traits annotations using Ontology Biological Attributes (OBA)** | Moni Muñoz-Torres  
 11:00am |  | **Canine Phenotype Ontology** | Rod Page      
