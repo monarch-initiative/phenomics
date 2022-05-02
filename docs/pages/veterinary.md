@@ -69,7 +69,7 @@ Time (MT) | Sesion | Topic | Speaker
 2:00pm | | **Cornell biobank project** | Susan Garrison (Virtual)  
 **2:30pm - 4:00pm** | **Session 4: Companion pets as sentinels for toxicology and exposure science**  | |
 2:30pm | | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
-3:00pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs   
+3:00pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs (Virtual)   
 3:30pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (virtual)  
 **4:00pm - 5:00pm** | **Discussion** | |
 4:00pm | | **Logistics for discussions** | Melissa Haendel    
