@@ -56,10 +56,9 @@ Time (MT) | Sesion | Topic | Speaker
 10:00am | | **How to use knowledge graphs** | Anne Thessen 
 10:15am | | **Disease and phenotype ontology annotations for different breeds**  | Nico Matentzoglu  
 10:30am | | **Vertebrate Breed Ontology (VBO)** | Sabrina Toro  
-10:45am | |  **Traits annotations using Ontology Biological Attributes (OBA)** | Moni Muñoz-Torres  
-11:00am |  | **Canine Phenotype Ontology** | Rod Page      
-11:15am | |  **Feline Phenotype Ontology** | Lesley Lyons  
-11:30am |  **Open Discussion**  |
+10:45am | |  **Canine Phenotype Ontology** | Rod Page  
+11:00am |  | **Feline Phenotype Ontology** | Lesley Lyons      
+11:15am | **Open Discussion**  |
 **12:00pm - 1pm** | **Lunch** | |
 **1:00pm - 1:30pm** | **Session 2: Veterinary EHR/OMOP**  | |
 1:00pm | | **Overview of OneHealth** | Manlik Kwong  
