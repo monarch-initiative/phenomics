@@ -19,7 +19,7 @@ May 25, 2022 | Wednesday | 9am - 2pm | [Health Sciences Building](https://www.cu
 - Julie McMurry, CU Anschutz
 
 ## Workshop goals
-- Educate about the community about ontologies
+- Educate the community about ontologies
 - Evaluate how veterinary EHR data can be made interoperable with clinical EHRs using OMOP and FHIR			
 - Learn about challenges and next steps to make data more discoverable and reusable
 - Develop a standard (like phenopackets) around how you represent outcomes of analyses of companion pets and their guardians/owners
@@ -69,7 +69,7 @@ Time (MT) | Sesion | Topic | Speaker
 **2:30pm - 4:00pm** | **Session 4: Companion pets as sentinels for toxicology and exposure science**  | |
 2:30pm | | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
 3:00pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs (Virtual)   
-3:30pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (virtual)  
+3:30pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (Virtual)  
 **4:00pm - 5:00pm** | **Discussion** | |
 4:00pm | | **Logistics for discussions** | Melissa Haendel    
 4:15pm | | **Assessment of the state of available veterinary EHR data** | All
@@ -93,7 +93,7 @@ Time (MT) | Sesion | Topic | Speaker
  
 ## COVID-19 policy
 
-- Masks are not required of **vaccinated and boosted** individuals indoors or outdoors on campus at this time. 
+- Masks are not required for **vaccinated and boosted** individuals indoors or outdoors on campus at this time. 
 - Anyone may choose to continue wearing a mask and is encouraged to do so at their discretion.
 - **Vaccinated individuals who have not received a COVID-19 booster** are required to continue to wear a mask and maintain physical distancing.
 - **Unvaccinated individuals** with approved exemptions to the campus vaccination requirement are required to wear a mask and observe physical distancing. These individuals must also take part in mandatory testing. 
