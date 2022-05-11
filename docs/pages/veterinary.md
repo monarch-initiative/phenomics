@@ -71,7 +71,7 @@ Time (MT) | Sesion | Topic | Speaker
 3:00pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs (Virtual)   
 3:30pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (virtual)  
 **4:00pm - 5:00pm** | **Discussion** | |
-4:00pm | | **Logistics for discussions** | Melissa Haendel    
+4:00pm | | **Logistics for discussions** | Monica Munoz-Torres    
 4:15pm | | **Assessment of the state of available veterinary EHR data** | All
 5:00pm | | **Wrap up**
 
