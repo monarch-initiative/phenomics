@@ -61,7 +61,7 @@ Time (MT) | Sesion | Topic | Speaker
 11:15am | **Open Discussion**  |
 **12:00pm - 1pm** | **Lunch** | |
 **1:00pm - 1:30pm** | **Session 2: Veterinary EHR & OMOP**  | |
-1:00pm | | **Overview of OneHealth** | Manlik Kwong  
+1:00pm | | **[Adaptation of OMOP in Veterinary Research](https://docs.google.com/presentation/d/1icanloGbWeRYc-qy3W5WqRC9xZcizaeb/edit#slide=id.p1)** | Manlik Kwong  
 1:15pm | | **ZIMS** | Rachel Thompson (pre-recorded)    
 **1:30pm - 2:00pm** | **Session 3: Cancer Biobanks**  | |  
 1:30pm | | **Colorado State University Biobank** | Sue Lana    
