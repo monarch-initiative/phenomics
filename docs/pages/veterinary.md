@@ -68,8 +68,8 @@ Time (MT) | Sesion | Topic | Speaker
 2:00pm | | **Cornell Biobank Project** | Susan Garrison (remote)  
 **2:30pm - 4:00pm** | **Session 4: Companion pets as sentinels for toxicology and exposure science**  | |
 2:30pm | | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
-3:00pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs (remote)  
-3:30pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (remote)  
+3:00pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs (Virtual)   
+3:30pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (Virtual)  
 **4:00pm - 5:00pm** | **Discussion** | |
 4:00pm | | **Masterminding our discussions** | Monica Munoz-Torres   
 4:10pm | | **Assessment of the state of available veterinary EHR data** | All
@@ -93,7 +93,7 @@ Time (MT) | Sesion | Topic | Speaker
  
 ## COVID-19 policy
 
-- Masks are not required of **vaccinated and boosted** individuals, indoors or outdoors, while on campus at this time. 
+- Masks are not required for **vaccinated and boosted** individuals indoors or outdoors on campus at this time. 
 - Anyone may choose to continue wearing a mask and is encouraged to do so at their discretion.
 - **Vaccinated individuals who have not received a COVID-19 booster** are required to continue to wear a mask and maintain physical distancing.
 - **Unvaccinated individuals** with approved exemptions to the campus vaccination requirement are required to wear a mask and observe physical distancing. These individuals must also take part in mandatory testing. 
