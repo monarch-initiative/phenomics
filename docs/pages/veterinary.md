@@ -2,7 +2,7 @@
 
 Date | Day | Time (MT) | Location (Virtual option will be available*)
 -- | -- | -- | --
-May 24, 2022 | Tuesday | 9am - 6:00pm | [Health Sciences Building](https://www.cuanschutz.edu/about/cu-anschutz-map) Room P12-2002 
+May 24, 2022 | Tuesday | 9am - 5:00pm | [Health Sciences Building](https://www.cuanschutz.edu/about/cu-anschutz-map) Room P12-2002 
 May 25, 2022 | Wednesday | 9am - 2pm | [Health Sciences Building](https://www.cuanschutz.edu/about/cu-anschutz-map) Room P12-2002
 
 ***Zoom link** will be shared with registered guests closer to the date.
@@ -49,6 +49,7 @@ Arrival
 
 Time (MT) | Sesion | Topic | Speaker
 -- | -- | -- | -- 
+8:00am | **Arrival and Breakfast** | |
 9:00am | | Welcome and [Land Acknowledgement](https://president.cu.edu/statements/cu-systemwide-lands-recognition-statement) | Nicole Vasilevsky and Moni Muñoz-Torres  
 9:15am | |  **Icebreaker** | Led by Anne Thessen and Sarah Gehrke   
 **9:45am - 12pm** | **Session 1: Overview of Ontologies & Knowledge Graphs**  | | 
