@@ -81,6 +81,7 @@ Time (MT) | Sesion | Topic | Speaker
 
 Time (MT) | Sesion | Topic | Speaker
 -- | -- | -- | -- 
+8:00am | **Arrival and Breakfast** | |
 9:00 am | | **Recap of Day 1** | Workshop Organizers   
 **9:15am - 9:45am** | **Session 5: What types of animal data are available and where are they stored?** | |   
 9:15 am | | COHA OH Datasets initiative | Joe Strecker and Tracy Webb   
