@@ -35,7 +35,7 @@ Day | Time | Session
 Tues, May 24 | 9:45am - 12pm | **Session 1:** Overview of Ontologies & Knowledge Graphs
 Tues, May 24 | 1:00pm - 1:30pm | **Session 2:** Veterinary EHR & OMOP
 Tues, May 24 | 1:30pm - 2:00pm | **Session 3:** Cancer Biobanks
-Tues, May 24 | 2:30pm - 4:00pm | **Session 4:** Companion pets as sentinels for toxicology and exposure science 
+Tues, May 24 | 2:45pm - 4:15pm | **Session 4:** Companion pets as sentinels for toxicology and exposure science 
 Wed, May 25 | 9:15am - 9:45am | **Session 5:** What types of animal data are available and where are they stored?
 Wed, May 25 | 9:45am - 10:15am | **Session 6:** Data annotations   
 
@@ -66,11 +66,12 @@ Time (MT) | Sesion | Topic | Speaker
 **1:30pm - 2:00pm** | **Session 3: Cancer Biobanks**  | |  
 1:30pm | | **Colorado State University Biobank** | Sue Lana    
 2:00pm | | **Cornell Biobank Project** | Susan Garrison (remote)  
-**2:30pm - 4:00pm** | **Session 4: Companion pets as sentinels for toxicology and exposure science**  | |
-2:30pm | | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
-3:00pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs (Virtual)   
-3:30pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (Virtual)  
-**4:00pm - 5:00pm** | **Discussion** | |
+**2:30pm - 2:45pm** | **Snack Break**  | |
+**2:45pm - 4:15pm** | **Session 4: Companion pets as sentinels for toxicology and exposure science**  | |
+2:45pm | | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
+3:15pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs (Virtual)   
+3:45pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (Virtual)  
+**4:15pm - 5:00pm** | **Discussion** | |
 4:00pm | | **Masterminding our discussions** | Monica Munoz-Torres   
 4:10pm | | **Assessment of the state of available veterinary EHR data** | All
 5:00pm | | **Wrap up**
