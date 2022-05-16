@@ -49,7 +49,7 @@ Arrival
 
 Time (MT) | Sesion | Topic | Speaker
 -- | -- | -- | -- 
-9:00am | | Welcome | Workshop Organizers  
+9:00am | | Welcome and [land acknowledgement](https://president.cu.edu/statements/cu-systemwide-lands-recognition-statement) | Workshop Organizers  
 9:15am | |  **Icebreaker** | Led by Anne Thessen and Sarah Gehrke   
 **9:45am - 12pm** | **Session 1: Ontologies/Knowledge Graph Overview**  | | 
 9:45am | | **[Introduction to Ontologies](https://docs.google.com/presentation/d/1-H7nU6Kj0nJJxMLzr67PFDw4nir9Ejqv3TyTj9qF1cQ/edit#slide=id.p1)** | Nicole Vasilevsky   
