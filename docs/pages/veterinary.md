@@ -102,6 +102,9 @@ Time (MT) | Sesion | Topic | Speaker
 - **Unvaccinated individuals** with approved exemptions to the campus vaccination requirement are required to wear a mask and observe physical distancing. These individuals must also take part in mandatory testing. 
 - Please reivew the campus policy page [here](https://www.cuanschutz.edu/coronavirus/return-to-campus). These guidelines are up to date as of the week of 16 May, 2022. Given ever changing conditions of the virus and its spread, please note that the CU policies on Covid-19 may change at any time.  
 
+## Code of Conduct
+
+[Under development](https://github.com/monarch-initiative/phenomics/blob/master/docs/pages/vet-code-of-conduct.md) 
 
 ## Funding
 This workshop is supported by an NIH BD2K conference grant “Forums for Integrative phenomics” to Melissa Haendel and Peter Robinson: U13CA221044.
