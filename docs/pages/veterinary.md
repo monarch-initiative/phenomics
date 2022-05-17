@@ -50,7 +50,7 @@ Arrival
 Time (MT) | Sesion | Topic | Speaker
 -- | -- | -- | -- 
 8:00am | **Arrival and Breakfast** | |
-9:00am | | Welcome and [Land Acknowledgement](https://president.cu.edu/statements/cu-systemwide-lands-recognition-statement) | Nicole Vasilevsky, Moni Muñoz-Torres and Melissa Haendel
+9:00am | | [Welcome](https://docs.google.com/presentation/d/1VJ1XxknQEQbHZ7TZ8_6FKeu15Y9xnB69VhnOiB2A0oE/edit#slide=id.p1) | Nicole Vasilevsky, Moni Muñoz-Torres and Melissa Haendel
 9:15am | |  **Icebreaker** | Led by Anne Thessen and Sarah Gehrke   
 **9:45am - 12pm** | **Session 1: Overview of Ontologies & Knowledge Graphs**  | | 
 9:45am | | **[Introduction to Ontologies](https://docs.google.com/presentation/d/1-H7nU6Kj0nJJxMLzr67PFDw4nir9Ejqv3TyTj9qF1cQ/edit#slide=id.p1)** | Nicole Vasilevsky   
