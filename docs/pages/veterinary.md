@@ -96,7 +96,7 @@ Time (MT) | Sesion | Topic | Speaker
  
 ## COVID-19 policy
 
-- We kindly request that everyone wear a mask when indoors or outdoors on campus at this time due to rising cases of COVID in Colorado. 
+- We kindly request that everyone wear a mask when indoors or outdoors on campus at this time due to rising cases of COVID in Colorado (although masks are not required of vaccinated and boosted individuals indoors or outdoors on campus at this time, unless in clinical environments.)
 - **Vaccinated individuals who have not received a COVID-19 booster** are required to continue to wear a mask and maintain physical distancing.
 - **Unvaccinated individuals** with approved exemptions to the campus vaccination requirement are required to wear a mask and observe physical distancing. These individuals must also take part in mandatory testing. 
 - Please reivew the campus policy page [here](https://www.cuanschutz.edu/coronavirus/return-to-campus). These guidelines are up to date as of the week of 16 May, 2022. Given ever changing conditions of the virus and its spread, please note that the CU policies on Covid-19 may change at any time.  
