@@ -103,7 +103,7 @@ Time (MT) | Sesion | Topic | Speaker
 
 ## Code of Conduct
 
-[Under development](https://monarch-initiative.github.io/phenomics/pages/vet-code-of-conduct.html) 
+[Available here](https://monarch-initiative.github.io/phenomics/pages/vet-code-of-conduct.html) 
 
 ## Funding
 This workshop is supported by an NIH BD2K conference grant “Forums for Integrative phenomics” to Melissa Haendel and Peter Robinson: U13CA221044.
