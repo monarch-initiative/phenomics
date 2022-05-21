@@ -2,7 +2,7 @@
 
 This code of conduct outlines our expectations for the Comparative Veterinary Informatics community, which includes faculty, staff, users, data providers, students, etc., as well as describes how to report unacceptable behavior. We are committed to providing a welcoming and inspiring environment for all and expect this code of conduct to be honored. All members of Comparative Veterinary Informatics community are expected to abide by this code of conduct in agreement with the standards for professional behavior outlined and enforced by the NIH Office of Equity, Diversity and Inclusion, at <https://www.edi.nih.gov/>.
 
-Our Comparative Veterinary Informatics community strives to: 
+Everyone in the Comparative Veterinary Informatics community should strive to: 
 
 -   **Be friendly and patient**.
 
@@ -16,7 +16,7 @@ Our Comparative Veterinary Informatics community strives to: 
 
 -   **Try to understand why we disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we're different. Diversity contributes to the strength of our community, which is composed of people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
--   All members of Comparative Veterinary Informatics community will be expected to abide by the highest research ethical standards in accordance with the Online Ethics Center for Engineering and Science [Moore (2011)](https://www.nsf.gov/bfa/dias/policy/rcr/resources/ethics_oct11.pdf), and the AI code of ethics (<https://futureoflife.org/ai-principles/>). Plagiarism and data fabrication will not be allowed. These and other ethics violations will be reported.
+-   All members of Comparative Veterinary Informatics community will be expected to abide by the highest research ethical standards in accordance with the Online Ethics Center for Engineering and Science [(https://onlineethics.org)](https://onlineethics.org), [Moore (2011)](https://www.nsf.gov/bfa/dias/policy/rcr/resources/ethics_oct11.pdf), and the AI code of ethics (<https://futureoflife.org/ai-principles/>). Plagiarism and data fabrication will not be allowed. These and other ethics violations will be reported.
 
 Conflict resolution
 -------------------
