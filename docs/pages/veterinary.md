@@ -54,7 +54,7 @@ Time (MT) | Sesion | Topic | Speaker
 9:15am | |  **Icebreaker** | Led by Anne Thessen and Sarah Gehrke   
 **9:45am - 12pm** | **Session 1: Overview of Ontologies & Knowledge Graphs**  | | 
 9:45am | | **[Introduction to Ontologies](https://docs.google.com/presentation/d/1-H7nU6Kj0nJJxMLzr67PFDw4nir9Ejqv3TyTj9qF1cQ/edit#slide=id.p1)** | Nicole Vasilevsky   
-10:00am | | **How to use knowledge graphs** | Anne Thessen 
+10:00am | | **[How to use knowledge graphs](https://docs.google.com/presentation/d/1V8mh-g0dgWXwwx4DWwvoBm557V6wHKEbMPvZ7rexyEw/edit#slide=id.g11c4ef76adc_0_685)** | Anne Thessen 
 10:15am | | **Disease and phenotype ontology annotations for different breeds**  | Nico Matentzoglu (remote) 
 10:30am | | **Vertebrate Breed Ontology (VBO)** | Sabrina Toro  
 10:45am | |  **Canine Phenotype Ontology** | Rod Page  
@@ -70,7 +70,7 @@ Time (MT) | Sesion | Topic | Speaker
 **2:30pm - 2:45pm** | **Snack Break**  | |
 **2:45pm - 4:15pm** | **Session 4: Companion pets as sentinels for toxicology and exposure science**  | |
 2:45pm | | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
-3:15pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs (Virtual)   
+3:15pm | | **[Genetic Basis of companion animal cardiolovascular disease](https://docs.google.com/presentation/d/13H8PNRghMiuM0FVGEYesNQrhhJREWpzx/edit#slide=id.p1)** | Kate Meurs (Virtual)   
 3:45pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (Virtual)  
 **4:15pm - 5:00pm** | **Discussion** | |
 4:00pm | | **Masterminding our discussions** | Monica Munoz-Torres   
