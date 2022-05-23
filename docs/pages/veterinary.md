@@ -35,7 +35,7 @@ Day | Time | Session
 Tues, May 24 | 9:45am - 12pm | **Session 1:** Intro to Ontologies, Knowledge Graphs & Latest Veterinary Science Updates
 Tues, May 24 | 1:00pm - 1:30pm | **Session 2:** Veterinary EHR & OMOP
 Tues, May 24 | 1:30pm - 2:00pm | **Session 3:** Cancer Biobanks
-Tues, May 24 | 2:45pm - 4:15pm | **Session 4:** Ontologies in Veterinary Science 
+Tues, May 24 | 3:00pm - 4:15pm | **Session 4:** Ontologies in Veterinary Science 
 Wed, May 25 | 9:15am - 9:45am | **Session 5:** What types of animal data are available and where are they stored?
 Wed, May 25 | 9:45am - 10:15am | **Session 6:** Data annotations   
 
