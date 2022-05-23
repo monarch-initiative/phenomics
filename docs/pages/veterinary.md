@@ -32,10 +32,10 @@ May 25, 2022 | Wednesday | 9am - 2pm | [Health Sciences Building](https://www.cu
 
 Day | Time | Session
 -- | -- | --
-Tues, May 24 | 9:45am - 12pm | **Session 1:** Overview of Ontologies & Knowledge Graphs
+Tues, May 24 | 9:45am - 12pm | **Session 1:** Intro to Ontologies, Knowledge Graphs, & Latest Updates in Veterinary Science
 Tues, May 24 | 1:00pm - 1:30pm | **Session 2:** Veterinary EHR & OMOP
 Tues, May 24 | 1:30pm - 2:00pm | **Session 3:** Cancer Biobanks
-Tues, May 24 | 2:45pm - 4:15pm | **Session 4:** Companion pets as sentinels for toxicology and exposure science 
+Tues, May 24 | 2:45pm - 4:15pm | **Session 4:** Ontologies for Veterniary Science
 Wed, May 25 | 9:15am - 9:45am | **Session 5:** What types of animal data are available and where are they stored?
 Wed, May 25 | 9:45am - 10:15am | **Session 6:** Data annotations   
 
@@ -52,14 +52,13 @@ Time (MT) | Sesion | Topic | Speaker
 8:00am | **Arrival and Breakfast** | |
 9:00am | | [Welcome](https://docs.google.com/presentation/d/1VJ1XxknQEQbHZ7TZ8_6FKeu15Y9xnB69VhnOiB2A0oE/edit#slide=id.p1) | Nicole Vasilevsky, Moni Muñoz-Torres and Melissa Haendel
 9:15am | |  **Icebreaker** | Led by Anne Thessen and Sarah Gehrke   
-**9:45am - 12pm** | **Session 1: Overview of Ontologies & Knowledge Graphs**  | | 
+**9:45am - 12pm** | **Session 1: Intro to Ontologies, Knowledge Graphs, & Latest Updates in Veterinary Science**  | | 
 9:45am | | **[Introduction to Ontologies](https://docs.google.com/presentation/d/1-H7nU6Kj0nJJxMLzr67PFDw4nir9Ejqv3TyTj9qF1cQ/edit#slide=id.p1)** | Nicole Vasilevsky   
 10:00am | | **How to use knowledge graphs** | Anne Thessen 
 10:15am | | **Disease and phenotype ontology annotations for different breeds**  | Nico Matentzoglu (remote) 
-10:30am | | **Vertebrate Breed Ontology (VBO)** | Sabrina Toro  
-10:45am | |  **Canine Phenotype Ontology** | Rod Page  
-11:00am | | **Feline Phenotype Ontology** | Lesley Lyons      
-11:15am | **Open Discussion**  |
+10:30am | | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton
+11:00am | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs (Virtual)
+11:30am | **Open Discussion**  |
 **12:00pm - 1pm** | **Lunch** | |
 **1:00pm - 1:30pm** | **Session 2: Veterinary EHR & OMOP**  | |
 1:00pm | | **[Adaptation of OMOP in Veterinary Research](https://docs.google.com/presentation/d/1icanloGbWeRYc-qy3W5WqRC9xZcizaeb/edit#slide=id.p1)** | Manlik Kwong  
@@ -67,10 +66,11 @@ Time (MT) | Sesion | Topic | Speaker
 **1:30pm - 2:00pm** | **Session 3: Cancer Biobanks**  | |  
 1:30pm | | **Colorado State University Biobank** | Sue Lana    
 2:00pm | | **Cornell Biobank Project** | Susan Garrison (remote)  
-**2:30pm - 2:45pm** | **Snack Break**  | |
-**2:45pm - 4:15pm** | **Session 4: Companion pets as sentinels for toxicology and exposure science**  | |
-2:45pm | | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
-3:15pm | | **Genetic Basis of companion animal cardiolovascular disease** | Kate Meurs (Virtual)   
+**2:30pm - 3:00pm** | **Snack Break**  | |
+**3:00pm - 4:15pm** | **Session 4: Ontologies for Veterniary Science**  | |
+3:00pm | | **Vertebrate Breed Ontology (VBO)** | Sabrina Toro  
+3:15pm | | **Canine Phenotype Ontology** | Rod Page  
+3:30pm | | **Feline Phenotype Ontology** | Lesley Lyons    
 3:45pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (Virtual)  
 **4:15pm - 5:00pm** | **Discussion** | |
 4:00pm | | **Masterminding our discussions** | Monica Munoz-Torres   
