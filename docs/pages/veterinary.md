@@ -70,7 +70,7 @@ Time (MT) | Sesion | Topic | Speaker
 **3:00pm - 4:15pm** | **Session 4: Ontologies in Veterinary Science**  | |
 3:00pm | | **Vertebrate Breed Ontology (VBO)** | Sabrina Toro  
 3:15pm | | **Canine Phenotype Ontology** | Rod Page
-3:30pm | | **Feline Phenotype Ontology** | Lesley Lyons    
+3:30pm | | **[Feline Phenotype Ontology](https://docs.google.com/presentation/d/1XNMlFrOSxpxMmGYDP8z4JhaXsSngQMhW/edit#slide=id.p1)** | Lesley Lyons    
 3:45pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (Virtual)  
 **4:15pm - 5:00pm** | **Discussion** | |
 4:00pm | | **Masterminding our discussions** | Monica Munoz-Torres   
