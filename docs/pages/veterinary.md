@@ -87,7 +87,7 @@ Time (MT) | Sesion | Topic | Speaker
 9:15 am | | **[COHA OH Datasets initiative](https://docs.google.com/presentation/d/1ahORLYa5iz6s7aLFLCi_M7uxom0N58D8/edit#slide=id.p1)** | Joe Strecker and Tracy Webb   
 **9:45am - 10:15am** | **Session 6: Data annotations**  | |
 9:45 am | | **Annotation of canine/feline genomics state of the art** | Elinor Karlsson      
-**10:15am - 11:00am** | **Flash talks**: | **Sixty seconds per attendee.** Share your research and link to resources where we can learn more about it! | Monica Munoz-Torres
+**10:15am - 11:00am** |  | **[Contributing to ontologies](https://oboacademy.github.io/obook/pathways/ontology-contributor/)** | Nicole Vasilevsky
 11:00am - 12:00pm | **Discussions**   | |
 11:00am | | **Develop a plan to write a white paper/position paper on how to reuse Veterinary EHR and OMOP data**  
 **12:00pm - 1:00pm** | **Lunch**  | |
