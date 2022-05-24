@@ -73,8 +73,8 @@ Time (MT) | Sesion | Topic | Speaker
 3:30pm | | **[Feline Phenotype Ontology](https://docs.google.com/presentation/d/1XNMlFrOSxpxMmGYDP8z4JhaXsSngQMhW/edit#slide=id.p1)** | Lesley Lyons    
 3:45pm  | | **[Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals](https://docs.google.com/presentation/d/10xzywrq0KVf7CDwFHkB9rmCKX7tUvSHf/edit#slide=id.p1)** | Imke Tammen and Frank Nicholas (Virtual)  
 **4:15pm - 5:00pm** | **Discussion** | |
-4:00pm | | **Masterminding our discussions** | Monica Munoz-Torres   
-4:10pm | | **Assessment of the state of available veterinary EHR data** | All
+4:15pm | | **Masterminding our discussions** | Monica Munoz-Torres   
+4:20pm | | **Assessment of the state of available veterinary EHR data** | All
 5:00pm | | **Wrap up**
 
 ### Wednesday, May 25, 2022
