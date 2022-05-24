@@ -64,14 +64,14 @@ Time (MT) | Sesion | Topic | Speaker
 1:00pm | | **[Adaptation of OMOP in Veterinary Research](https://docs.google.com/presentation/d/1icanloGbWeRYc-qy3W5WqRC9xZcizaeb/edit#slide=id.p1)** | Manlik Kwong  
 1:15pm | | **[ZIMS](https://species360.zoom.us/rec/play/9BPx5IUTwkc73PL1pMqlBsHwGTy6Oe5WxLVSkDhwRcgj9mUTMnYNnOUcAa4rspiOqealzwY6pHA6qc3l.xtAyfNyyVM910zRx?continueMode=true&_x_zm_rtaid=S-tJXFl_S6mpDRXdlXb-RQ.1653235947019.ef23e7b5b885d985ea60331af5b594cb&_x_zm_rhtaid=177)** | Rachel Thompson (pre-recorded)    
 **1:30pm - 2:00pm** | **Session 3: Cancer Biobanks**  | |  
-1:30pm | | **Colorado State University Biobank** | Sue Lana    
+1:30pm | | **[Colorado State University Biobank](https://docs.google.com/presentation/d/1_tQu67IVfnRObs0nOT3g7nObQ9eBIFpB/edit#slide=id.p1)** | Sue Lana   
 2:00pm | | **Cornell Biobank Project** | Susan Garrison (remote)  
 **2:30pm - 3:00pm** | **Snack Break**  | |
 **3:00pm - 4:15pm** | **Session 4: Ontologies in Veterinary Science**  | |
 3:00pm | | **Vertebrate Breed Ontology (VBO)** | Sabrina Toro  
 3:15pm | | **Canine Phenotype Ontology** | Rod Page
 3:30pm | | **[Feline Phenotype Ontology](https://docs.google.com/presentation/d/1XNMlFrOSxpxMmGYDP8z4JhaXsSngQMhW/edit#slide=id.p1)** | Lesley Lyons    
-3:45pm  | | **Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals** | Imke Tammen and Frank Nicholas (Virtual)  
+3:45pm  | | **[Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals](https://docs.google.com/presentation/d/10xzywrq0KVf7CDwFHkB9rmCKX7tUvSHf/edit#slide=id.p1)** | Imke Tammen and Frank Nicholas (Virtual)  
 **4:15pm - 5:00pm** | **Discussion** | |
 4:00pm | | **Masterminding our discussions** | Monica Munoz-Torres   
 4:10pm | | **Assessment of the state of available veterinary EHR data** | All
