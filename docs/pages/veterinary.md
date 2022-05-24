@@ -56,7 +56,7 @@ Time (MT) | Sesion | Topic | Speaker
 9:45am | | **[Introduction to Ontologies](https://docs.google.com/presentation/d/1-H7nU6Kj0nJJxMLzr67PFDw4nir9Ejqv3TyTj9qF1cQ/edit#slide=id.p1)** | Nicole Vasilevsky   
 10:00am | | **[How to use knowledge graphs](https://docs.google.com/presentation/d/1V8mh-g0dgWXwwx4DWwvoBm557V6wHKEbMPvZ7rexyEw/edit#slide=id.g11c4ef76adc_0_685)** | Anne Thessen 
 10:15am | | **Disease and phenotype ontology annotations for different breeds**  | Nico Matentzoglu (remote) 
-10:30am | | **Report out from National Academies veterinary workshop 2021** | Wendy Shelton  
+10:30am | | **[Report out from National Academies veterinary workshop 2021](https://docs.google.com/presentation/d/1B5NeVZGhbv2ppQgoJQXO5QrPDC9jIR4q/edit#slide=id.p1)** | Wendy Shelton  
 11:00am | | **[Genetic Basis of companion animal cardiolovascular disease](https://docs.google.com/presentation/d/13H8PNRghMiuM0FVGEYesNQrhhJREWpzx/edit#slide=id.p1)** | Kate Meurs (Virtual)   
 11:30am | **Open Discussion**  |
 **12:00pm - 1pm** | **Lunch** | |
