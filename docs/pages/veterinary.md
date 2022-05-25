@@ -86,7 +86,7 @@ Time (MT) | Sesion | Topic | Speaker
 **9:15am - 9:45am** | **Session 5: What types of animal data are available and where are they stored?** | |   
 9:15 am | | **[COHA OH Datasets initiative - Tracy Webb](https://docs.google.com/presentation/d/18TcodxCIBZMQH9hohma6Uqm7gY_IzVa2/edit#slide=id.p1)** and **[COHA ONE HEALTH DATASETS INITIATIVE - Joe Strecker](https://docs.google.com/presentation/d/1Na2vDX6PmLrRTHWE3cInw2y1aQNV_clA/edit#slide=id.p1)** | Joe Strecker and Tracy Webb   
 **9:45am - 10:15am** | **Session 6: Data annotations**  | |
-9:45 am | | **Annotation of canine/feline genomics state of the art** | Elinor Karlsson      
+9:45 am | | **[Annotation of canine/feline genomics state of the art](https://docs.google.com/presentation/d/1A6EGYhY30U7_hDAavoTtq20gUHilBPsGgPjHH4jyMFU/edit)** | Elinor Karlsson      
 **10:15am - 11:00am** |  | **[Flash talks](https://docs.google.com/presentation/d/1Hemh8Py2Ku0ekUm60GiDXM8_QURAnVE0nBqBZORqruU/edit#slide=id.g12b3199395e_0_238) and [Contributing to ontologies](https://oboacademy.github.io/obook/pathways/ontology-contributor/)** | Nicole Vasilevsky
 11:00am - 12:00pm | **Discussions**   | |
 11:00am | | **Develop a plan to write a white paper/position paper on how to reuse Veterinary EHR and OMOP data**  
