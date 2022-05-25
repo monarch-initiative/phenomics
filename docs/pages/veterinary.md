@@ -96,6 +96,10 @@ Time (MT) | Sesion | Topic | Speaker
 1:00pm | | **Coordinating submission of a U01 proposal amongst participating CTSA organizations**   
 2:00 pm | | Wrap up and Departure | Workshop Organizers  
  
+## Resources
+
+Guidelines/tuotorial on [contributing to ontologies](https://oboacademy.github.io/obook/pathways/ontology-contributor/)
+
 ## COVID-19 policy
 
 - If possible, we request that everyone test for COVID-19 prior to gathering in person for the workshop.
