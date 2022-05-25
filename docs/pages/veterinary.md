@@ -89,7 +89,7 @@ Time (MT) | Sesion | Topic | Speaker
 9:45 am | | **[Annotation of canine/feline genomics state of the art](https://docs.google.com/presentation/d/1A6EGYhY30U7_hDAavoTtq20gUHilBPsGgPjHH4jyMFU/edit)** | Elinor Karlsson   
 **10:15am - 10:35am** | **Session 2 (continued): Veterinary EHR & OMOP**  | |
 10:15am | | **[ZIMS](https://species360.zoom.us/rec/play/9BPx5IUTwkc73PL1pMqlBsHwGTy6Oe5WxLVSkDhwRcgj9mUTMnYNnOUcAa4rspiOqealzwY6pHA6qc3l.xtAyfNyyVM910zRx?continueMode=true&_x_zm_rtaid=S-tJXFl_S6mpDRXdlXb-RQ.1653235947019.ef23e7b5b885d985ea60331af5b594cb&_x_zm_rhtaid=177)** | Rachel Thompson (pre-recorded) 
-**10:35am - 11:00am** |  | **[Flash talks](https://docs.google.com/presentation/d/1Hemh8Py2Ku0ekUm60GiDXM8_QURAnVE0nBqBZORqruU/edit#slide=id.g12b3199395e_0_238)
+**10:35am - 11:00am** |  | **[Flash talks](https://docs.google.com/presentation/d/1Hemh8Py2Ku0ekUm60GiDXM8_QURAnVE0nBqBZORqruU/edit#slide=id.g12b3199395e_0_238)**
 11:00am - 12:00pm | **Discussions**   | |
 11:00am | | **Develop a plan to write a white paper/position paper on how to reuse Veterinary EHR and OMOP data**  
 **12:00pm - 1:00pm** | **Lunch**  | |
