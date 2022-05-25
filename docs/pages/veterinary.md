@@ -84,7 +84,7 @@ Time (MT) | Sesion | Topic | Speaker
 8:00am | **Arrival and Breakfast** | |
 9:00 am | | **Recap of Day 1** | Workshop Organizers   
 **9:15am - 9:45am** | **Session 5: What types of animal data are available and where are they stored?** | |   
-9:15 am | | **[COHA OH Datasets initiative](https://docs.google.com/presentation/d/1ahORLYa5iz6s7aLFLCi_M7uxom0N58D8/edit#slide=id.p1)** | Joe Strecker and Tracy Webb   
+9:15 am | | **[COHA OH Datasets initiative](https://docs.google.com/presentation/d/18TcodxCIBZMQH9hohma6Uqm7gY_IzVa2/edit#slide=id.p1)** | Joe Strecker and Tracy Webb   
 **9:45am - 10:15am** | **Session 6: Data annotations**  | |
 9:45 am | | **Annotation of canine/feline genomics state of the art** | Elinor Karlsson      
 **10:15am - 11:00am** |  | **[Flash talks](https://docs.google.com/presentation/d/1Hemh8Py2Ku0ekUm60GiDXM8_QURAnVE0nBqBZORqruU/edit#slide=id.g12b3199395e_0_238) and [Contributing to ontologies](https://oboacademy.github.io/obook/pathways/ontology-contributor/)** | Nicole Vasilevsky
