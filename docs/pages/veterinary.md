@@ -84,7 +84,7 @@ Time (MT) | Sesion | Topic | Speaker
 8:00am | **Arrival and Breakfast** | |
 9:00 am | | **Recap of Day 1** | Workshop Organizers   
 **9:15am - 9:45am** | **Session 5: What types of animal data are available and where are they stored?** | |   
-9:15 am | | **[COHA OH Datasets initiative - Tracy Webb](https://docs.google.com/presentation/d/18TcodxCIBZMQH9hohma6Uqm7gY_IzVa2/edit#slide=id.p1)** and **[COHA ONE HEALTH DATASETS INITIATIVE - Joe Strecker](https://docs.google.com/presentation/d/1Na2vDX6PmLrRTHWE3cInw2y1aQNV_clA/edit#slide=id.p1)** | Joe Strecker and Tracy Webb   
+9:15 am | | **[COHA OH Datasets initiative - Tracy Webb](https://docs.google.com/presentation/d/18TcodxCIBZMQH9hohma6Uqm7gY_IzVa2/edit#slide=id.p1)** and **[COHA ONE HEALTH DATASETS INITIATIVE - Joe Strecker](https://docs.google.com/presentation/d/1Na2vDX6PmLrRTHWE3cInw2y1aQNV_clA/edit#slide=id.p1)** | Joe Strecker and Tracy Webb | [Here](https://drive.google.com/file/d/13oSWhZtkU6nSjXw1_iOpE4RUYvhtUOOK/view?usp=sharing)    
 **9:45am - 10:15am** | **Session 6: Data annotations**  | |
 9:45 am | | **[Annotation of canine/feline genomics state of the art](https://docs.google.com/presentation/d/1A6EGYhY30U7_hDAavoTtq20gUHilBPsGgPjHH4jyMFU/edit)** | Elinor Karlsson   
 **10:15am - 10:35am** | **Session 2 (continued): Veterinary EHR & OMOP**  | |
