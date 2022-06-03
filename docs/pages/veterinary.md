@@ -55,9 +55,9 @@ Time (MT) | Sesion | Topic | Speaker | Recording
 **9:45am - 12pm** | **Session 1: Intro to Ontologies, Knowledge Graphs & Latest Veterinary Science Updates**  | | 
 9:45am | | **[Introduction to Ontologies](https://docs.google.com/presentation/d/1-H7nU6Kj0nJJxMLzr67PFDw4nir9Ejqv3TyTj9qF1cQ/edit#slide=id.p1)** | Nicole Vasilevsky   
 10:00am | | **[How to use knowledge graphs](https://docs.google.com/presentation/d/1V8mh-g0dgWXwwx4DWwvoBm557V6wHKEbMPvZ7rexyEw/edit#slide=id.g11c4ef76adc_0_685)** | Anne Thessen | [Here](https://drive.google.com/file/d/1ZhOfOEnnJav-u94hc2IIKQA_LtB5Xlrq/view?usp=sharing)
-10:15am | | **[Disease and phenotype ontology annotations for different breeds](https://docs.google.com/presentation/d/1k1t7e2obHZHXc0WCrq99rPnmHlKsBLWMKuTVB1lPgUU/edit)**  | Nico Matentzoglu (Virtual) 
-10:30am | | **[Report out from National Academies veterinary workshop 2021](https://docs.google.com/presentation/d/1B5NeVZGhbv2ppQgoJQXO5QrPDC9jIR4q/edit#slide=id.p1)** | Wendy Shelton  
-11:00am | | **[Genetic Basis of companion animal cardiolovascular disease](https://docs.google.com/presentation/d/13H8PNRghMiuM0FVGEYesNQrhhJREWpzx/edit#slide=id.p1)** | Kate Meurs (Virtual)   
+10:15am | | **[Disease and phenotype ontology annotations for different breeds](https://docs.google.com/presentation/d/1k1t7e2obHZHXc0WCrq99rPnmHlKsBLWMKuTVB1lPgUU/edit)**  | Nico Matentzoglu (Virtual) | [Here](https://drive.google.com/file/d/1ZhOfOEnnJav-u94hc2IIKQA_LtB5Xlrq/view?usp=sharing)  
+10:30am | | **[Report out from National Academies veterinary workshop 2021](https://docs.google.com/presentation/d/1B5NeVZGhbv2ppQgoJQXO5QrPDC9jIR4q/edit#slide=id.p1)** | Wendy Shelton  | [Here](https://drive.google.com/file/d/1mDml_xtUVdKnWoIz29BzQGD_cI1eRkpJ/view?usp=sharing)  
+11:00am | | **[Genetic Basis of companion animal cardiolovascular disease](https://docs.google.com/presentation/d/13H8PNRghMiuM0FVGEYesNQrhhJREWpzx/edit#slide=id.p1)** | Kate Meurs (Virtual) | [Here](https://drive.google.com/file/d/1VdZl9AzVHtpMngztUn3Thz10Rur1nLKW/view?usp=sharing)  
 11:30am | **Open Discussion**  |
 **12:00pm - 1pm** | **Lunch** | |
 **1:00pm - 1:30pm** | **Session 2: Veterinary EHR & OMOP**  | |
