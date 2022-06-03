@@ -62,7 +62,6 @@ Time (MT) | Sesion | Topic | Speaker | Recording
 **12:00pm - 1pm** | **Lunch** | |
 **1:00pm - 1:30pm** | **Session 2: Veterinary EHR & OMOP**  | |
 1:00pm | | **[Adaptation of OMOP in Veterinary Research](https://docs.google.com/presentation/d/1icanloGbWeRYc-qy3W5WqRC9xZcizaeb/edit#slide=id.p1)** | Manlik Kwong  | [Here](https://drive.google.com/file/d/1ns0mpv30zdm4iZtLvm-vaE8C6wpmqMCv/view?usp=sharing)
-1:15pm | | **[ZIMS](https://species360.zoom.us/rec/play/9BPx5IUTwkc73PL1pMqlBsHwGTy6Oe5WxLVSkDhwRcgj9mUTMnYNnOUcAa4rspiOqealzwY6pHA6qc3l.xtAyfNyyVM910zRx?continueMode=true&_x_zm_rtaid=S-tJXFl_S6mpDRXdlXb-RQ.1653235947019.ef23e7b5b885d985ea60331af5b594cb&_x_zm_rhtaid=177)** | Rachel Thompson (pre-recorded)    
 **1:30pm - 2:00pm** | **Session 3: Cancer Biobanks**  | |  
 1:30pm | | **[Colorado State University Biobank](https://docs.google.com/presentation/d/1_tQu67IVfnRObs0nOT3g7nObQ9eBIFpB/edit#slide=id.p1)** | Sue Lana | [Here](https://drive.google.com/file/d/12-AyXT8QshrcmVeQevkEtit2-fujRNDE/view?usp=sharing)   
 2:00pm | | **Cornell Biobank Project** | Susan Garrison (remote) | [Here](https://drive.google.com/file/d/1m4cDjT_IUzz3BmJQbKe85BNm1jR-i-Xh/view?usp=sharing)   
