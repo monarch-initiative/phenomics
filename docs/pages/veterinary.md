@@ -54,7 +54,7 @@ Time (MT) | Sesion | Topic | Speaker | Recording
 9:15am | |  **Icebreaker** | Led by Anne Thessen and Sarah Gehrke   
 **9:45am - 12pm** | **Session 1: Intro to Ontologies, Knowledge Graphs & Latest Veterinary Science Updates**  | | 
 9:45am | | **[Introduction to Ontologies](https://docs.google.com/presentation/d/1-H7nU6Kj0nJJxMLzr67PFDw4nir9Ejqv3TyTj9qF1cQ/edit#slide=id.p1)** | Nicole Vasilevsky   
-10:00am | | **[How to use knowledge graphs](https://docs.google.com/presentation/d/1V8mh-g0dgWXwwx4DWwvoBm557V6wHKEbMPvZ7rexyEw/edit#slide=id.g11c4ef76adc_0_685)** | Anne Thessen 
+10:00am | | **[How to use knowledge graphs](https://docs.google.com/presentation/d/1V8mh-g0dgWXwwx4DWwvoBm557V6wHKEbMPvZ7rexyEw/edit#slide=id.g11c4ef76adc_0_685)** | Anne Thessen | [Here](https://drive.google.com/file/d/1ZhOfOEnnJav-u94hc2IIKQA_LtB5Xlrq/view?usp=sharing)
 10:15am | | **[Disease and phenotype ontology annotations for different breeds](https://docs.google.com/presentation/d/1k1t7e2obHZHXc0WCrq99rPnmHlKsBLWMKuTVB1lPgUU/edit)**  | Nico Matentzoglu (Virtual) 
 10:30am | | **[Report out from National Academies veterinary workshop 2021](https://docs.google.com/presentation/d/1B5NeVZGhbv2ppQgoJQXO5QrPDC9jIR4q/edit#slide=id.p1)** | Wendy Shelton  
 11:00am | | **[Genetic Basis of companion animal cardiolovascular disease](https://docs.google.com/presentation/d/13H8PNRghMiuM0FVGEYesNQrhhJREWpzx/edit#slide=id.p1)** | Kate Meurs (Virtual)   
@@ -69,9 +69,9 @@ Time (MT) | Sesion | Topic | Speaker | Recording
 **2:30pm - 3:00pm** | **Snack Break**  | |
 **3:00pm - 4:15pm** | **Session 4: Ontologies in Veterinary Science**  | |
 3:00pm | | **[Vertebrate Breed Ontology (VBO)](https://docs.google.com/presentation/d/1tEqZZKnNA0tK1nG8T1TX7nscHdvPlDuSzyEMnaya88E/edit)** | Sabrina Toro | [Here](https://drive.google.com/file/d/1Z0bvk7OL3l_sNwmzi5_Fg0dv6cWU4JDc/view?usp=sharing)
-3:15pm | | **[Canine Phenotype Ontology](https://docs.google.com/presentation/d/1LYin0YxAotY0_bpePWUGrRzL8Jii1XrI/edit)** | Rod Page
-3:30pm | | **[Feline Phenotype Ontology](https://docs.google.com/presentation/d/1XNMlFrOSxpxMmGYDP8z4JhaXsSngQMhW/edit#slide=id.p1)** | Lesley Lyons    
-3:45pm  | | **[Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals](https://docs.google.com/presentation/d/10xzywrq0KVf7CDwFHkB9rmCKX7tUvSHf/edit#slide=id.p1)** | Imke Tammen and Frank Nicholas (Virtual)  
+3:15pm | | **[Canine Phenotype Ontology](https://docs.google.com/presentation/d/1LYin0YxAotY0_bpePWUGrRzL8Jii1XrI/edit)** | Rod Page | [Here](https://drive.google.com/file/d/10F6wI2x2qdIkTITfvap9-Eas2P8Cf2P3/view?usp=sharing)  
+3:30pm | | **[Feline Phenotype Ontology](https://docs.google.com/presentation/d/1XNMlFrOSxpxMmGYDP8z4JhaXsSngQMhW/edit#slide=id.p1)** | Lesley Lyons | [Here](https://drive.google.com/file/d/1sn6W9wa_yZISIYcrDB_iWgvngZtXfyf0/view?usp=sharing)    
+3:45pm  | | **[Applying breed and phene ontologies to reporting and analysis of inherited conditions in animals](https://docs.google.com/presentation/d/10xzywrq0KVf7CDwFHkB9rmCKX7tUvSHf/edit#slide=id.p1)** | Imke Tammen and Frank Nicholas (Virtual) | [Here](https://drive.google.com/file/d/1n3neBQ_r1bEyhs6huo6eSKBMog_o9v0U/view?usp=sharing)   
 **4:15pm - 5:00pm** | **Discussion** | |
 4:15pm | | **Masterminding our discussions** | Monica Munoz-Torres   
 4:20pm | | **Assessment of the state of available veterinary EHR data** | All
