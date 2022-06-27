@@ -14,9 +14,9 @@ The workshop will consist of 3 introductory talks on the ICD-11 serialization an
 
 ### Monday, August 15, 2022
 
-Time (MT) | Sesion | Topic | Speaker
+Time (ET) | Sesion | Topic | Speaker
 -- | -- | -- | --
-9:00am | **Welcome Message** | Organizing Committee
+9:00am | **Welcome Message** | Organizing Committee | |
 9:15am | **Introduction** | ICD-11 Serialization and Nomenclature | Christopher Chute
 9:45am | **Introduction** | ClinGen Disease Naming Preliminary guidance | Cortney Thaxton
 10:15 am | **Break** | |
@@ -26,7 +26,8 @@ Time (MT) | Sesion | Topic | Speaker
 1:30 - 5 pm | **Discussions** | Work together through example issues | Everyone
 
 ### Tuesday, August 16, 2022
-Time (MT) | Sesion | Topic | Speaker
+
+Time (ET) | Sesion | Topic | Speaker
 -- | -- | -- | --
 9:00 am - 12 pm | **Discussions** | Work together through example issues | Everyone
 1:30 pm - 5 pm | **Planning next steps** | Outlining community-wide governance for disease naming | Everyone
