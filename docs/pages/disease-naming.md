@@ -32,6 +32,12 @@ Time (ET) | Sesion | Topic | Speaker
 9:00 am - 12 pm | **Discussions** | Work together through example issues | Everyone
 1:30 pm - 5 pm | **Planning next steps** | Outlining community-wide governance for disease naming | Everyone
 
+## Registration 
+A $50 registration fee will be collected on site for those attending in person. This fee is reimbursable.
+
+## Financial support
+With funds from a conference-centric grant from NIH BD2K, we plan to cover the costs of flights, hotels, and per diem for some of our participants. We encourage and welcome our junior scientists and trainees to reach out to us with inquiries about covering your travel costs.
+
 ## Workshop organizers
 - **Monica Munoz-Torres**, University of Colorado Anschutz Medical Campus
 - **Melissa Haendel**, University of Colorado Anschutz Medical Campus
@@ -47,12 +53,11 @@ Time (ET) | Sesion | Topic | Speaker
 
 ## COVID-19 policy
 
-Our workshop will be held at Johns Hopkins University, and we will observe their public health guidelines. Please check the latest updates at https://covidinfo.jhu.edu.
-Please note that, given ever changing conditions of the virus and its spread, JHU guidelines on COVID-19 may change at any time.  
+Our workshop will be held at Johns Hopkins University, and we will observe their public health guidelines. Please check the latest updates at [https://covidinfo.jhu.edu](https://covidinfo.jhu.edu). Please note that, given ever changing conditions of the virus and its spread, JHU guidelines on COVID-19 may change at any time.  
 
 ## Code of Conduct
 
-Under Construction 
+Please read our Code of Conduct prior to attending the workshop, [available here](pages/phenomics-coc.md).
 
 ## Funding
-This workshop is supported by an NIH BD2K conference grant “Forums for Integrative phenomics” to Drs. Melissa Haendel and Peter Robinson: U13CA221044.
+This workshop is supported by an NIH BD2K conference grant “Forums for Integrative phenomics” to Drs. Melissa Haendel and Peter Robinson: U13 CA221044.
