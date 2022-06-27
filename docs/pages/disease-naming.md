@@ -57,7 +57,7 @@ Our workshop will be held at Johns Hopkins University, and we will observe their
 
 ## Code of Conduct
 
-Please read our Code of Conduct prior to attending the workshop, [available here](pages/phenomics-coc.md).
+Please read our Code of Conduct prior to attending the workshop, [available here](/phenomics-coc.md).
 
 ## Funding
 This workshop is supported by an NIH BD2K conference grant “Forums for Integrative phenomics” to Drs. Melissa Haendel and Peter Robinson: U13 CA221044.
