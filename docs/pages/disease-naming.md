@@ -7,7 +7,7 @@ August 15-16, 2022 | 9am - 5pm |  Johns Hopkins University, Baltimore, MD
 ## Background & Intended Audience
 The organizing committee, as members of Mondo, ClinGen, OMIM, and the WHO ICD Medical Scientific Advisory Committee, are most interested in joining forces to come up with broad, community level strategies for disease nomenclature. 
 
-This workshop is intended for anyone who participates in the naming of diseases and those who contribute to the development of the Mondo disease ontology. This Includes, but is not limited to, members of the ClinGen, OMIM, GARD, WHO, NIH, and Monarch Initiative communities. All are welcome. 
+This workshop is intended for anyone who participates in the naming of diseases and those who contribute to the development of the [Mondo Disease Ontology](https://mondo.monarchinitiative.org/). This Includes, but is not limited to, members of the ClinGen, OMIM, GARD, WHO, NIH, and Monarch Initiative communities. All are welcome. 
   
 ## Agenda
 The workshop will consist of 3 introductory talks on the ICD-11 serialization and nomenclature work, the latest ClinGen Disease Naming Guidelines, and the Current Mondo process for creating, and managing disease names. The remaining time, over the two days of the workshop, will be used to foster discussions over examples of the most challenging issues, and define our approach to achieve community-level agreement on disease naming governance. 
