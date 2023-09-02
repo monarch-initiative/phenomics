@@ -2,9 +2,9 @@
 
 Date | Day | Time (MT) | Location (Virtual option will be available*)
 -- | -- | -- | --
-Sept 23, 2023 | Saturday | 9am - 5pm | [Venue](link TBD) 
-Sept 24, 2023 | Sunday | 9am - 5pm | [Venue](link TBD)
-Sept 25, 2023 | Monday | 9am - 3pm | [Venue](link TBD)
+Sept 23, 2023 | Saturday | 9am - 5pm | Venue (TBD)
+Sept 24, 2023 | Sunday | 9am - 5pm | Venue (TBD)
+Sept 25, 2023 | Monday | 9am - 3pm | Venue (TBD)
 
 ***Zoom link** will be shared with registered guests.
 
@@ -73,7 +73,7 @@ Mon, Sept 25 | 9:00 am - 5 pm | Day 3
 
 ## Code of Conduct
 
-[Available here](link TBD) 
+Link TBD
 
 ## Funding
 This workshop is supported by the NIH BD2K conference grant “Forums for Integrative Phenomics” to Melissa Haendel and Peter Robinson: U13CA221044.
